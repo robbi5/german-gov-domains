@@ -31,7 +31,7 @@ To run the scraper yourself, checkout this repository and run:
 
 ## Contributing
 
-I'd love to have some help with this! Please feel free to [create an issue](/issues) or [submit a pull request](/pulls) if you notice something that can be better. Specifically, suggesting additional pages we can scrape and domains that are either not found or have incorrect organization names associated with them would be very helpful.
+I'd love to have some help with this! Please feel free to [create an issue](https://github.com/robbi5/german-gov-domains/issues) or [submit a pull request](https://github.com/robbi5/german-gov-domains/pulls) if you notice something that can be better. Specifically, suggesting additional pages we can scrape and domains that are either not found or have incorrect organization names associated with them would be very helpful.
 
 ## Ideas
 
