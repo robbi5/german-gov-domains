@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'bundler/setup'
 require 'mechanize'
+require 'csv'
 
 CATEGORIES = [
   'oberstebundesbehoerde',
@@ -25,7 +26,7 @@ def scrape_page(page)
 
     next if domain.nil? || domain == ''
 
-    puts "#{domain},\"#{name}\""
+    puts [domain, name].to_csv
   end
 end
 
