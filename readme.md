@@ -22,7 +22,7 @@ This is by no means an official or a complete list. It is intended to be a first
 
 ## How to use
 
-The list is populated by a scraper, written in ruby, that crawls a official government agency list.
+The list is populated by a scraper, written in ruby, that crawls an [official government agency list](http://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641514).
 
 To run the scraper yourself, checkout this repository and run:
 
