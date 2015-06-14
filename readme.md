@@ -38,6 +38,7 @@ I'd love to have some help with this! Please feel free to [create an issue](http
 * scrape even more domains
   * scrape news articles on already known government sites
   * use the list of projects using the [Government Site Builder](https://www.bva.bund.de/DE/Organisation/Abteilungen/Abteilung_BIT/Leistungen/IT_Produkte/GSB/Referenzen/Alle/node.html)
+  * use a wikidata query to get the website property of agencies listed in wikipedia [category](https://de.wikipedia.org/wiki/Kategorie:Bundesbeh%C3%B6rde_(Deutschland)) [pages](https://de.wikipedia.org/wiki/Kategorie:Beh%C3%B6rde_(Deutschland))
 * manual collection
   * try to get some domains with an [freedom of information request](https://fragdenstaat.de)
   * look for domains in [minor interpellations](https://kleineanfragen.de)
