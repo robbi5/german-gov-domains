@@ -14,7 +14,7 @@ This is by no means an official or a complete list. It is intended to be a first
 
 ## What can I do with it?
 
-* Plug the CSV into https://github.com/18F/domain-scan to get more data (like HTTPS support) about the domains.
+* Plug the CSV into [18F/domain-scan](https://github.com/18F/domain-scan) to get more data (like HTTPS support) about the domains
 * Check the IPv6 reachability
 * Test if the sites are reachable even without the `www.` subdomain
 * ...?
@@ -45,4 +45,4 @@ I'd love to have some help with this! Please feel free to [create an issue](http
 
 ## Thanks
 
-Thanks to [@esonderegger](https://github.com/esonderegger) for the [dotmil domains project](https://github.com/esonderegger/dotmil-domains) that acted as an template for this repo.
+Thanks to [@esonderegger](https://github.com/esonderegger) for the [dotmil domains project](https://github.com/esonderegger/dotmil-domains) that served as an template for this repo.
