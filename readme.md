@@ -22,12 +22,19 @@ This is by no means an official or a complete list. It is intended to be a first
 
 ## How to use
 
-The list is populated by a scraper, written in ruby, that crawls an [official government agency list](http://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641514).
-
-To run the scraper yourself, checkout this repository and run:
+The list is populated by scrapers and static files and merged by a makefile.
+To run the process yourself, checkout this repository and run:
 
     bundle install
-    ruby ./bundde-behoerden-scraper.rb > data/domains.csv
+    make
+
+After everything ran, you can look into `data/domains.csv`.
+
+## Scrapers and Sources
+
+* `bundde-behoerden-scraper.rb`: crawls an [official government agency list](http://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641514).
+* `data/source/ifg-bmvi.csv`: is a list from BMVI, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form/)
+* `data/source/overrides.csv`: manually curated list of domains for which the scraper returns a wrong agency name
 
 ## Contributing
 

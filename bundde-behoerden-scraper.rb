@@ -15,6 +15,10 @@ URL = "https://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641496&c
 
 @mech = Mechanize.new
 
+def clean_domain(domain)
+  domain.downcase.gsub(/^www./, '')
+end
+
 def scrape_page(page)
   list_entries = page.search('//ul[@class="result-list"]/li')
   list_entries.each do |entry|
@@ -25,6 +29,8 @@ def scrape_page(page)
     domain = detail_page.search('//div[@class="orgUnitHomepage"]//a').text.strip
 
     next if domain.nil? || domain == ''
+
+    domain = clean_domain(domain)
 
     puts [domain, name].to_csv
   end
