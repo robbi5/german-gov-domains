@@ -3,7 +3,7 @@
 data/source/bundde.csv:
 	ruby bundde-behoerden-scraper.rb | sort -d -f -t',' -k1,1 > $@
 
-data/domains.csv: data/source/bundde.csv data/source/ifg-bmvi.csv
+data/domains.csv: data/source/bundde.csv data/source/ifg-bmvi.csv data/source/ifg-dwd.csv
 	echo Domain Name,Agency > $@
 	grep -h -v '^#' $+ | sort -d -f -t',' -k1,1 --unique data/source/overrides.csv - >> $@
 
