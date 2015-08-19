@@ -35,6 +35,7 @@ After everything ran, you can look into `data/domains.csv`.
 * `bundde-behoerden-scraper.rb`: crawls an [official government agency list](http://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641514).
 * `data/source/ifg-bmvi.csv`: is a list from BMVI, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form/)
 * `data/source/ifg-dwd.csv`: is a list from DWD, aquired with another [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-2/)
+* `data/source/ifg-bmas.csv`: is a list from BMAS, aquired with another [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-1/)
 * `data/source/overrides.csv`: manually curated list of domains for which the scraper returns a wrong agency name
 
 ## Contributing
