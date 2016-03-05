@@ -5,14 +5,16 @@ import sys
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
-infile = open(sys.argv[1])
+for line in sys.stdin:
+	domaininfos=line.strip().split(",")
 
-for line in infile:
 	try:
-		erg=line.decode('utf-8') # check if ascii or utf8.. it will fail if it is ascii
-		domain=unicode(line.strip())
-		print(domain.encode("idna"))
+		erg=domaininfos[0].decode('utf-8') # check if ascii or utf8.. it will fail if it is ascii
+		domain=unicode(domaininfos[0])
+		encodeddomain=domain.encode("idna")
+		domaininfos[0]=encodeddomain
+		print ",".join(domaininfos)
 	except UnicodeError:
-		print line.strip()
+		# after fail just print it 
+		print line
 
-infile.close()
