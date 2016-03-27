@@ -3,7 +3,17 @@ German Government Domains
 
 An incomplete listing of german government domains (and the code for the scraper used to build the list).
 
-You can download the list [as a .csv file](https://raw.githubusercontent.com/robbi5/german-gov-domains/master/data/domains.csv) or **view it with [github's pretty formatting](https://github.com/robbi5/german-gov-domains/blob/master/data/domains.csv)**.
+You can **download the list [as a .csv file](https://raw.githubusercontent.com/robbi5/german-gov-domains/master/data/domains.csv)** or **view it with [github's pretty formatting](https://github.com/robbi5/german-gov-domains/blob/master/data/domains.csv)**.
+
+We try to use the same format as the [US GSA](https://github.com/GSA/data) ([example](https://github.com/GSA/data/blob/e0de99db0e1367e304043e88dbd4da8f391774be/dotgov-domains/2016-01-19-full.csv)), so the CSV file has a header of `Domain Name,Domain Type,Agency,City,State` and currently contains government agencies and cities.
+
+## Variants
+
+If you only want a subset of the available data, variants filtered by `Domain Type` are provided:
+
+* [`data/domains.csv`](data/domains.csv) contains everything
+* [`data/domains.federal.csv`](data/domains.federal.csv) contains only government agencies (`Federal Agency`)
+* [`data/domains.cities.csv`](data/domains.cities.csv) contains only cities (`City`)
 
 ## Why?
 
@@ -20,7 +30,7 @@ This is by no means an official or a complete list. It is intended to be a first
 * ...?
 
 
-## How to use
+## How to update
 
 The list is populated by scrapers and static files and merged by a makefile.
 To run the process yourself, checkout this repository and run:
@@ -33,6 +43,7 @@ After everything ran, you can look into `data/domains.csv`.
 ## Scrapers and Sources
 
 * `bundde-behoerden-scraper.rb`: crawls an [official government agency list](http://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641514).
+* `wikidata-cities.rb`: uses a [sparql query](https://query.wikidata.org) to get cities with their domains from [Wikidata](https://wikidata.org).
 * `data/source/bmf.csv`: list from BMF, manually extracted from their [digital services page on bundesfinanzministerium.de](http://www.bundesfinanzministerium.de/Web/DE/Service/Digitale-Angebote/Digitale-Angebote.html)
 * `data/source/ifg-bmas.csv`: is a list from BMAS, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-1/)
 * `data/source/ifg-bmvi.csv`: is a list from BMVI, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form/)

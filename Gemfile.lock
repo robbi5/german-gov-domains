@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.4.0)
     domain_name (0.5.24)
       unf (>= 0.0.5, < 1.0.0)
     http-cookie (1.0.2)
@@ -30,4 +31,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  addressable (~> 2.4.0)
   mechanize (~> 2.7.3)
+
+BUNDLED WITH
+   1.11.2
