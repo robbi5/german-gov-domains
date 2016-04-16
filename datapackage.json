@@ -1,0 +1,76 @@
+{
+  "name": "german-gov-domains",
+  "title": "German Government Domains",
+  "description": "An unofficial and incomplete list of German Government Domains",
+  "homepage": "https://github.com/robbi5/german-gov-domains",
+  "license": "CC0-1.0",
+  "resources": [
+    {
+      "name": "domains",
+      "title": "contains all german government domains",
+      "path": "data/domains.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "domains-schema"
+    },
+    {
+      "name": "domains.city",
+      "title": "contains only domains of cities",
+      "path": "data/domains.city.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "domains-schema"
+    },
+    {
+      "name": "domains.federal",
+      "title": "contains only domains of federal agencies",
+      "path": "data/domains.federal.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "domains-schema"
+    }
+  ],
+  "schemas": {
+    "domains-schema": {
+      "fields": [
+        {
+          "name": "Domain Name",
+          "type": "string",
+          "constraints": {
+            "required": true,
+            "unique": true
+          }
+        },
+        {
+          "name": "Domain Type",
+          "type": "string",
+          "constraints": {
+            "enum": [
+              "Federal Agency",
+              "City",
+              "County",
+              "Native Sovereign Nation",
+              "State/Local Govt"
+            ]
+          }
+        },
+        {
+          "name": "Agency",
+          "type": "string"
+        },
+        {
+          "name": "City",
+          "type": "string",
+          "rdfType": "http://schema.org/City"
+        },
+        {
+          "name": "State",
+          "type": "string",
+          "rdfType": "http://schema.org/State",
+          "description": "second part of ISO-3166-2:DE"
+        }
+      ],
+      "primaryKey": "Domain Name"
+    }
+  }
+}
