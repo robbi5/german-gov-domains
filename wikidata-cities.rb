@@ -5,17 +5,32 @@ require 'json'
 require 'addressable'
 require 'csv'
 
+SKIP_EMPTY_STATES = true
+
 # Use the Wikidata Query Service (https://query.wikidata.org) to test this:
 QUERY = <<-EOQ.freeze
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+
 SELECT ?website ?name ?state
 WHERE
 {
-  ?q wdt:P31 wd:Q262166 .
+  ?q p:P31 ?statement .
+  ?statement ps:P31/wdt:P279* wd:Q262166 .
+  FILTER NOT EXISTS { ?statement pq:P582 ?x } .  # Without already gone entries (end date)
+  FILTER NOT EXISTS { ?statement pq:P576 ?x } .  # Without already gone entries (dissolved)
   ?q wdt:P856 ?website .
   ?q rdfs:label ?name filter (lang(?name) = "de") .
-  ?q wdt:P131 ?qstate .
-  ?qstate wdt:P31 wd:Q1221156 .
-  ?qstate wdt:P300 ?state .
+
+  OPTIONAL {
+    ?q wdt:P131/wdt:P131* ?qstate .
+    ?qstate wdt:P31 wd:Q1221156 .
+    ?qstate wdt:P300 ?state .
+  }
 }
 EOQ
 
@@ -45,8 +60,11 @@ data = JSON.parse(response)
 data['results']['bindings'].each do |row|
   website = row['website']['value']
   name = row['name']['value']
-  state = row['state']['value']
-  state = strip_iso3166_2_country(state)
+  state = ''
+  state = row['state']['value'] unless row['state'].nil?
+  state = strip_iso3166_2_country(state) unless state.empty?
+
+  next if state.empty? && SKIP_EMPTY_STATES
 
   uri = Addressable::URI.parse(website).normalize
   domain = clean_domain(uri.host)

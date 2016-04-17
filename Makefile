@@ -9,7 +9,7 @@ data/source/bundde.csv:
 	ruby bundde-behoerden-scraper.rb | sort -d -f -t',' -k1,1 > $@
 
 data/source/wikidata.csv:
-	ruby wikidata-cities.rb | sort -d -f -t',' -k1,1 > $@
+	ruby wikidata-cities.rb | sort -d -f -t',' -k1,1 -u > $@
 
 data/domains.csv: data/domains.federal.csv data/domains.city.csv
 	echo ${HEADER} > $@
