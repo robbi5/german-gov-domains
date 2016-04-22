@@ -45,6 +45,7 @@ After everything ran, you can look into `data/domains.csv`.
 * `bundde-behoerden-scraper.rb`: crawls an [official government agency list](http://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641514).
 * `wikidata-cities.rb`: uses a [sparql query](https://query.wikidata.org) to get cities with their domains from [Wikidata](https://wikidata.org).
 * `data/source/bmf.csv`: list from BMF, manually extracted from their [digital services page on bundesfinanzministerium.de](http://www.bundesfinanzministerium.de/Web/DE/Service/Digitale-Angebote/Digitale-Angebote.html)
+* `data/source/ifg-bka.csv`: is a list from BKA, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-des-bundeskriminalamts/)
 * `data/source/ifg-bmas.csv`: is a list from BMAS, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-1/)
 * `data/source/ifg-bmvi.csv`: is a list from BMVI, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form/)
 * `data/source/ifg-bva.csv`: is a list from Bva, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-6/)
