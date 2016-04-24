@@ -15,7 +15,7 @@ data/domains.csv: data/domains.federal.csv data/domains.city.csv
 	echo ${HEADER} > $@
 	tail -q -n +2 $+ | sed '/^$$/d' >> $@
 
-data/domains.federal.csv: data/source/bundde.csv data/source/ifg-bmvi.csv data/source/ifg-dwd.csv data/source/ifg-bka.csv data/source/ifg-bmas.csv data/source/ifg-bva.csv data/source/bmf.csv
+data/domains.federal.csv: data/source/bundde.csv data/source/ifg-bmvi.csv data/source/ifg-dwd.csv data/source/ifg-bka.csv data/source/ifg-bmas.csv data/source/ifg-bt.csv data/source/ifg-bva.csv data/source/bmf.csv
 	echo ${HEADER} > $@
 	LC_ALL=C sed '1d' data/source/overrides.csv > data/source/overrides.csv.tmp
 	grep -h -v '^#' $+ | LC_ALL=C sort -d -f -t',' -k1,1 --unique data/source/overrides.csv.tmp - | python punycode.py | sed 's/,/,Federal Agency,/; s/$$/,,/' >> $@

@@ -48,6 +48,7 @@ After everything ran, you can look into `data/domains.csv`.
 * `data/source/ifg-bka.csv`: is a list from BKA, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-des-bundeskriminalamts/)
 * `data/source/ifg-bmas.csv`: is a list from BMAS, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-1/)
 * `data/source/ifg-bmvi.csv`: is a list from BMVI, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form/)
+* `data/source/ifg-bt.csv`: is a list from Bundestag, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/online-und-social-media-prasenz-des-deutschen-bundestages/)
 * `data/source/ifg-bva.csv`: is a list from Bva, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-6/)
 * `data/source/ifg-dwd.csv`: is a list from DWD, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-2/)
 * `data/source/overrides.csv`: manually curated list of domains for which the scraper returns a wrong agency name
