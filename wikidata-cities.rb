@@ -26,11 +26,20 @@ WHERE
   ?q wdt:P856 ?website .
   ?q rdfs:label ?name filter (lang(?name) = "de") .
 
-  OPTIONAL {
-    ?q wdt:P131/wdt:P131* ?qstate .
+  {
+    ?q wdt:P131 ?qstate .
     ?qstate wdt:P31 wd:Q1221156 .
-    ?qstate wdt:P300 ?state .
+  } UNION {
+    ?q wdt:P131/wdt:P131 ?qstate .
+    ?qstate wdt:P31 wd:Q1221156 .
+  } UNION {
+    ?q wdt:P131/wdt:P131/wdt:P131 ?qstate .
+    ?qstate wdt:P31 wd:Q1221156 .
+  } UNION {
+    ?q wdt:P131/wdt:P131/wdt:P131/wdt:P131 ?qstate .
+    ?qstate wdt:P31 wd:Q1221156 .
   }
+  ?qstate wdt:P300 ?state .
 }
 EOQ
 
