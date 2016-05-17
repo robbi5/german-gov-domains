@@ -52,6 +52,7 @@ After everything ran, you can look into `data/domains.csv`.
 * `data/source/ifg-bva.csv`: is a list from Bva, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-6/)
 * `data/source/ifg-dwd.csv`: is a list from DWD, aquired with a [freedom of information request](https://fragdenstaat.de/anfrage/registrierte-domains-in-maschinenlesbarer-form-2/)
 * `data/source/overrides.csv`: manually curated list of domains for which the scraper returns a wrong agency name
+* `data/source/reverse-dns.csv`: DNS lookup of 77.87.224.0/21, sites manually visited and picked
 
 ## Contributing
 
