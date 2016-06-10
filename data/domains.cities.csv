@@ -83,6 +83,7 @@ aldenhoven.de,City,Non-Federal Agency,Aldenhoven,NW
 aldersbach.de,City,Non-Federal Agency,Aldersbach,BY
 aldingen.de,City,Non-Federal Agency,Aldingen,BW
 alerheim.de,City,Non-Federal Agency,Alerheim,BY
+alesheim.de,City,Non-Federal Agency,Alesheim,BY
 aletshausen.de,City,Non-Federal Agency,Aletshausen,BY
 alfdorf.de,City,Non-Federal Agency,Alfdorf,BW
 alfeld.de,City,Non-Federal Agency,Alfeld,NI
@@ -140,7 +141,7 @@ altenburg.eu,City,Non-Federal Agency,Altenburg,TH
 altendiez.de,City,Non-Federal Agency,Altendiez,RP
 altendorf-gemeinde.de,City,Non-Federal Agency,Altendorf,BY
 altenfeld-thueringen.de,City,Non-Federal Agency,Altenfeld,TH
-altenglan.de,City,Non-Federal Agency,Oberstaufenbach,RP
+altenglan.de,City,Non-Federal Agency,Altenglan,RP
 altengottern-thueringen.de,City,Non-Federal Agency,Altengottern,TH
 altenholz.de,City,Non-Federal Agency,Altenholz,SH
 altenkirchen-pfalz.de,City,Non-Federal Agency,Altenkirchen (Pfalz),RP
@@ -148,7 +149,7 @@ altenkunstadt.de,City,Non-Federal Agency,Altenkunstadt,BY
 altenmarkt.de,City,Non-Federal Agency,Altenmarkt an der Alz,BY
 altenmedingen.de,City,Non-Federal Agency,Altenmedingen,NI
 altenmuenster.de,City,Non-Federal Agency,Altenmünster,BY
-altenpleen.de,City,Non-Federal Agency,Altenpleen,MV
+altenpleen.de,City,Non-Federal Agency,Preetz,MV
 altenriet.de,City,Non-Federal Agency,Altenriet,BW
 altenstadt.de,City,Non-Federal Agency,Altenstadt,HE
 altenstadt-obb.de,City,Non-Federal Agency,Altenstadt,BY
@@ -156,9 +157,10 @@ altenstadt-vg.de,City,Non-Federal Agency,Altenstadt,BY
 altenstadt-waldnaab.de,City,Non-Federal Agency,Altenstadt an der Waldnaab,BY
 altensteig.de,City,Non-Federal Agency,Altensteig,BW
 altenthann.de,City,Non-Federal Agency,Altenthann,BY
-altentreptow.de,City,Non-Federal Agency,Breesen,MV
+altentreptow.de,City,Non-Federal Agency,Röckwitz,MV
 alterkuelz.de,City,Non-Federal Agency,Alterkülz,RP
 altersbach.net,City,Non-Federal Agency,Altersbach,TH
+altertheim.de,City,Non-Federal Agency,Altertheim,BY
 althegnenberg.de,City,Non-Federal Agency,Althegnenberg,BY
 altheim-alb.de,City,Non-Federal Agency,Altheim (Alb),BW
 altheim-info.de,City,Non-Federal Agency,Altheim,BW
@@ -202,20 +204,20 @@ amt-anklam-land.de,City,Non-Federal Agency,Spantekow,MV
 amt-bad-bramstedt-land.de,City,Non-Federal Agency,Mönkloh,SH
 amt-bad-oldesloe-land.de,City,Non-Federal Agency,Neritz,SH
 amt-badwilsnack-weisen.de,City,Non-Federal Agency,Breese,BB
-amt-barth.de,City,Non-Federal Agency,Divitz-Spoldershagen,MV
+amt-barth.de,City,Non-Federal Agency,Kenz-Küstrow,MV
 amt-bco.de,City,Non-Federal Agency,Lunow-Stolzenhagen,BB
-amt-bergen-auf-ruegen.de,City,Non-Federal Agency,Ralswiek,MV
+amt-bergen-auf-ruegen.de,City,Non-Federal Agency,Rappin,MV
 amt-berkenthin.de,City,Non-Federal Agency,Kastorf,SH
-amtboizenburgland.de,City,Non-Federal Agency,Neu Gülze,MV
-amt-bokhorst-wankendorf.de,City,Non-Federal Agency,Rendswühren,SH
+amtboizenburgland.de,City,Non-Federal Agency,Gresse,MV
+amt-bokhorst-wankendorf.de,City,Non-Federal Agency,Belau,SH
 amt-boostedt-rickling.de,City,Non-Federal Agency,Daldorf,SH
 amt-bornhoeved.de,City,Non-Federal Agency,Gönnebek,SH
-amt-breitenburg.de,City,Non-Federal Agency,Moordiek,SH
+amt-breitenburg.de,City,Non-Federal Agency,Breitenberg,SH
 amt-brueck.de,City,Non-Federal Agency,Brück,BB
 amt-bruessow.de,City,Non-Federal Agency,Schenkenberg,BB
 amt-buechen.eu,City,Non-Federal Agency,Büchen,SH
 amt-buesum-wesselburen.de,City,Non-Federal Agency,Büsum,SH
-amt-buetzow-land.de,City,Non-Federal Agency,Jürgenshagen,MV
+amt-buetzow-land.de,City,Non-Federal Agency,Baumgarten,MV
 amt-burg-spreewald.de,City,Non-Federal Agency,Dissen-Striesow,BB
 amt-burg-st-michaelisdonn.de,City,Non-Federal Agency,Dingen,SH
 amtcarbaek.de,City,Non-Federal Agency,Broderstorf,MV
@@ -225,16 +227,16 @@ amt-daenischer-wohld.de,City,Non-Federal Agency,Tüttendorf,SH
 amt-demmin-land.de,City,Non-Federal Agency,Beggerow,MV
 amt-doberan-land.de,City,Non-Federal Agency,Hohenfelde,MV
 amt-doebern-land.de,City,Non-Federal Agency,Felixsee,BB
-amtdoemitz-malliss.de,City,Non-Federal Agency,Malk Göhren,MV
-amt-dorfmecklenburg-badkleinen.de,City,Non-Federal Agency,Barnekow,MV
-amt-eggebek.de,City,Non-Federal Agency,Süderhackstedt,SH
-amt-eider.de,City,Non-Federal Agency,Gaushorn,SH
-amt-eiderkanal.de,City,Non-Federal Agency,Rade b. Rendsburg,SH
-amt-eiderstedt.de,City,Non-Federal Agency,Westerhever,SH
-amt-eldenburg-luebz.de,City,Non-Federal Agency,Kreien,MV
+amtdoemitz-malliss.de,City,Non-Federal Agency,Grebs-Niendorf,MV
+amt-dorfmecklenburg-badkleinen.de,City,Non-Federal Agency,Metelsdorf,MV
+amt-eggebek.de,City,Non-Federal Agency,Janneby,SH
+amt-eider.de,City,Non-Federal Agency,Sankt Annen,SH
+amt-eiderkanal.de,City,Non-Federal Agency,Haßmoor,SH
+amt-eiderstedt.de,City,Non-Federal Agency,Osterhever,SH
+amt-eldenburg-luebz.de,City,Non-Federal Agency,Gischow,MV
 amt-fahoe.de,City,Non-Federal Agency,Falkenberg,BB
-amt-ferdinandshof.de,City,Non-Federal Agency,Wilhelmsburg,MV
-amt-foehr-amrum.de,City,Non-Federal Agency,Nebel,SH
+amt-ferdinandshof.de,City,Non-Federal Agency,Heinrichswalde,MV
+amt-foehr-amrum.de,City,Non-Federal Agency,Alkersum,SH
 amt-franzburg-richtenberg.de,City,Non-Federal Agency,Velgast,MV
 amt-friesack.de,City,Non-Federal Agency,Wiesenaue,BB
 amt-geltingerbucht.de,City,Non-Federal Agency,Rabenholz,SH
@@ -242,82 +244,82 @@ amt-gerswalde.de,City,Non-Federal Agency,Milmersdorf,BB
 amt-gnoien.de,City,Non-Federal Agency,Boddin,MV
 amt-goldberg-mildenitz.de,City,Non-Federal Agency,Dobbertin,MV
 amt-golssener-land.de,City,Non-Federal Agency,Golßen,BB
-amt-golzow.de,City,Non-Federal Agency,Zechin,BB
-amtgramzow.de,City,Non-Federal Agency,Uckerfelde,BB
+amt-golzow.de,City,Non-Federal Agency,Alt Tucheband,BB
+amtgramzow.de,City,Non-Federal Agency,Zichow,BB
 amt-grosser-ploener-see.de,City,Non-Federal Agency,Rantzau,SH
-amt-guestrow-land.de,City,Non-Federal Agency,Klein Upahl,MV
-amt-hagenow-land.de,City,Non-Federal Agency,Gammelin,MV
-amt-heider-umland.de,City,Non-Federal Agency,Stelle-Wittenwurth,SH
+amt-guestrow-land.de,City,Non-Federal Agency,Lüssow,MV
+amt-hagenow-land.de,City,Non-Federal Agency,Redefin,MV
+amt-heider-umland.de,City,Non-Federal Agency,Norderwöhrden,SH
 amt-hoernerkirchen.de,City,Non-Federal Agency,Osterhorn,SH
 amt-hohner-harde.de,City,Non-Federal Agency,Elsdorf-Westermühlen,SH
 amt-horst-herzhorn.de,City,Non-Federal Agency,Borsfleth,SH
 amt-huettener-berge.de,City,Non-Federal Agency,Hütten,SH
-amt-itzehoe-land.de,City,Non-Federal Agency,Hodorf,SH
-amt-jarmen-tutow.de,City,Non-Federal Agency,Alt Tellin,MV
+amt-itzehoe-land.de,City,Non-Federal Agency,Winseldorf,SH
+amt-jarmen-tutow.de,City,Non-Federal Agency,Bentzin,MV
 amt-jevenstedt.de,City,Non-Federal Agency,Luhnstedt,SH
 amt-joachimsthal.de,City,Non-Federal Agency,Friedrichswalde,BB
-amt-kellinghusen.de,City,Non-Federal Agency,Poyenberg,SH
+amt-kellinghusen.de,City,Non-Federal Agency,Mühlenbarbek,SH
 amt-kisdorf.de,City,Non-Federal Agency,Hüttblek,SH
 amt-krakow-am-see.de,City,Non-Federal Agency,Hoppenrade,MV
 amt-krempermarsch.de,City,Non-Federal Agency,Elskop,SH
 amt-laage.de,City,Non-Federal Agency,Dolgen am See,MV
 amt-landhagen.de,City,Non-Federal Agency,Mesekenhagen,MV
-amtlandschaftsylt.de,City,Non-Federal Agency,List auf Sylt,SH
-amt-lauenburgische-seen.de,City,Non-Federal Agency,Mustin,SH
+amtlandschaftsylt.de,City,Non-Federal Agency,Wenningstedt-Braderup (Sylt),SH
+amt-lauenburgische-seen.de,City,Non-Federal Agency,Giesensdorf,SH
 amt-lebus.de,City,Non-Federal Agency,Lebus,BB
-amt-leezen.de,City,Non-Federal Agency,Schwissel,SH
+amt-leezen.de,City,Non-Federal Agency,Todesfelde,SH
 amt-lieberose-oberspreewald.de,City,Non-Federal Agency,Jamlitz,BB
 amt-lindow-mark.de,City,Non-Federal Agency,Vielitzsee,BB
 amtlubmin.de,City,Non-Federal Agency,Rubenow,MV
-amt-ludwigslust-land.de,City,Non-Federal Agency,Rastow,MV
-amt-luetjenburg.de,City,Non-Federal Agency,Helmstorf,SH
+amt-ludwigslust-land.de,City,Non-Federal Agency,Bresegard bei Eldena,MV
+amt-luetjenburg.de,City,Non-Federal Agency,Kirchnüchel,SH
 amt-malchin-am-kummerower-see.de,City,Non-Federal Agency,Faulenrost,MV
 amt-malchow.de,City,Non-Federal Agency,Nossentiner Hütte,MV
-amt-marne-nordsee.de,City,Non-Federal Agency,Diekhusen-Fahrstedt,SH
+amt-marne-nordsee.de,City,Non-Federal Agency,Volsemenhusen,SH
 amt-mecklenburgische-kleinseenplatte.de,City,Non-Federal Agency,Mirow,MV
 amt-mecklenburgische-schweiz.de,City,Non-Federal Agency,Schwasdorf,MV
-amtmeyenburg.de,City,Non-Federal Agency,Kümmernitztal,BB
+amtmeyenburg.de,City,Non-Federal Agency,Halenbeck-Rohlsdorf,BB
 amt-miltzow.de,City,Non-Federal Agency,Wittenhagen,MV
 amt-mittelangeln.de,City,Non-Federal Agency,Mittelangeln,SH
 amt-mittelholstein.de,City,Non-Federal Agency,Rade b. Hohenwestedt,SH
-amt-moenchgut.de,City,Non-Federal Agency,Gager,MV
+amt-moenchgut.de,City,Non-Federal Agency,Thiessow,MV
 amt-moorrege.de,City,Non-Federal Agency,Neuendeich,SH
 amt-nennhausen.de,City,Non-Federal Agency,Märkisch Luch,BB
 amt-neuburg.de,City,Non-Federal Agency,Neuburg,MV
 amt-neuhardenberg.de,City,Non-Federal Agency,Neuhardenberg,BB
 amt-neuhaus.de,City,Non-Federal Agency,Amt Neuhaus,NI
 amtneustrelitz-land.de,City,Non-Federal Agency,Carpin,MV
-amt-neverin.de,City,Non-Federal Agency,Blankenhof,MV
+amtneverin.de,City,Non-Federal Agency,Trollenhagen,MV
 amt-niemegk.de,City,Non-Federal Agency,Niemegk,BB
-amt-niepars.de,City,Non-Federal Agency,Niepars,MV
+amt-niepars.de,City,Non-Federal Agency,Steinhagen,MV
 amt-nord-ruegen.de,City,Non-Federal Agency,Altenkirchen,MV
-amt-nordsee-treene.de,City,Non-Federal Agency,Hattstedtermarsch,SH
-amt-nordstormarn.de,City,Non-Federal Agency,Westerau,SH
+amt-nordsee-treene.de,City,Non-Federal Agency,Fresendelf,SH
+amt-nordstormarn.de,City,Non-Federal Agency,Heidekamp,SH
 amt-nortorfer-land.de,City,Non-Federal Agency,Timmaspe,SH
 amt-oder-welse.de,City,Non-Federal Agency,Berkholz-Meyenburg,BB
 amt-oldenburg-land.de,City,Non-Federal Agency,Neukirchen,SH
-amt-ostholstein-mitte.de,City,Non-Federal Agency,Kasseedorf,SH
-amt-parchimer-umland.de,City,Non-Federal Agency,Zölkow,MV
-amt-pinnau.de,City,Non-Federal Agency,Borstel-Hohenraden,SH
+amt-ostholstein-mitte.de,City,Non-Federal Agency,Altenkrempe,SH
+amt-parchimer-umland.de,City,Non-Federal Agency,Rom,MV
+amt-pinnau.de,City,Non-Federal Agency,Prisdorf,SH
 amtplau.de,City,Non-Federal Agency,Ganzlin,MV
 amtpreetzland.de,City,Non-Federal Agency,Honigsee,SH
-amt-probstei.de,City,Non-Federal Agency,Bendfeld,SH
+amt-probstei.de,City,Non-Federal Agency,Höhndorf,SH
 amtputlitz-berge.de,City,Non-Federal Agency,Putlitz,BB
-amt-rantzau.de,City,Non-Federal Agency,Groß Offenseth-Aspern,SH
+amt-rantzau.de,City,Non-Federal Agency,Bullenkuhlen,SH
 amt-roebel-mueritz.de,City,Non-Federal Agency,Buchholz,MV
 amt-rostocker-heide.de,City,Non-Federal Agency,Rövershagen,MV
 amt-ruhland.de,City,Non-Federal Agency,Hohenbocka,BB
 amt-sandesneben-nusse.de,City,Non-Federal Agency,Poggensee,SH
 amtsberg.eu,City,Non-Federal Agency,Amtsberg,SN
-amt-schafflund.de,City,Non-Federal Agency,Lindewitt,SH
+amt-schafflund.de,City,Non-Federal Agency,Jardelund,SH
 amt-scharmuetzelsee.de,City,Non-Federal Agency,Wendisch Rietz,BB
-amt-schenefeld.de,City,Non-Federal Agency,Kaisborstel,SH
+amt-schenefeld.de,City,Non-Federal Agency,Aasbüttel,SH
 amt-schenkenlaendchen.de,City,Non-Federal Agency,Schwerin,BB
 amt-schlaubetal.de,City,Non-Federal Agency,Ragow-Merz,BB
 amt-schlei-ostsee.de,City,Non-Federal Agency,Barkelsby,SH
 amt-schradenland.de,City,Non-Federal Agency,Merzdorf,BB
 amt-schwaan.de,City,Non-Federal Agency,Wiendorf,MV
-amt-schwarzenbek-land.de,City,Non-Federal Agency,Möhnsen,SH
+amt-schwarzenbek-land.de,City,Non-Federal Agency,Mühlenrade,SH
 amt-seelow-land.de,City,Non-Federal Agency,Lietzen,BB
 amt-seenlandschaft-waren.de,City,Non-Federal Agency,Peenehagen,MV
 amt-selent-schlesen.de,City,Non-Federal Agency,Lammershagen,SH
@@ -325,14 +327,14 @@ amtsiek.de,City,Non-Federal Agency,Brunsbek,SH
 amt-slw.de,City,Non-Federal Agency,Hohen Wangelin,MV
 amt-spreenhagen.de,City,Non-Federal Agency,Spreenhagen,BB
 amt-sternberger-seenlandschaft.de,City,Non-Federal Agency,Dabel,MV
-amt-stralendorf.de,City,Non-Federal Agency,Klein Rogahn,MV
+amt-stralendorf.de,City,Non-Federal Agency,Warsow,MV
 amt-suedangeln.de,City,Non-Federal Agency,Süderfahrenstedt,SH
-amt-suedtondern.de,City,Non-Federal Agency,Humptrup,SH
+amt-suedtondern.de,City,Non-Federal Agency,Ellhöft,SH
 amt-temnitz.de,City,Non-Federal Agency,Märkisch Linden,BB
 amt-trittau.de,City,Non-Federal Agency,Hohenfelde,SH
-amt-uecker-randow-tal.de,City,Non-Federal Agency,Polzow,MV
+amt-uecker-randow-tal.de,City,Non-Federal Agency,Fahrenwalde,MV
 amtusedom.de,City,Non-Federal Agency,Dargen,MV
-amt-usedom-nord.de,City,Non-Federal Agency,Peenemünde,MV
+amt-usedom-nord.de,City,Non-Federal Agency,Mölschow,MV
 amtusedom-sued.de,City,Non-Federal Agency,Koserow,MV
 amt-vioel.de,City,Non-Federal Agency,Bondelum,SH
 amt-wachsenburg.de,City,Non-Federal Agency,Amt Wachsenburg,TH
@@ -368,6 +370,7 @@ anzing.de,City,Non-Federal Agency,Anzing,BY
 apenburg.de,City,Non-Federal Agency,Apenburg-Winterfeld,ST
 apen.de,City,Non-Federal Agency,Apen,NI
 apensen.de,City,Non-Federal Agency,Apensen,NI
+apfeldorf.de,City,Non-Federal Agency,Apfeldorf,BY
 apolda.de,City,Non-Federal Agency,Apolda,TH
 appen.de,City,Non-Federal Agency,Appen,SH
 appenheim.de,City,Non-Federal Agency,Appenheim,RP
@@ -382,7 +385,7 @@ armsheim.de,City,Non-Federal Agency,Armsheim,RP
 armstedt.de,City,Non-Federal Agency,Armstedt,SH
 armstorf.de,City,Non-Federal Agency,Armstorf,NI
 arnbruck.de,City,Non-Federal Agency,Arnbruck,BY
-arneburg-goldbeck.de,City,Non-Federal Agency,Eichstedt,ST
+arneburg-goldbeck.de,City,Non-Federal Agency,Hohenberg-Krusemark,ST
 arnsberg.de,City,Non-Federal Agency,Arnsberg,NW
 arnschwang.de,City,Non-Federal Agency,Arnschwang,BY
 arnstadt.de,City,Non-Federal Agency,Arnstadt,TH
@@ -392,6 +395,7 @@ arnstorf.de,City,Non-Federal Agency,Arnstorf,BY
 arpsdorf.de,City,Non-Federal Agency,Arpsdorf,SH
 arrach.de,City,Non-Federal Agency,Arrach,BY
 artern.de,City,Non-Federal Agency,Artern/Unstrut,TH
+artland.de,City,Non-Federal Agency,Samtgemeinde Artland,NI
 arzbach.de,City,Non-Federal Agency,Arzbach,RP
 arzberg.de,City,Non-Federal Agency,Arzberg,BY
 asbach-baeumenheim.de,City,Non-Federal Agency,Asbach-Bäumenheim,BY
@@ -475,15 +479,16 @@ bad-bevensen.de,City,Non-Federal Agency,Bad Bevensen,NI
 badbirnbach.de,City,Non-Federal Agency,Bad Birnbach,BY
 bad-blankenburg.de,City,Non-Federal Agency,Bad Blankenburg,TH
 badbocklet.de,City,Non-Federal Agency,Bad Bocklet,BY
+bad-bodenteich.de,City,Non-Federal Agency,Lüder,NI
 bad-boll.de,City,Non-Federal Agency,Bad Boll,BW
 badbrambach.de,City,Non-Federal Agency,Bad Brambach,SN
 bad-bramstedt.de,City,Non-Federal Agency,Bad Bramstedt,SH
-bad-breisig.de,City,Non-Federal Agency,Bad Breisig,RP
+bad-breisig.de,City,Non-Federal Agency,Brohl-Lützing,RP
 bad-brueckenau.de,City,Non-Federal Agency,Bad Brückenau,BY
 badbuchau.de,City,Non-Federal Agency,Bad Buchau,BW
 bad-camberg.de,City,Non-Federal Agency,Bad Camberg,HE
 bad-colberg-heldburg.de,City,Non-Federal Agency,Bad Colberg-Heldburg,TH
-baddeckenstedt.de,City,Non-Federal Agency,Haverlah,NI
+baddeckenstedt.de,City,Non-Federal Agency,Baddeckenstedt,NI
 bad-ditzenbach.de,City,Non-Federal Agency,Bad Ditzenbach,BW
 bad-doberan.de,City,Non-Federal Agency,Bad Doberan,MV
 bad-driburg.de,City,Non-Federal Agency,Bad Driburg,NW
@@ -517,7 +522,7 @@ bad-honnef.de,City,Non-Federal Agency,Bad Honnef,NW
 badiburg.de,City,Non-Federal Agency,Bad Iburg,NI
 bad-karlshafen.de,City,Non-Federal Agency,Bad Karlshafen,HE
 badkissingen.de,City,Non-Federal Agency,Bad Kissingen,BY
-bad-klosterlausnitz.de,City,Non-Federal Agency,Bad Klosterlausnitz,TH
+bad-klosterlausnitz.de,City,Non-Federal Agency,Serba,TH
 badkoenig.de,City,Non-Federal Agency,Bad König,HE
 badkoenigshofen.de,City,Non-Federal Agency,Bad Königshofen im Grabfeld,BY
 bad-koetzting.de,City,Non-Federal Agency,Bad Kötzting,BY
@@ -533,7 +538,7 @@ bad-liebenstein.de,City,Non-Federal Agency,Bad Liebenstein,TH
 badliebenwerda.de,City,Non-Federal Agency,Bad Liebenwerda,BB
 bad-liebenzell.de,City,Non-Federal Agency,Bad Liebenzell,BW
 bad-lippspringe.de,City,Non-Federal Agency,Bad Lippspringe,NW
-badmarienberg.de,City,Non-Federal Agency,Bad Marienberg (Westerwald),RP
+bad-marienberg.de,City,Non-Federal Agency,Großseifen,RP
 bad-mergentheim.de,City,Non-Federal Agency,Bad Mergentheim,BW
 bad-muender.de,City,Non-Federal Agency,Bad Münder am Deister,NI
 bad-muenstereifel.de,City,Non-Federal Agency,Bad Münstereifel,NW
@@ -563,7 +568,7 @@ bad-schussenried.de,City,Non-Federal Agency,Bad Schussenried,BW
 bad-schwalbach.de,City,Non-Federal Agency,Bad Schwalbach,HE
 bad-schwartau.de,City,Non-Federal Agency,Bad Schwartau,SH
 bad-segeberg.de,City,Non-Federal Agency,Bad Segeberg,SH
-bad-sobernheim.de,City,Non-Federal Agency,Rehbach,RP
+bad-sobernheim.de,City,Non-Federal Agency,Martinstein,RP
 bad-soden.de,City,Non-Federal Agency,Bad Soden am Taunus,HE
 badsoden-salmuenster.de,City,Non-Federal Agency,Bad Soden-Salmünster,HE
 bad-sooden-allendorf.de,City,Non-Federal Agency,Bad Sooden-Allendorf,HE
@@ -625,7 +630,7 @@ bannewitz.de,City,Non-Federal Agency,Bannewitz,SN
 barbelroth.de,City,Non-Federal Agency,Barbelroth,RP
 barbing.de,City,Non-Federal Agency,Barbing,BY
 barchfeld-immelborn.de,City,Non-Federal Agency,Barchfeld-Immelborn,TH
-bardowick.de,City,Non-Federal Agency,Bardowick,NI
+bardowick.de,City,Non-Federal Agency,Handorf,NI
 barenburg.de,City,Non-Federal Agency,Barenburg,NI
 barendorf.info,City,Non-Federal Agency,Barendorf,NI
 bargenstedt.de,City,Non-Federal Agency,Bargenstedt,SH
@@ -642,6 +647,7 @@ barsinghausen.de,City,Non-Federal Agency,Barsinghausen,NI
 barssel.de,City,Non-Federal Agency,Barßel,NI
 bartholomae.de,City,Non-Federal Agency,Bartholomä,BW
 barum-gemeinde.de,City,Non-Federal Agency,Barum,NI
+barwedel.de,City,Non-Federal Agency,Barwedel,NI
 barweiler.de,City,Non-Federal Agency,Barweiler,RP
 basdahl.de,City,Non-Federal Agency,Basdahl,NI
 basedow-sh.de,City,Non-Federal Agency,Basedow,SH
@@ -680,7 +686,7 @@ beelen.de,City,Non-Federal Agency,Beelen,NW
 beelitz.de,City,Non-Federal Agency,Beelitz,BB
 beerfelden.de,City,Non-Federal Agency,Beerfelden,HE
 beeskow.de,City,Non-Federal Agency,Beeskow,BB
-beetzendorf-diesdorf.de,City,Non-Federal Agency,Dähre,ST
+beetzendorf-diesdorf.de,City,Non-Federal Agency,Rohrberg,ST
 beetzseeheide.org,City,Non-Federal Agency,Beetzseeheide,BB
 behrensdorf-ostsee.de,City,Non-Federal Agency,Behrensdorf,SH
 beiersdorf-ol.de,City,Non-Federal Agency,Beiersdorf,SN
@@ -701,6 +707,7 @@ belm.de,City,Non-Federal Agency,Belm,NI
 belrieth.eu,City,Non-Federal Agency,Belrieth,TH
 beltheim.de,City,Non-Federal Agency,Beltheim,RP
 bempflingen.de,City,Non-Federal Agency,Bempflingen,BW
+bendestorf.de,City,Non-Federal Agency,Bendestorf,NI
 bendorf.de,City,Non-Federal Agency,Bendorf,RP
 bendorf-holstein.de,City,Non-Federal Agency,Bendorf,SH
 benediktbeuern.de,City,Non-Federal Agency,Benediktbeuern,BY
@@ -767,8 +774,9 @@ bernstadt.info,City,Non-Federal Agency,Bernstadt a. d. Eigen,SN
 bernstadt-wuertt.de,City,Non-Federal Agency,Bernstadt,BW
 berod.de,City,Non-Federal Agency,Berod bei Hachenburg,RP
 berschweiler.de,City,Non-Federal Agency,Berschweiler bei Kirn,RP
-bersenbrueck.de,City,Non-Federal Agency,Bersenbrück,NI
+bersenbrueck.de,City,Non-Federal Agency,Samtgemeinde Bersenbrück,NI
 bertsdorf-hoernitz.de,City,Non-Federal Agency,Bertsdorf-Hörnitz,SN
+berumbur.de,City,Non-Federal Agency,Berumbur,NI
 berzhahn.de,City,Non-Federal Agency,Berzhahn,RP
 berzhausen.de,City,Non-Federal Agency,Berzhausen,RP
 bescheid.de,City,Non-Federal Agency,Bescheid,RP
@@ -861,13 +869,14 @@ bissersheim.de,City,Non-Federal Agency,Bissersheim,RP
 bissingen.de,City,Non-Federal Agency,Bissingen,BY
 bissingen-teck.de,City,Non-Federal Agency,Bissingen an der Teck,BW
 bitburg.de,City,Non-Federal Agency,Bitburg,RP
-bitburgerland.de,City,Non-Federal Agency,Rittersdorf,RP
+bitburgerland.de,City,Non-Federal Agency,Echtershausen,RP
 bitburg-land.de,City,Non-Federal Agency,Balesfeld,RP
 bitterfeld-wolfen.de,City,Non-Federal Agency,Bitterfeld-Wolfen,ST
 bitz.de,City,Non-Federal Agency,Bitz,BW
 blaibach.de,City,Non-Federal Agency,Blaibach,BY
 blaichach.de,City,Non-Federal Agency,Blaichach,BY
 blankenburg.de,City,Non-Federal Agency,Blankenburg,ST
+blankenburg-th.de,City,Non-Federal Agency,Blankenburg,TH
 blankenfelde-mahlow.de,City,Non-Federal Agency,Blankenfelde-Mahlow,BB
 blankenhain.de,City,Non-Federal Agency,Blankenhain,TH
 blankenheim.de,City,Non-Federal Agency,Blankenheim,NW
@@ -881,7 +890,7 @@ blaufelden.de,City,Non-Federal Agency,Blaufelden,BW
 blaustein.de,City,Non-Federal Agency,Blaustein,BW
 bleckede.de,City,Non-Federal Agency,Bleckede,NI
 bleialf.de,City,Non-Federal Agency,Bleialf,RP
-bleicherode.de,City,Non-Federal Agency,Bleicherode,TH
+bleicherode.de,City,Non-Federal Agency,Niedergebra,TH
 blieskastel.de,City,Non-Federal Agency,Blieskastel,SL
 bliestorf.de,City,Non-Federal Agency,Bliestorf,SH
 blindheim.de,City,Non-Federal Agency,Blindheim,BY
@@ -943,7 +952,7 @@ boesingen.de,City,Non-Federal Agency,Bösingen,BW
 boetersen.de,City,Non-Federal Agency,Bötersen,NI
 boettingen.de,City,Non-Federal Agency,Böttingen,BW
 boetzingen.de,City,Non-Federal Agency,Bötzingen,BW
-boffzen.de,City,Non-Federal Agency,Boffzen,NI
+boffzen.de,City,Non-Federal Agency,Lauenförde,NI
 bogel.de,City,Non-Federal Agency,Bogel,RP
 bogen.de,City,Non-Federal Agency,Bogen,BY
 bohmedv.diedorf.de,City,Non-Federal Agency,Diedorf,TH
@@ -971,13 +980,14 @@ boostedt.de,City,Non-Federal Agency,Boostedt,SH
 bopfingen.de,City,Non-Federal Agency,Bopfingen,BW
 boppard.de,City,Non-Federal Agency,Boppard,RP
 borchen.de,City,Non-Federal Agency,Borchen,NW
-bordesholm.de,City,Non-Federal Agency,Reesdorf,SH
+bordesholm.de,City,Non-Federal Agency,Negenharrie,SH
 borgentreich.de,City,Non-Federal Agency,Borgentreich,NW
 borgholzhausen.de,City,Non-Federal Agency,Borgholzhausen,NW
 borgsum-auf-foehr.de,City,Non-Federal Agency,Borgsum,SH
 borgwedel.de,City,Non-Federal Agency,Borgwedel,SH
 borken.de,City,Non-Federal Agency,Borken,NW
 borken-hessen.de,City,Non-Federal Agency,Borken (Hessen),HE
+borkheide.de,City,Non-Federal Agency,Borkheide,BB
 borkwalde.de,City,Non-Federal Agency,Borkwalde,BB
 borna.de,City,Non-Federal Agency,Borna,SN
 bornheim.de,City,Non-Federal Agency,Bornheim,NW
@@ -987,7 +997,7 @@ bornich.de,City,Non-Federal Agency,Bornich,RP
 borsdorf.de,City,Non-Federal Agency,Borsdorf,SN
 borstel-online.de,City,Non-Federal Agency,Borstel,NI
 borstorf.de,City,Non-Federal Agency,Borstorf,SH
-bothel.de,City,Non-Federal Agency,Westerwalsede,NI
+bothel.de,City,Non-Federal Agency,Kirchwalsede,NI
 bothkamp.de,City,Non-Federal Agency,Bothkamp,SH
 bottenbach.de,City,Non-Federal Agency,Bottenbach,RP
 bottrop.de,City,Non-Federal Agency,Bottrop,NW
@@ -1006,6 +1016,7 @@ brandscheid-eifel.de,City,Non-Federal Agency,Brandscheid,RP
 braubach.de,City,Non-Federal Agency,Braubach,RP
 brauneberg.de,City,Non-Federal Agency,Brauneberg,RP
 braunfels.de,City,Non-Federal Agency,Braunfels,HE
+braunichswalde.de,City,Non-Federal Agency,Braunichswalde,TH
 braunlage.de,City,Non-Federal Agency,Braunlage,NI
 braunsbach.de,City,Non-Federal Agency,Braunsbach,BW
 braunsbedra.de,City,Non-Federal Agency,Braunsbedra,ST
@@ -1037,6 +1048,7 @@ breitungen.de,City,Non-Federal Agency,Breitungen/Werra,TH
 brekendorf.de,City,Non-Federal Agency,Brekendorf,SH
 breklum.de,City,Non-Federal Agency,Breklum,SH
 bremen.de,City,Non-Federal Agency,Bremen,HB
+bremen-tourism.de,City,Non-Federal Agency,Bremen,HB
 bremerhaven.de,City,Non-Federal Agency,Bremerhaven,HB
 bremervoerde.de,City,Non-Federal Agency,Bremervörde,NI
 bremm.info,City,Non-Federal Agency,Bremm,RP
@@ -1063,6 +1075,7 @@ brilon.de,City,Non-Federal Agency,Brilon,NW
 britz-chorin-oderberg.de,City,Non-Federal Agency,Hohenfinow,BB
 brockel.de,City,Non-Federal Agency,Brockel,NI
 brockscheid.de,City,Non-Federal Agency,Brockscheid,RP
+brockum.de,City,Non-Federal Agency,Brockum,NI
 brodenbach.de,City,Non-Federal Agency,Brodenbach,RP
 brodersby.de,City,Non-Federal Agency,Brodersby,SH
 brodersdorf.de,City,Non-Federal Agency,Brodersdorf,SH
@@ -1121,7 +1134,7 @@ buechel.de,City,Non-Federal Agency,Büchel,RP
 buechelonline.de,City,Non-Federal Agency,Büchel,TH
 buechenbach.de,City,Non-Federal Agency,Büchenbach,BY
 buechenbeuren.de,City,Non-Federal Agency,Büchenbeuren,RP
-buechen.de,City,Non-Federal Agency,Besenthal,SH
+buechen.de,City,Non-Federal Agency,Schulendorf,SH
 buechlberg.de,City,Non-Federal Agency,Büchlberg,BY
 bueckeburg.de,City,Non-Federal Agency,Bückeburg,NI
 bueddenstedt.de,City,Non-Federal Agency,Büddenstedt,NI
@@ -1197,7 +1210,7 @@ busenwurth.de,City,Non-Federal Agency,Busenwurth,SH
 buttelstedt.de,City,Non-Federal Agency,Buttelstedt,TH
 buttenheim.de,City,Non-Federal Agency,Buttenheim,BY
 buttenwiesen.de,City,Non-Federal Agency,Buttenwiesen,BY
-buttstaedt.eu,City,Non-Federal Agency,Kleinbrembach,TH
+buttstaedt.eu,City,Non-Federal Agency,Ellersleben,TH
 buxheim.de,City,Non-Federal Agency,Buxheim,BY
 buxheim.eu,City,Non-Federal Agency,Buxheim,BY
 caaschwitz.info,City,Non-Federal Agency,Caaschwitz,TH
@@ -1206,6 +1219,7 @@ calau.de,City,Non-Federal Agency,Calau,BB
 calbe.de,City,Non-Federal Agency,Calbe,ST
 calden.de,City,Non-Federal Agency,Calden,HE
 callenberg.de,City,Non-Federal Agency,Callenberg,SN
+calverlah.de,City,Non-Federal Agency,Calberlah,NI
 calvoerde.de,City,Non-Federal Agency,Calvörde,ST
 calw.de,City,Non-Federal Agency,Calw,BW
 cappeln.de,City,Non-Federal Agency,Cappeln,NI
@@ -1222,6 +1236,7 @@ clausen.de,City,Non-Federal Agency,Clausen,RP
 claussnitz.de,City,Non-Federal Agency,Claußnitz,SN
 clausthal-zellerfeld.de,City,Non-Federal Agency,Clausthal-Zellerfeld,NI
 cleebronn.de,City,Non-Federal Agency,Cleebronn,BW
+clenze.de,City,Non-Federal Agency,Clenze,NI
 clingen.net,City,Non-Federal Agency,Clingen,TH
 cloppenburg.de,City,Non-Federal Agency,Cloppenburg,NI
 cms.xn--knigsee-rottenbach-d3b.de,City,Non-Federal Agency,Königsee-Rottenbach,TH
@@ -1244,17 +1259,18 @@ cramme.de,City,Non-Federal Agency,Cramme,NI
 crawinkel.de,City,Non-Federal Agency,Crawinkel,TH
 creglingen.de,City,Non-Federal Agency,Creglingen,BW
 cremlingen.de,City,Non-Federal Agency,Cremlingen,NI
-creuzburg-online.de,City,Non-Federal Agency,Creuzburg,TH
+creuzburg-online.de,City,Non-Federal Agency,Ifta,TH
 crimla.de,City,Non-Federal Agency,Crimla,TH
 crinitzberg.de,City,Non-Federal Agency,Crinitzberg,SN
 crinitz.de,City,Non-Federal Agency,Crinitz,BB
+crossen.de,City,Non-Federal Agency,Crossen an der Elster,TH
 crostwitz.de,City,Non-Federal Agency,Crostwitz,SN
 crottendorf-erzgebirge.de,City,Non-Federal Agency,Crottendorf,SN
 cumlosen.de,City,Non-Federal Agency,Cumlosen,BB
 cunewalde.de,City,Non-Federal Agency,Cunewalde,SN
 cursdorf.com,City,Non-Federal Agency,Cursdorf,TH
 cuxhaven.de,City,Non-Federal Agency,Cuxhaven,NI
-daaden.de,City,Non-Federal Agency,Emmerzhausen,RP
+daaden.de,City,Non-Federal Agency,Derschen,RP
 daaden.org,City,Non-Federal Agency,Daaden,RP
 dachau.de,City,Non-Federal Agency,Dachau,BY
 dachsbach.de,City,Non-Federal Agency,Dachsbach,BY
@@ -1265,7 +1281,7 @@ dackscheid.com,City,Non-Federal Agency,Dackscheid,RP
 daegeling.de,City,Non-Federal Agency,Dägeling,SH
 dagebuell.de,City,Non-Federal Agency,Dagebüll,SH
 dahlem.de,City,Non-Federal Agency,Dahlem,NW
-dahlenburg.de,City,Non-Federal Agency,Dahlenburg,NI
+dahlenburg.de,City,Non-Federal Agency,Dahlem,NI
 dahlheim-rlp.de,City,Non-Federal Agency,Dahlheim,RP
 dahme.de,City,Non-Federal Agency,Dahme/Mark,BB
 dahmker.de,City,Non-Federal Agency,Dahmker,SH
@@ -1297,6 +1313,8 @@ datteln.de,City,Non-Federal Agency,Datteln,NW
 dauchingen.de,City,Non-Federal Agency,Dauchingen,BW
 dausenau.de,City,Non-Federal Agency,Dausenau,RP
 dautphetal.de,City,Non-Federal Agency,Dautphetal,HE
+.de,City,Non-Federal Agency,Udestedt,TH
+
 deckenpfronn.de,City,Non-Federal Agency,Deckenpfronn,BW
 deesbach.de,City,Non-Federal Agency,Deesbach,TH
 deesen.de,City,Non-Federal Agency,Deesen,RP
@@ -1449,10 +1467,12 @@ dormettingen.de,City,Non-Federal Agency,Dormettingen,BW
 dormitz.de,City,Non-Federal Agency,Dormitz,BY
 dornburg-camburg.de,City,Non-Federal Agency,Dornburg-Camburg,TH
 dornburg.de,City,Non-Federal Agency,Dornburg,HE
+dornburg-saale.de,City,Non-Federal Agency,Wichmar,TH
 dornhan.de,City,Non-Federal Agency,Dornhan,BW
 dornstadt.de,City,Non-Federal Agency,Dornstadt,BW
 dornstetten.de,City,Non-Federal Agency,Dornstetten,BW
 dorsheim.de,City,Non-Federal Agency,Dorsheim,RP
+dorstadt.de,City,Non-Federal Agency,Dorstadt,NI
 dorsten.de,City,Non-Federal Agency,Dorsten,NW
 dortmund.de,City,Non-Federal Agency,Dortmund,NW
 dossenheim.de,City,Non-Federal Agency,Dossenheim,BW
@@ -1475,6 +1495,7 @@ drentwede.de,City,Non-Federal Agency,Drentwede,NI
 dresden.de,City,Non-Federal Agency,Dresden,SN
 driedorf.de,City,Non-Federal Agency,Driedorf,HE
 drochtersen.de,City,Non-Federal Agency,Drochtersen,NI
+drognitz.de,City,Non-Federal Agency,Drognitz,TH
 drolshagen.de,City,Non-Federal Agency,Drolshagen,NW
 duchroth.de,City,Non-Federal Agency,Duchroth,RP
 dudeldorf.de,City,Non-Federal Agency,Dudeldorf,RP
@@ -1510,6 +1531,7 @@ durchhausen.de,City,Non-Federal Agency,Durchhausen,BW
 durlangen.de,City,Non-Federal Agency,Durlangen,BW
 durmersheim.de,City,Non-Federal Agency,Durmersheim,BW
 dusslingen.de,City,Non-Federal Agency,Dußlingen,BW
+eab-koenigsbrueck.de,City,Non-Federal Agency,Neukirch,SN
 ebeleben.de,City,Non-Federal Agency,Ebeleben,TH
 ebensfeld.de,City,Non-Federal Agency,Ebensfeld,BY
 ebenweiler.de,City,Non-Federal Agency,Ebenweiler,BW
@@ -1537,7 +1559,7 @@ ebnath.de,City,Non-Federal Agency,Ebnath,BY
 ebrach.de,City,Non-Federal Agency,Ebrach,BY
 ebringen.de,City,Non-Federal Agency,Ebringen,BW
 ebsdorfergrund.de,City,Non-Federal Agency,Ebsdorfergrund,HE
-ebstorf.de,City,Non-Federal Agency,Ebstorf,NI
+ebstorf.de,City,Non-Federal Agency,Hanstedt,NI
 echem.de,City,Non-Federal Agency,Echem,NI
 eching.de,City,Non-Federal Agency,Eching,BY
 eching.info,City,Non-Federal Agency,Eching am Ammersee,BY
@@ -1575,7 +1597,7 @@ eggebek.de,City,Non-Federal Agency,Eggebek,SH
 eggenfelden.de,City,Non-Federal Agency,Eggenfelden,BY
 eggenthal.de,City,Non-Federal Agency,Eggenthal,BY
 eggermuehlen.de,City,Non-Federal Agency,Eggermühlen,NI
-eggesin.de,City,Non-Federal Agency,Liepgarten,MV
+eggesin.de,City,Non-Federal Agency,Meiersberg,MV
 eggingen.de,City,Non-Federal Agency,Eggingen,BW
 egg-leo.de,City,Non-Federal Agency,Eggenstein-Leopoldshafen,BW
 egglham.de,City,Non-Federal Agency,Egglham,BY
@@ -1617,6 +1639,7 @@ eichwalde.de,City,Non-Federal Agency,Eichwalde,BB
 eigeltingen.de,City,Non-Federal Agency,Eigeltingen,BW
 eilenburg.de,City,Non-Federal Agency,Eilenburg,SN
 eilscheid.de,City,Non-Federal Agency,Eilscheid,RP
+eilsen.de,City,Non-Federal Agency,Ahnsen,NI
 eimeldingen.de,City,Non-Federal Agency,Eimeldingen,BW
 eimke.de,City,Non-Federal Agency,Eimke,NI
 eimsheim.de,City,Non-Federal Agency,Eimsheim,RP
@@ -1629,7 +1652,7 @@ eiselfing.eu,City,Non-Federal Agency,Eiselfing,BY
 eisenach.de,City,Non-Federal Agency,Eisenach,TH
 eisenbach.de,City,Non-Federal Agency,Eisenbach (Hochschwarzwald),BW
 eisenberg-allgaeu.de,City,Non-Federal Agency,Eisenberg,BY
-eisenberg.de,City,Non-Federal Agency,Kerzenheim,RP
+eisenberg.de,City,Non-Federal Agency,Eisenberg (Pfalz),RP
 eisenheim.info,City,Non-Federal Agency,Eisenheim,BY
 eisenhuettenstadt.de,City,Non-Federal Agency,Eisenhüttenstadt,BB
 eisenschmitt.de,City,Non-Federal Agency,Eisenschmitt,RP
@@ -1658,6 +1681,7 @@ ellenz-poltersdorf.de,City,Non-Federal Agency,Ellenz-Poltersdorf,RP
 ellerau.de,City,Non-Federal Agency,Ellerau,SH
 ellerbek.de,City,Non-Federal Agency,Ellerbek,SH
 ellerhoop.de,City,Non-Federal Agency,Ellerhoop,SH
+ellern.de,City,Non-Federal Agency,Ellern,RP
 ellerstadt.de,City,Non-Federal Agency,Ellerstadt,RP
 ellgau.de,City,Non-Federal Agency,Ellgau,BY
 ellhofen.de,City,Non-Federal Agency,Ellhofen,BW
@@ -1695,7 +1719,7 @@ emerkingen.de,City,Non-Federal Agency,Emerkingen,BW
 emersacker.de,City,Non-Federal Agency,Emersacker,BY
 emlichheim.de,City,Non-Federal Agency,Emlichheim,NI
 emmelsbuell-horsbuell.net,City,Non-Federal Agency,Emmelsbüll-Horsbüll,SH
-emmelshausen.de,City,Non-Federal Agency,Hausbay,RP
+emmelshausen.de,City,Non-Federal Agency,Birkheim,RP
 emmendingen.de,City,Non-Federal Agency,Emmendingen,BW
 emmerich.de,City,Non-Federal Agency,Emmerich am Rhein,NW
 emmering.de,City,Non-Federal Agency,Emmering,BY
@@ -1719,7 +1743,7 @@ enger.de,City,Non-Federal Agency,Enger,NW
 enge-sande.de,City,Non-Federal Agency,Enge-Sande,SH
 engstingen.de,City,Non-Federal Agency,Engstingen,BW
 eningen.de,City,Non-Federal Agency,Eningen unter Achalm,BW
-enkenbach-alsenborn.de,City,Non-Federal Agency,Enkenbach-Alsenborn,RP
+enkenbach-alsenborn.de,City,Non-Federal Agency,Sembach,RP
 enkirch.de,City,Non-Federal Agency,Enkirch,RP
 ennepetal.de,City,Non-Federal Agency,Ennepetal,NW
 ensdorf.de,City,Non-Federal Agency,Ensdorf,BY
@@ -1791,7 +1815,7 @@ eschelbronn.de,City,Non-Federal Agency,Eschelbronn,BW
 eschenbach-opf.de,City,Non-Federal Agency,Eschenbach in der Oberpfalz,BY
 eschenburg.de,City,Non-Federal Agency,Eschenburg,HE
 eschenlohe.de,City,Non-Federal Agency,Eschenlohe,BY
-eschershausen-stadtoldendorf.de,City,Non-Federal Agency,Eschershausen,NI
+eschershausen-stadtoldendorf.de,City,Non-Federal Agency,Arholzen,NI
 eschfeld.de,City,Non-Federal Agency,Eschfeld,RP
 eschwege.de,City,Non-Federal Agency,Eschwege,HE
 eschweiler.de,City,Non-Federal Agency,Eschweiler,NW
@@ -1802,6 +1826,7 @@ eslohe.de,City,Non-Federal Agency,Eslohe,NW
 espelkamp.de,City,Non-Federal Agency,Espelkamp,NW
 espenau.de,City,Non-Federal Agency,Espenau,HE
 esselbach-online.de,City,Non-Federal Agency,Esselbach,BY
+essel.de,City,Non-Federal Agency,Essel,NI
 essenbach.de,City,Non-Federal Agency,Essenbach,BY
 essen.de,City,Non-Federal Agency,Essen,NW
 essenheim.de,City,Non-Federal Agency,Essenheim,RP
@@ -1838,6 +1863,7 @@ eutingen-im-gaeu.de,City,Non-Federal Agency,Eutingen im Gäu,BW
 everswinkel.de,City,Non-Federal Agency,Everswinkel,NW
 extertal.de,City,Non-Federal Agency,Extertal,NW
 eydelstedt.de,City,Non-Federal Agency,Eydelstedt,NI
+eyendorf.de,City,Non-Federal Agency,Eyendorf,NI
 eyershausen-landwehr.de,City,Non-Federal Agency,Landwehr,NI
 eystrup.de,City,Non-Federal Agency,Eystrup,NI
 fachbach.de,City,Non-Federal Agency,Fachbach,RP
@@ -1886,13 +1912,14 @@ fichtenberg.de,City,Non-Federal Agency,Fichtenberg,BW
 fiefbergen.de,City,Non-Federal Agency,Fiefbergen,SH
 filderstadt.de,City,Non-Federal Agency,Filderstadt,BW
 filsen.de,City,Non-Federal Agency,Filsen,RP
+filsum.de,City,Non-Federal Agency,Filsum,NI
 final.fronhausen.de,City,Non-Federal Agency,Fronhausen,HE
 finnentrop.de,City,Non-Federal Agency,Finnentrop,NW
 finning.de,City,Non-Federal Agency,Finning,BY
 finningen.de,City,Non-Federal Agency,Finningen,BY
 finsing.de,City,Non-Federal Agency,Finsing,BY
 finsterwalde.de,City,Non-Federal Agency,Finsterwalde,BB
-fintel.de,City,Non-Federal Agency,Fintel,NI
+fintel.de,City,Non-Federal Agency,Vahlde,NI
 fischach.de,City,Non-Federal Agency,Fischach,BY
 fischbachau.de,City,Non-Federal Agency,Fischbachau,BY
 fischbach-bei-dahn.de,City,Non-Federal Agency,Fischbach bei Dahn,RP
@@ -1927,6 +1954,7 @@ flonheim.de,City,Non-Federal Agency,Flonheim,RP
 florstadt.de,City,Non-Federal Agency,Florstadt,HE
 floss.de,City,Non-Federal Agency,Floß,BY
 flossenbuerg.de,City,Non-Federal Agency,Flossenbürg,BY
+flotwedel.de,City,Non-Federal Agency,Bröckel,NI
 fluorn-winzeln.de,City,Non-Federal Agency,Fluorn-Winzeln,BW
 flussbach.info,City,Non-Federal Agency,Flußbach,RP
 fluterschen.de,City,Non-Federal Agency,Fluterschen,RP
@@ -1966,7 +1994,9 @@ frasdorf.de,City,Non-Federal Agency,Frasdorf,BY
 frauenau.de,City,Non-Federal Agency,Frauenau,BY
 frauenberg-nahe.de,City,Non-Federal Agency,Frauenberg,RP
 frauenneuharting.de,City,Non-Federal Agency,Frauenneuharting,BY
+frauensee.de,City,Non-Federal Agency,Frauensee,TH
 frauenstein-erzgebirge.de,City,Non-Federal Agency,Frauenstein,SN
+frauenwald.de,City,Non-Federal Agency,Frauenwald,TH
 fraunberg.de,City,Non-Federal Agency,Fraunberg,BY
 fraureuth.de,City,Non-Federal Agency,Fraureuth,SN
 frechen.de,City,Non-Federal Agency,Frechen,NW
@@ -1987,6 +2017,7 @@ freilassing.de,City,Non-Federal Agency,Freilassing,BY
 frei-laubersheim.de,City,Non-Federal Agency,Frei-Laubersheim,RP
 freilingen.de,City,Non-Federal Agency,Freilingen,RP
 freimersheim.de,City,Non-Federal Agency,Freimersheim,RP
+freimersheim-rheinhessen.de,City,Non-Federal Agency,Freimersheim,RP
 freinsheim.de,City,Non-Federal Agency,Dackenheim,RP
 freisbach.de,City,Non-Federal Agency,Freisbach,RP
 freisen.de,City,Non-Federal Agency,Freisen,SL
@@ -1994,7 +2025,7 @@ freising.de,City,Non-Federal Agency,Freising,BY
 freital.de,City,Non-Federal Agency,Freital,SN
 fremdingen.de,City,Non-Federal Agency,Fremdingen,BY
 frensdorf.de,City,Non-Federal Agency,Frensdorf,BY
-freren.de,City,Non-Federal Agency,Freren,NI
+freren.de,City,Non-Federal Agency,Beesten,NI
 fresenburg.de,City,Non-Federal Agency,Fresenburg,NI
 frestedt.de,City,Non-Federal Agency,Frestedt,SH
 freudenberg-main.de,City,Non-Federal Agency,Freudenberg,BW
@@ -2017,7 +2048,7 @@ friedelsheim.de,City,Non-Federal Agency,Friedelsheim,RP
 friedenfels.de,City,Non-Federal Agency,Friedenfels,BY
 friedenweiler.de,City,Non-Federal Agency,Friedenweiler,BW
 friedland.de,City,Non-Federal Agency,Friedland,NI
-friedland-mecklenburg.de,City,Non-Federal Agency,Friedland,MV
+friedland-mecklenburg.de,City,Non-Federal Agency,Genzkow,MV
 friedland-nl.de,City,Non-Federal Agency,Friedland,BB
 friedrichroda.de,City,Non-Federal Agency,Friedrichroda,TH
 friedrichsdorf.de,City,Non-Federal Agency,Friedrichsdorf,HE
@@ -2048,7 +2079,7 @@ fuchsstadt.de,City,Non-Federal Agency,Fuchsstadt,BY
 fuchstal.de,City,Non-Federal Agency,Fuchstal,BY
 fuenfstetten.de,City,Non-Federal Agency,Fünfstetten,BY
 fuerfeld.de,City,Non-Federal Agency,Fürfeld,RP
-fuerstenau.de,City,Non-Federal Agency,Fürstenau,NI
+fuerstenau.de,City,Non-Federal Agency,Berge,NI
 fuerstenberg-havel.de,City,Non-Federal Agency,Fürstenberg/Havel,BB
 fuersteneck.de,City,Non-Federal Agency,Fürsteneck,BY
 fuerstenfeldbruck.de,City,Non-Federal Agency,Fürstenfeldbruck,BY
@@ -2095,8 +2126,9 @@ garlstorf.de,City,Non-Federal Agency,Garlstorf,NI
 garrel.de,City,Non-Federal Agency,Garrel,NI
 gars.de,City,Non-Federal Agency,Gars am Inn,BY
 garstedt.de,City,Non-Federal Agency,Garstedt,NI
-gartow.de,City,Non-Federal Agency,Gartow,NI
+gartow.de,City,Non-Federal Agency,Schnackenburg,NI
 gartz.de,City,Non-Federal Agency,Casekow,BB
+garzau.de,City,Non-Federal Agency,Garzau-Garzin,BB
 gattendorf.de,City,Non-Federal Agency,Gattendorf,BY
 gau-algesheim.de,City,Non-Federal Agency,Gau-Algesheim,RP
 gau-bickelheim.de,City,Non-Federal Agency,Gau-Bickelheim,RP
@@ -2130,7 +2162,7 @@ gehren.eu,City,Non-Federal Agency,Gehren,TH
 geiersthal.de,City,Non-Federal Agency,Geiersthal,BY
 geilenkirchen.de,City,Non-Federal Agency,Geilenkirchen,NW
 geilnau.de,City,Non-Federal Agency,Geilnau,RP
-geisa.de,City,Non-Federal Agency,Geisa,TH
+geisa.de,City,Non-Federal Agency,Buttlar,TH
 geiselbach.de,City,Non-Federal Agency,Geiselbach,BY
 geiselberg.de,City,Non-Federal Agency,Geiselberg,RP
 geiselhoering.de,City,Non-Federal Agency,Geiselhöring,BY
@@ -2160,6 +2192,7 @@ gemeindeahorn.de,City,Non-Federal Agency,Ahorn,BW
 gemeinde-ahrbrueck.de,City,Non-Federal Agency,Ahrbrück,RP
 gemeinde-aichwald.de,City,Non-Federal Agency,Aichwald,BW
 gemeinde-aidhausen.de,City,Non-Federal Agency,Aidhausen,BY
+gemeinde-alperstedt.de,City,Non-Federal Agency,Alperstedt,TH
 gemeinde-altdoebern.de,City,Non-Federal Agency,Altdöbern,BB
 gemeinde-altendorf.de,City,Non-Federal Agency,Altendorf,BY
 gemeinde-altheim.de,City,Non-Federal Agency,Altheim,BW
@@ -2195,7 +2228,7 @@ gemeinde-bengel.de,City,Non-Federal Agency,Bengel,RP
 gemeinde-bennewitz.de,City,Non-Federal Agency,Bennewitz,SN
 gemeinde-benz.de,City,Non-Federal Agency,Benz (Usedom),MV
 gemeinde.berchtesgaden.de,City,Non-Federal Agency,Berchtesgaden,BY
-gemeindeberg.de,City,Non-Federal Agency,Berg,BY
+gemeinde-berg.de,City,Non-Federal Agency,Berg,BY
 gemeinde-bergheim.de,City,Non-Federal Agency,Bergheim,BY
 gemeinde-berkheim.de,City,Non-Federal Agency,Berkheim,BW
 gemeinde-biburg.de,City,Non-Federal Agency,Biburg,BY
@@ -2209,6 +2242,7 @@ gemeinde-blankenberg.de,City,Non-Federal Agency,Blankenberg,TH
 gemeinde-blekendorf.de,City,Non-Federal Agency,Blekendorf,SH
 gemeinde-bockhorst.de,City,Non-Federal Agency,Bockhorst,NI
 gemeinde-bodenkirchen.de,City,Non-Federal Agency,Bodenkirchen,BY
+gemeinde-boehen.de,City,Non-Federal Agency,Böhen,BY
 gemeinde-boenebuettel.de,City,Non-Federal Agency,Bönebüttel,SH
 gemeinde-boerdeaue.de,City,Non-Federal Agency,Bördeaue,ST
 gemeinde-boerfink.de,City,Non-Federal Agency,Börfink,RP
@@ -2293,6 +2327,7 @@ gemeinde-foehren.de,City,Non-Federal Agency,Föhren,RP
 gemeinde-frankenthal.de,City,Non-Federal Agency,Frankenthal,SN
 gemeinde-frauendorf.de,City,Non-Federal Agency,Frauendorf,BB
 gemeinde-frauenpriessnitz.de,City,Non-Federal Agency,Frauenprießnitz,TH
+gemeindefreden.de,City,Non-Federal Agency,Winzenburg,NI
 gemeinde-fredesdorf.de,City,Non-Federal Agency,Fredesdorf,SH
 gemeinde-freudenberg.de,City,Non-Federal Agency,Freudenberg,BY
 gemeinde-friedewald.de,City,Non-Federal Agency,Friedewald,HE
@@ -2313,6 +2348,7 @@ gemeinde-gossel.de,City,Non-Federal Agency,Gossel,TH
 gemeinde-grafschaft.de,City,Non-Federal Agency,Grafschaft,RP
 gemeinde-grebin.de,City,Non-Federal Agency,Grebin,SH
 gemeinde-greiling.de,City,Non-Federal Agency,Greiling,BY
+gemeinde-groeden.de,City,Non-Federal Agency,Gröden,BB
 gemeindegrossgroenau.de,City,Non-Federal Agency,Groß Grönau,SH
 gemeinde-gross-oesingen.de,City,Non-Federal Agency,Groß Oesingen,NI
 gemeinde-grube.de,City,Non-Federal Agency,Grube,SH
@@ -2530,12 +2566,14 @@ gemeinde-rechenberg-bienenmuehle.de,City,Non-Federal Agency,Rechenberg-Bienenmü
 gemeinde-rehborn.de,City,Non-Federal Agency,Rehborn,RP
 gemeinde-rehling.de,City,Non-Federal Agency,Rehling,BY
 gemeinde-reichenbach.de,City,Non-Federal Agency,Reichenbach,BY
+gemeinde-reichertsheim.de,City,Non-Federal Agency,Reichertsheim,BY
 gemeinde-reinsberg.de,City,Non-Federal Agency,Reinsberg,SN
 gemeinde-reiskirchen.de,City,Non-Federal Agency,Reiskirchen,HE
 gemeinde-rettenbach.de,City,Non-Federal Agency,Rettenbach,BY
 gemeinde-rhoenblick.de,City,Non-Federal Agency,Rhönblick,TH
 gemeinde-rickert.de,City,Non-Federal Agency,Rickert,SH
 gemeinde-rickling.de,City,Non-Federal Agency,Rickling,SH
+gemeinde-ried.de,City,Non-Federal Agency,Ried,BY
 gemeinde-riegel.de,City,Non-Federal Agency,Riegel am Kaiserstuhl,BW
 gemeinde-rimbach.de,City,Non-Federal Agency,Rimbach,BY
 gemeinde-roederland.de,City,Non-Federal Agency,Röderland,BB
@@ -2622,6 +2660,7 @@ gemeinde-tannenberg.de,City,Non-Federal Agency,Tannenberg,SN
 gemeinde-tannheim.de,City,Non-Federal Agency,Tannheim,BW
 gemeinde-tantow.de,City,Non-Federal Agency,Tantow,BB
 gemeinde-tauche.de,City,Non-Federal Agency,Tauche,BB
+gemeinde-taufkirchen.eu,City,Non-Federal Agency,Taufkirchen,BY
 gemeinde-taura.de,City,Non-Federal Agency,Taura,SN
 gemeinde-tespe.de,City,Non-Federal Agency,Tespe,NI
 gemeinde-teutschenthal.de,City,Non-Federal Agency,Teutschenthal,ST
@@ -2748,7 +2787,7 @@ gerstetten.de,City,Non-Federal Agency,Gerstetten,BW
 gersthofen.de,City,Non-Federal Agency,Gersthofen,BY
 gerstungen.de,City,Non-Federal Agency,Gerstungen,TH
 gerterode.de,City,Non-Federal Agency,Gerterode,TH
-gerzen.de,City,Non-Federal Agency,Gerzen,BY
+gerzen.de,City,Non-Federal Agency,Aham,BY
 geschendorf.de,City,Non-Federal Agency,Geschendorf,SH
 gescher.de,City,Non-Federal Agency,Gescher,NW
 geschwenda.de,City,Non-Federal Agency,Geschwenda,TH
@@ -2805,6 +2844,7 @@ gochsheim.de,City,Non-Federal Agency,Gochsheim,BY
 goecklingen.de,City,Non-Federal Agency,Göcklingen,RP
 goeda.de,City,Non-Federal Agency,Göda,SN
 goedenroth.de,City,Non-Federal Agency,Gödenroth,RP
+goedenstorf.de,City,Non-Federal Agency,Gödenstorf,NI
 goehren-thueringen.de,City,Non-Federal Agency,Göhren,TH
 goellheim.de,City,Non-Federal Agency,Göllheim,RP
 goennersdorf-eifel.de,City,Non-Federal Agency,Gönnersdorf,RP
@@ -2836,6 +2876,7 @@ gommersheim.de,City,Non-Federal Agency,Gommersheim,RP
 gompertshausen.de,City,Non-Federal Agency,Gompertshausen,TH
 gonbach.de,City,Non-Federal Agency,Gonbach,RP
 gondelsheim.de,City,Non-Federal Agency,Gondelsheim,BW
+gorden-staupitz.de,City,Non-Federal Agency,Gorden-Staupitz,BB
 gorleben.de,City,Non-Federal Agency,Gorleben,NI
 gornau.de,City,Non-Federal Agency,Gornau/Erzgeb.,SN
 gornhausen.de,City,Non-Federal Agency,Gornhausen,RP
@@ -2856,7 +2897,7 @@ graben-neudorf.de,City,Non-Federal Agency,Graben-Neudorf,BW
 grabenstaett.de,City,Non-Federal Agency,Grabenstätt,BY
 grabenstetten.de,City,Non-Federal Agency,Grabenstetten,BW
 grabfeld.de,City,Non-Federal Agency,Grabfeld,TH
-grabow.de,City,Non-Federal Agency,Grabow,MV
+grabow.de,City,Non-Federal Agency,Zierzow,MV
 graefelfing.de,City,Non-Federal Agency,Gräfelfing,BY
 graefenberg.de,City,Non-Federal Agency,Gräfenberg,BY
 graefendhron.de,City,Non-Federal Agency,Gräfendhron,RP
@@ -2883,7 +2924,7 @@ graitschen.de,City,Non-Federal Agency,Graitschen bei Bürgel,TH
 grambek.de,City,Non-Federal Agency,Grambek,SH
 grambin.de,City,Non-Federal Agency,Grambin,MV
 gransdorf.de,City,Non-Federal Agency,Gransdorf,RP
-gransee.de,City,Non-Federal Agency,Sonnenberg,BB
+gransee.de,City,Non-Federal Agency,Gransee,BB
 grasberg.de,City,Non-Federal Agency,Grasberg,NI
 grasbrunn.de,City,Non-Federal Agency,Grasbrunn,BY
 grasellenbach.de,City,Non-Federal Agency,Grasellenbach,HE
@@ -2904,10 +2945,11 @@ gremsdorf.de,City,Non-Federal Agency,Gremsdorf,BY
 grenzach-wyhlen.de,City,Non-Federal Agency,Grenzach-Wyhlen,BW
 grethem.de,City,Non-Federal Agency,Grethem,NI
 grettstadt.de,City,Non-Federal Agency,Grettstadt,BY
+greussen.de,City,Non-Federal Agency,Wasserthaleben,TH
 greussenheim.de,City,Non-Federal Agency,Greußenheim,BY
 grevenbroich.de,City,Non-Federal Agency,Grevenbroich,NW
 greven.net,City,Non-Federal Agency,Greven,NW
-grevesmuehlen.de,City,Non-Federal Agency,Testorf-Steinfort,MV
+grevesmuehlen.de,City,Non-Federal Agency,Rüting,MV
 gribbohm.de,City,Non-Federal Agency,Gribbohm,SH
 griebelschied.de,City,Non-Federal Agency,Griebelschied,RP
 griesheim.de,City,Non-Federal Agency,Griesheim,HE
@@ -2926,7 +2968,7 @@ groemitz.eu,City,Non-Federal Agency,Dahme,SH
 groitzsch.de,City,Non-Federal Agency,Groitzsch,SN
 grolsheim.de,City,Non-Federal Agency,Grolsheim,RP
 gronau.de,City,Non-Federal Agency,Gronau,NW
-gronau-leine.de,City,Non-Federal Agency,Gronau (Leine),NI
+gronau-leine.de,City,Non-Federal Agency,Rheden,NI
 grossaitingen.de,City,Non-Federal Agency,Großaitingen,BY
 grossalmerode.de,City,Non-Federal Agency,Großalmerode,HE
 grossbardorf.de,City,Non-Federal Agency,Großbardorf,BY
@@ -2960,6 +3002,7 @@ grosshartmannsdorf.de,City,Non-Federal Agency,Großhartmannsdorf,SN
 grossheide.de,City,Non-Federal Agency,Großheide,NI
 grossheirath.de,City,Non-Federal Agency,Großheirath,BY
 grossheubach.de,City,Non-Federal Agency,Großheubach,BY
+gross-ippener.de,City,Non-Federal Agency,Groß Ippener,NI
 grosskampenberg.de,City,Non-Federal Agency,Großkampenberg,RP
 grosskarlbach.de,City,Non-Federal Agency,Großkarlbach,RP
 grosskarolinenfeld.de,City,Non-Federal Agency,Großkarolinenfeld,BY
@@ -3016,7 +3059,7 @@ gruenhain-beierfeld.de,City,Non-Federal Agency,Grünhain-Beierfeld,SN
 gruenhainichen.de,City,Non-Federal Agency,Grünhainichen,SN
 gruenkraut.de,City,Non-Federal Agency,Grünkraut,BW
 gruensfeld.de,City,Non-Federal Agency,Grünsfeld,BW
-gruenstadt-land.de,City,Non-Federal Agency,Gerolsheim,RP
+gruenstadt-land.de,City,Non-Federal Agency,Battenberg,RP
 gruibingen.de,City,Non-Federal Agency,Gruibingen,BW
 grumbach-glan.de,City,Non-Federal Agency,Grumbach,RP
 grundsheim.de,City,Non-Federal Agency,Grundsheim,BW
@@ -3072,6 +3115,7 @@ hachenburg-vg.de,City,Non-Federal Agency,Astert,RP
 hackenheim.de,City,Non-Federal Agency,Hackenheim,RP
 hadamar.de,City,Non-Federal Agency,Hadamar,HE
 haddeby.de,City,Non-Federal Agency,Lottorf,SH
+haehnichen.de,City,Non-Federal Agency,Hähnichen,SN
 haemelhausen.de,City,Non-Federal Agency,Hämelhausen,NI
 haertlingen.de,City,Non-Federal Agency,Härtlingen,RP
 haeusern.de,City,Non-Federal Agency,Häusern,BW
@@ -3086,6 +3130,7 @@ hagen-cux.de,City,Non-Federal Agency,Hagen im Bremischen,NI
 hagen.de,City,Non-Federal Agency,Hagen,NW
 hagenow.de,City,Non-Federal Agency,Hagenow,MV
 hagen-sh.de,City,Non-Federal Agency,Hagen,SH
+hagermarsch.de,City,Non-Federal Agency,Hagermarsch,NI
 hagnau.de,City,Non-Federal Agency,Hagnau am Bodensee,BW
 hahausen.de,City,Non-Federal Agency,Hahausen,NI
 hahnbach.de,City,Non-Federal Agency,Hahnbach,BY
@@ -3109,6 +3154,7 @@ hainrode-hainleite.de,City,Non-Federal Agency,Hainrode,TH
 hainsfarth.de,City,Non-Federal Agency,Hainsfarth,BY
 hainspitz.de,City,Non-Federal Agency,Hainspitz,TH
 haiterbach.de,City,Non-Federal Agency,Haiterbach,BW
+halbemond.de,City,Non-Federal Agency,Halbemond,NI
 halberstadt.de,City,Non-Federal Agency,Halberstadt,ST
 halblech.de,City,Non-Federal Agency,Halblech,BY
 haldensleben.de,City,Non-Federal Agency,Haldensleben,ST
@@ -3143,7 +3189,7 @@ hammelburg.de,City,Non-Federal Agency,Hammelburg,BY
 hammersbach.de,City,Non-Federal Agency,Hammersbach,HE
 hammerstein-am-rhein.de,City,Non-Federal Agency,Hammerstein,RP
 hamminkeln.de,City,Non-Federal Agency,Hamminkeln,NW
-hamm-sieg.de,City,Non-Federal Agency,Breitscheidt,RP
+hamm-sieg.de,City,Non-Federal Agency,Bitzen,RP
 hamwarde.de,City,Non-Federal Agency,Hamwarde,SH
 hanau.de,City,Non-Federal Agency,Hanau,HE
 handeloh.de,City,Non-Federal Agency,Handeloh,NI
@@ -3155,6 +3201,7 @@ hann.muenden.de,City,Non-Federal Agency,Hann. Münden,NI
 hannover.de,City,Non-Federal Agency,Hannover,NI
 hansestadtlueneburg.de,City,Non-Federal Agency,Lüneburg,NI
 hanshagen.de,City,Non-Federal Agency,Hanshagen,MV
+hanstedt.de,City,Non-Federal Agency,Egestorf,NI
 happurg.de,City,Non-Federal Agency,Happurg,BY
 hardegsen.de,City,Non-Federal Agency,Hardegsen,NI
 hardert.de,City,Non-Federal Agency,Hardert,RP
@@ -3193,6 +3240,7 @@ haserich.de,City,Non-Federal Agency,Haserich,RP
 haslach.de,City,Non-Federal Agency,Haslach im Kinzigtal,BW
 hasloch.de,City,Non-Federal Agency,Hasloch,BY
 hasloh.de,City,Non-Federal Agency,Hasloh,SH
+hassbergen.de,City,Non-Federal Agency,Rohrsen,NI
 hasselbachhunsrueck.de,City,Non-Federal Agency,Hasselbach,RP
 hasselberg-ostsee.de,City,Non-Federal Agency,Hasselberg,SH
 hasselroth.de,City,Non-Federal Agency,Hasselroth,HE
@@ -3206,16 +3254,17 @@ hattenhofen.de,City,Non-Federal Agency,Hattenhofen,BW
 hattenhofen-haspelmoor.de,City,Non-Federal Agency,Hattenhofen,BY
 hattersheim.de,City,Non-Federal Agency,Hattersheim am Main,HE
 hattingen.de,City,Non-Federal Agency,Hattingen,NW
-hattorfamharz.de,City,Non-Federal Agency,Hattorf am Harz,NI
+hattorf-am-harz.de,City,Non-Federal Agency,Hörden am Harz,NI
 hattstedt.de,City,Non-Federal Agency,Hattstedt,SH
 hatzenbuehl.de,City,Non-Federal Agency,Hatzenbühl,RP
 hatzenport.de,City,Non-Federal Agency,Hatzenport,RP
 hatzfeld-eder.de,City,Non-Federal Agency,Hatzfeld (Eder),HE
 hauenstein.de,City,Non-Federal Agency,Hauenstein,RP
-hauenstein-pfalz.de,City,Non-Federal Agency,Dimbach,RP
+hauenstein-pfalz.de,City,Non-Federal Agency,Darstein,RP
 haundorf.de,City,Non-Federal Agency,Haundorf,BY
 hauneck.de,City,Non-Federal Agency,Hauneck,HE
 haunetal.de,City,Non-Federal Agency,Haunetal,HE
+haunsheim.de,City,Non-Federal Agency,Haunsheim,BY
 hauroth.de,City,Non-Federal Agency,Hauroth,RP
 hausach.de,City,Non-Federal Agency,Hausach,BW
 hausen-am-bussen.de,City,Non-Federal Agency,Hausen am Bussen,BW
@@ -3284,7 +3333,7 @@ heinsberg.de,City,Non-Federal Agency,Heinsberg,NW
 heinsdorfergrund-vogtland.de,City,Non-Federal Agency,Heinsdorfergrund,SN
 heitersheim.de,City,Non-Federal Agency,Heitersheim,BW
 helbeduendorf.de,City,Non-Federal Agency,Helbedündorf,TH
-heldburg.de,City,Non-Federal Agency,Westhausen,TH
+heldburg.de,City,Non-Federal Agency,Schlechtsart,TH
 heldenstein.de,City,Non-Federal Agency,Heldenstein,BY
 helgoland.de,City,Non-Federal Agency,Helgoland,SH
 hellenthal.de,City,Non-Federal Agency,Hellenthal,NW
@@ -3320,6 +3369,7 @@ herbolzheim.de,City,Non-Federal Agency,Herbolzheim,BW
 herborn.de,City,Non-Federal Agency,Herborn,HE
 herborn-hunsrueck.de,City,Non-Federal Agency,Herborn,RP
 herbrechtingen.de,City,Non-Federal Agency,Herbrechtingen,BW
+herbstadt.de,City,Non-Federal Agency,Herbstadt,BY
 herbstein.de,City,Non-Federal Agency,Herbstein,HE
 herdecke.de,City,Non-Federal Agency,Herdecke,NW
 herdorf.de,City,Non-Federal Agency,Herdorf,RP
@@ -3332,11 +3382,12 @@ hergenfeld.de,City,Non-Federal Agency,Hergenfeld,RP
 hergensweiler.de,City,Non-Federal Agency,Hergensweiler,BY
 hergersweiler.de,City,Non-Federal Agency,Hergersweiler,RP
 heringen.de,City,Non-Federal Agency,Heringen (Werra),HE
+heringen-helme.de,City,Non-Federal Agency,Urbach,TH
 herleshausen.de,City,Non-Federal Agency,Herleshausen,HE
 herl.eu,City,Non-Federal Agency,Herl,RP
 hermaringen.de,City,Non-Federal Agency,Hermaringen,BW
 hermersberg.de,City,Non-Federal Agency,Hermersberg,RP
-hermeskeil.de,City,Non-Federal Agency,Hermeskeil,RP
+hermeskeil.de,City,Non-Federal Agency,Naurath,RP
 hermsdorf-erzgebirge.de,City,Non-Federal Agency,Hermsdorf/Erzgeb.,SN
 hermsdorf-thueringen.de,City,Non-Federal Agency,Hermsdorf,TH
 herne.de,City,Non-Federal Agency,Herne,NW
@@ -3364,9 +3415,10 @@ herzberg.de,City,Non-Federal Agency,Herzberg am Harz,NI
 herzberg-elster.de,City,Non-Federal Agency,Herzberg,BB
 herzberg-mark.de,City,Non-Federal Agency,Herzberg,BB
 herzebrock-clarholz.de,City,Non-Federal Agency,Herzebrock-Clarholz,NW
+herzlake.de,City,Non-Federal Agency,Lähden,NI
 herzogenaurach.de,City,Non-Federal Agency,Herzogenaurach,BY
 herzogenrath.de,City,Non-Federal Agency,Herzogenrath,NW
-hesel.de,City,Non-Federal Agency,Brinkum,NI
+hesel.de,City,Non-Federal Agency,Holtland,NI
 hessdorf.de,City,Non-Federal Agency,Heßdorf,BY
 hesseneck-odenwald.de,City,Non-Federal Agency,Hesseneck,HE
 hessigheim.de,City,Non-Federal Agency,Hessigheim,BW
@@ -3375,6 +3427,7 @@ hessisch-oldendorf.de,City,Non-Federal Agency,Hessisch Oldendorf,NI
 hetlingen.de,City,Non-Federal Agency,Hetlingen,SH
 hettenleidelheim.de,City,Non-Federal Agency,Hettenleidelheim,RP
 hettenrodt.de,City,Non-Federal Agency,Hettenrodt,RP
+hettenshausen.de,City,Non-Federal Agency,Hettenshausen,BY
 hettingen.de,City,Non-Federal Agency,Hettingen,BW
 hettstadt.de,City,Non-Federal Agency,Hettstadt,BY
 hettstedt.de,City,Non-Federal Agency,Hettstedt,ST
@@ -3401,7 +3454,7 @@ hilgertshausen-tandern.de,City,Non-Federal Agency,Hilgertshausen-Tandern,BY
 hilkenbrook.de,City,Non-Federal Agency,Hilkenbrook,NI
 hille.de,City,Non-Federal Agency,Hille,NW
 hillerse.de,City,Non-Federal Agency,Hillerse,NI
-hillesheim.de,City,Non-Federal Agency,Hillesheim,RP
+hillesheim.de,City,Non-Federal Agency,Dohm-Lammersdorf,RP
 hillesheim-rhh.de,City,Non-Federal Agency,Hillesheim,RP
 hilpoltstein.de,City,Non-Federal Agency,Hilpoltstein,BY
 hilst.de,City,Non-Federal Agency,Hilst,RP
@@ -3441,6 +3494,7 @@ hochborn.de,City,Non-Federal Agency,Hochborn,RP
 hochdorf.de,City,Non-Federal Agency,Hochdorf,BW
 hochheim.de,City,Non-Federal Agency,Hochheim am Main,HE
 hochkirch.de,City,Non-Federal Agency,Hochkirch,SN
+hochspeyer.eu,City,Non-Federal Agency,Hochspeyer,RP
 hochstadt-main.de,City,Non-Federal Agency,Hochstadt am Main,BY
 hochstadt-pfalz.de,City,Non-Federal Agency,Hochstadt,RP
 hochstaetten-pfalz.de,City,Non-Federal Agency,Hochstätten,RP
@@ -3463,7 +3517,7 @@ hoenningen-ahr.de,City,Non-Federal Agency,Hönningen,RP
 hoepfingen.de,City,Non-Federal Agency,Höpfingen,BW
 hoerdt-pfalz.de,City,Non-Federal Agency,Hördt,RP
 hoeringen.de,City,Non-Federal Agency,Höringen,RP
-hoerlkofen.landkreis-erding.de,City,Non-Federal Agency,Walpertskirchen,BY
+hoerlkofen.landkreis-erding.de,City,Non-Federal Agency,Wörth,BY
 hoerselberg-hainich.de,City,Non-Federal Agency,Hörselberg-Hainich,TH
 hoersel.de,City,Non-Federal Agency,Hörsel,TH
 hoerstel.de,City,Non-Federal Agency,Hörstel,NW
@@ -3527,6 +3581,7 @@ hollfeld.de,City,Non-Federal Agency,Hollfeld,BY
 hollingstedt.de,City,Non-Federal Agency,Hollingstedt,SH
 hollingstedt-dithmarschen.de,City,Non-Federal Agency,Hollingstedt,SH
 hollstadt.de,City,Non-Federal Agency,Hollstadt,BY
+holste.de,City,Non-Federal Agency,Holste,NI
 holsthum.de,City,Non-Federal Agency,Holsthum,RP
 holtgast.de,City,Non-Federal Agency,Holtgast,NI
 holtriem.de,City,Non-Federal Agency,Eversmeer,NI
@@ -3563,13 +3618,14 @@ horka.de,City,Non-Federal Agency,Horka,SN
 horn-badmeinberg.de,City,Non-Federal Agency,Horn-Bad Meinberg,NW
 hornbek.de,City,Non-Federal Agency,Hornbek,SH
 hornberg.de,City,Non-Federal Agency,Hornberg,BW
-horneburg.de,City,Non-Federal Agency,Dollern,NI
+horneburg.de,City,Non-Federal Agency,Agathenburg,NI
 horn-hunsrueck.de,City,Non-Federal Agency,Horn,RP
 horrweiler.de,City,Non-Federal Agency,Horrweiler,RP
 horschbach.com,City,Non-Federal Agency,Horschbach,RP
 horstedt.de,City,Non-Federal Agency,Horstedt,SH
 horstmar.de,City,Non-Federal Agency,Horstmar,NW
-hoya-weser.de,City,Non-Federal Agency,Warpe,NI
+hov.isgv.de,City,Non-Federal Agency,Hartmannsdorf-Reichenau,SN
+hoya-weser.de,City,Non-Federal Agency,Hoya,NI
 hoyershausen.de,City,Non-Federal Agency,Hoyershausen,NI
 hoyerswerda.de,City,Non-Federal Agency,Hoyerswerda,SN
 hude.de,City,Non-Federal Agency,Hude,NI
@@ -3579,7 +3635,7 @@ hueffelsheim.de,City,Non-Federal Agency,Hüffelsheim,RP
 hueffenhardt.de,City,Non-Federal Agency,Hüffenhardt,BW
 hueffler.net,City,Non-Federal Agency,Hüffler,RP
 huefingen.de,City,Non-Federal Agency,Hüfingen,BW
-huegelland-taeler.de,City,Non-Federal Agency,Waltersdorf,TH
+huegelland-taeler.de,City,Non-Federal Agency,Tissa,TH
 huegelsheim.de,City,Non-Federal Agency,Hügelsheim,BW
 huelben.de,City,Non-Federal Agency,Hülben,BW
 huellhorst.de,City,Non-Federal Agency,Hüllhorst,NW
@@ -3600,6 +3656,7 @@ huisheim.de,City,Non-Federal Agency,Huisheim,BY
 hummelshain-schmoelln.de,City,Non-Federal Agency,Hummelshain,TH
 hummeltal.de,City,Non-Federal Agency,Hummeltal,BY
 hunderdorf.de,City,Non-Federal Agency,Hunderdorf,BY
+hundhaupten.de,City,Non-Federal Agency,Hundhaupten,TH
 hunding.de,City,Non-Federal Agency,Hunding,BY
 hundsangen.de,City,Non-Federal Agency,Hundsangen,RP
 hungen.de,City,Non-Federal Agency,Hungen,HE
@@ -3638,7 +3695,7 @@ illingen-online.de,City,Non-Federal Agency,Illingen,BW
 illingen-saar.de,City,Non-Federal Agency,Illingen,SL
 illmensee.de,City,Non-Federal Agency,Illmensee,BW
 illschwang.de,City,Non-Federal Agency,Illschwang,BY
-ilmenau.de,City,Non-Federal Agency,Ilmenau,TH
+ilmenau.de,City,Non-Federal Agency,Deutsch Evern,NI
 ilmmuenster.123cms.de,City,Non-Federal Agency,Ilmmünster,BY
 ilmtal-weinstrasse.de,City,Non-Federal Agency,Ilmtal-Weinstraße,TH
 ilsfeld.de,City,Non-Federal Agency,Ilsfeld,BW
@@ -3663,7 +3720,7 @@ ingolstadt.de,City,Non-Federal Agency,Ingolstadt,BY
 innernzell.de,City,Non-Federal Agency,Innernzell,BY
 inning.de,City,Non-Federal Agency,Inning am Ammersee,BY
 insheim.de,City,Non-Federal Agency,Insheim,RP
-insingen.de,City,Non-Federal Agency,Insingen,BY
+in-singen.de,City,Non-Federal Agency,Singen (Hohentwiel),BW
 insul.de,City,Non-Federal Agency,Insul,RP
 inzigkofen.de,City,Non-Federal Agency,Inzigkofen,BW
 inzlingen.de,City,Non-Federal Agency,Inzlingen,BW
@@ -3780,6 +3837,7 @@ kammlach.de,City,Non-Federal Agency,Kammlach,BY
 kamp-bornhofen.de,City,Non-Federal Agency,Kamp-Bornhofen,RP
 kampen.de,City,Non-Federal Agency,Kampen,SH
 kamp-lintfort.de,City,Non-Federal Agency,Kamp-Lintfort,NW
+kamsdorf.de,City,Non-Federal Agency,Kamsdorf,TH
 kandel.de,City,Non-Federal Agency,Kandel,RP
 kandern.de,City,Non-Federal Agency,Kandern,BW
 kanzem.de,City,Non-Federal Agency,Kanzem,RP
@@ -3828,7 +3886,7 @@ kelberg.de,City,Non-Federal Agency,Kelberg,RP
 kelbra.de,City,Non-Federal Agency,Kelbra,ST
 kelheim.de,City,Non-Federal Agency,Kelheim,BY
 kelkheim.de,City,Non-Federal Agency,Kelkheim (Taunus),HE
-kell-am-see.de,City,Non-Federal Agency,Waldweiler,RP
+kellamsee.de,City,Non-Federal Agency,Kell am See,RP
 kellinghusen.de,City,Non-Federal Agency,Kellinghusen,SH
 kellmuenz.de,City,Non-Federal Agency,Kellmünz an der Iller,BY
 kelsterbach.de,City,Non-Federal Agency,Kelsterbach,HE
@@ -3866,20 +3924,21 @@ kindenheim.de,City,Non-Federal Agency,Kindenheim,RP
 kinding.de,City,Non-Federal Agency,Kinding,BY
 kindsbach.de,City,Non-Federal Agency,Kindsbach,RP
 kinheim.de,City,Non-Federal Agency,Kinheim,RP
+kinsau.de,City,Non-Federal Agency,Kinsau,BY
 kinzenburg.de,City,Non-Federal Agency,Kinzenburg,RP
 kipfenberg.de,City,Non-Federal Agency,Kipfenberg,BY
 kippenheim.de,City,Non-Federal Agency,Kippenheim,BW
 kirchanschoering.info,City,Non-Federal Agency,Kirchanschöring,BY
 kirchardt.de,City,Non-Federal Agency,Kirchardt,BW
 kirchberg.de,City,Non-Federal Agency,Kirchberg,SN
-kirchberg-hunsrueck.de,City,Non-Federal Agency,Raversbeuren,RP
+kirchberg-hunsrueck.de,City,Non-Federal Agency,Kludenbach,RP
 kirchberg-iller.de,City,Non-Federal Agency,Kirchberg an der Iller,BW
 kirchbergimwald.de,City,Non-Federal Agency,Kirchberg im Wald,BY
 kirchberg-jagst.de,City,Non-Federal Agency,Kirchberg an der Jagst,BW
 kirchberg-murr.de,City,Non-Federal Agency,Kirchberg an der Murr,BW
 kirchbrak.de,City,Non-Federal Agency,Kirchbrak,NI
 kirchdorfaminn.de,City,Non-Federal Agency,Kirchdorf am Inn,BY
-kirchdorf.de,City,Non-Federal Agency,Bahrenborstel,NI
+kirchdorf.de,City,Non-Federal Agency,Freistatt,NI
 kirchdorf-iller.de,City,Non-Federal Agency,Kirchdorf an der Iller,BW
 kirchdorf-im-wald.de,City,Non-Federal Agency,Kirchdorf im Wald,BY
 kirchdorf-online.de,City,Non-Federal Agency,Kirchdorf,BY
@@ -3897,11 +3956,12 @@ kirchham.de,City,Non-Federal Agency,Kirchham,BY
 kirchheilingen.com,City,Non-Federal Agency,Kirchheilingen,TH
 kirchheim-am-neckar.de,City,Non-Federal Agency,Kirchheim am Neckar,BW
 kirchheim-am-ries.de,City,Non-Federal Agency,Kirchheim am Ries,BW
-kirchheimbolanden.de,City,Non-Federal Agency,Ilbesheim,RP
+kirchheimbolanden.de,City,Non-Federal Agency,Bennhausen,RP
 kirchheim.de,City,Non-Federal Agency,Kirchheim,HE
 kirchheim-heimstetten.de,City,Non-Federal Agency,Kirchheim bei München,BY
 kirchheim-schwaben.de,City,Non-Federal Agency,Kirchheim in Schwaben,BY
 kirchheim-teck.de,City,Non-Federal Agency,Kirchheim unter Teck,BW
+kirchheim-thueringen.de,City,Non-Federal Agency,Kirchheim,TH
 kirchheim-ufr.de,City,Non-Federal Agency,Kirchheim,BY
 kirchheim-weinstrasse.de,City,Non-Federal Agency,Kirchheim an der Weinstraße,RP
 kirchhundem.de,City,Non-Federal Agency,Kirchhundem,NW
@@ -3929,7 +3989,7 @@ kisselbach.org,City,Non-Federal Agency,Kisselbach,RP
 kissenbrueck.de,City,Non-Federal Agency,Kissenbrück,NI
 kissing.de,City,Non-Federal Agency,Kissing,BY
 kisslegg.de,City,Non-Federal Agency,Kißlegg,BW
-kitzingen.de,City,Non-Federal Agency,Albertshofen,BY
+kitzingen.de,City,Non-Federal Agency,Biebelried,BY
 kitzingen.info,City,Non-Federal Agency,Kitzingen,BY
 kitzscher.de,City,Non-Federal Agency,Kitzscher,SN
 klanxbuell.de,City,Non-Federal Agency,Klanxbüll,SH
@@ -3982,6 +4042,7 @@ kluesserath.de,City,Non-Federal Agency,Klüsserath,RP
 kluetzer-winkel.de,City,Non-Federal Agency,Zierow,MV
 kluetz-mv.de,City,Non-Federal Agency,Klütz,MV
 knau.de,City,Non-Federal Agency,Knau,TH
+kneitlingen.de,City,Non-Federal Agency,Kneitlingen,NI
 knetzgau.de,City,Non-Federal Agency,Knetzgau,BY
 knittelsheim.de,City,Non-Federal Agency,Knittelsheim,RP
 knittlingen.de,City,Non-Federal Agency,Knittlingen,BW
@@ -4042,6 +4103,7 @@ konradsreuth.de,City,Non-Federal Agency,Konradsreuth,BY
 konstanz.de,City,Non-Federal Agency,Konstanz,BW
 konz.de,City,Non-Federal Agency,Konz,RP
 konzell.de,City,Non-Federal Agency,Konzell,BY
+konz.eu,City,Non-Federal Agency,Onsdorf,RP
 korbach.de,City,Non-Federal Agency,Korbach,HE
 korb.de,City,Non-Federal Agency,Korb,BW
 korlingen.de,City,Non-Federal Agency,Korlingen,RP
@@ -4098,7 +4160,7 @@ kronburg.de,City,Non-Federal Agency,Kronburg,BY
 kronprinzenkoog.de,City,Non-Federal Agency,Kronprinzenkoog,SH
 kronsgaard.de,City,Non-Federal Agency,Kronsgaard,SH
 kronshagen.de,City,Non-Federal Agency,Kronshagen,SH
-kropp.de,City,Non-Federal Agency,Börm,SH
+kropp.de,City,Non-Federal Agency,Kropp,SH
 kroppen-osl.de,City,Non-Federal Agency,Kroppen,BB
 krostitz.de,City,Non-Federal Agency,Krostitz,SN
 krottelbach.de,City,Non-Federal Agency,Krottelbach,RP
@@ -4152,11 +4214,12 @@ laatzen.de,City,Non-Federal Agency,Laatzen,NI
 labenz.de,City,Non-Federal Agency,Labenz,SH
 laberweinting.de,City,Non-Federal Agency,Laberweinting,BY
 laboe.de,City,Non-Federal Agency,Laboe,SH
-lachendorf.de,City,Non-Federal Agency,Eldingen,NI
+lachendorf.de,City,Non-Federal Agency,Lachendorf,NI
 ladbergen.de,City,Non-Federal Agency,Ladbergen,NW
 ladelund.de,City,Non-Federal Agency,Ladelund,SH
 ladenburg.de,City,Non-Federal Agency,Ladenburg,BW
 laegerdorf.de,City,Non-Federal Agency,Lägerdorf,SH
+laendereck.de,City,Non-Federal Agency,Seelingstädt,TH
 laer.de,City,Non-Federal Agency,Laer,NW
 lage.de,City,Non-Federal Agency,Lage,NW
 lahnau.de,City,Non-Federal Agency,Lahnau,HE
@@ -4174,7 +4237,7 @@ lambsheim.de,City,Non-Federal Agency,Heuchelheim bei Frankenthal,RP
 lamerdingen.de,City,Non-Federal Agency,Lamerdingen,BY
 lampaden.de,City,Non-Federal Agency,Lampaden,RP
 lampertheim.de,City,Non-Federal Agency,Lampertheim,HE
-lamspringe.de,City,Non-Federal Agency,Lamspringe,NI
+lamspringe.de,City,Non-Federal Agency,Neuhof,NI
 lamstedt.de,City,Non-Federal Agency,Lamstedt,NI
 landau.de,City,Non-Federal Agency,Landau in der Pfalz,RP
 landau-isar.de,City,Non-Federal Agency,Landau an der Isar,BY
@@ -4258,6 +4321,7 @@ laufeld.de,City,Non-Federal Agency,Laufeld,RP
 laufenburg.de,City,Non-Federal Agency,Laufenburg (Baden),BW
 lauffen.de,City,Non-Federal Agency,Lauffen am Neckar,BW
 lauf-schwarzwald.de,City,Non-Federal Agency,Lauf,BW
+laugna.de,City,Non-Federal Agency,Laugna,BY
 lauingen.de,City,Non-Federal Agency,Lauingen an der Donau,BY
 laumersheim.de,City,Non-Federal Agency,Laumersheim,RP
 lauperath.de,City,Non-Federal Agency,Lauperath,RP
@@ -4283,10 +4347,12 @@ lautzenhausen-hunsrueck.de,City,Non-Federal Agency,Lautzenhausen,RP
 lawalde.de,City,Non-Federal Agency,Lawalde,SN
 lebach.de,City,Non-Federal Agency,Lebach,SL
 lebrade.de,City,Non-Federal Agency,Lebrade,SH
+lechfeld.de,City,Non-Federal Agency,Untermeitingen,BY
 leck.de,City,Non-Federal Agency,Leck,SH
 leegebruch.de,City,Non-Federal Agency,Leegebruch,BB
 leer.de,City,Non-Federal Agency,Leer,NI
 leese.de,City,Non-Federal Agency,Leese,NI
+leezdorf.de,City,Non-Federal Agency,Leezdorf,NI
 leezen-holstein.de,City,Non-Federal Agency,Leezen,SH
 legau.de,City,Non-Federal Agency,Legau,BY
 legden.de,City,Non-Federal Agency,Legden,NW
@@ -4335,6 +4401,7 @@ lenningen.de,City,Non-Federal Agency,Lenningen,BW
 lensahn.de,City,Non-Federal Agency,Lensahn,SH
 lentfoehrden.de,City,Non-Federal Agency,Lentföhrden,SH
 lenting.de,City,Non-Federal Agency,Lenting,BY
+lenzenelbe.de,City,Non-Federal Agency,Lenzen,BB
 lenzkirch.de,City,Non-Federal Agency,Lenzkirch,BW
 leonberg.de,City,Non-Federal Agency,Leonberg,BW
 leopoldshoehe.de,City,Non-Federal Agency,Leopoldshöhe,NW
@@ -4365,6 +4432,7 @@ lichtenfels-city.de,City,Non-Federal Agency,Lichtenfels,BY
 lichtenstein-sachsen.de,City,Non-Federal Agency,Lichtenstein/Sa.,SN
 lichtenwald.de,City,Non-Federal Agency,Lichtenwald,BW
 liebenau.com,City,Non-Federal Agency,Liebenau,NI
+liebenau.de,City,Non-Federal Agency,Pennigsehl,NI
 liebenburg.de,City,Non-Federal Agency,Liebenburg,NI
 liebenwalde.de,City,Non-Federal Agency,Liebenwalde,BB
 lieberose-niederlausitz.de,City,Non-Federal Agency,Lieberose,BB
@@ -4409,15 +4477,16 @@ linz-vg.de,City,Non-Federal Agency,Kasbach-Ohlenberg,RP
 lippetal.de,City,Non-Federal Agency,Lippetal,NW
 lippstadt.de,City,Non-Federal Agency,Lippstadt,NW
 lirstal-eifel.de,City,Non-Federal Agency,Lirstal,RP
-lisberg.de,City,Non-Federal Agency,Priesendorf,BY
+lisberg.de,City,Non-Federal Agency,Lisberg,BY
 lissendorf.de,City,Non-Federal Agency,Lissendorf,RP
 litzendorf.de,City,Non-Federal Agency,Litzendorf,BY
+lk-demmin.de,City,Non-Federal Agency,Utzedel,MV
 lobbach.de,City,Non-Federal Agency,Lobbach,BW
 loebau.de,City,Non-Federal Agency,Löbau,SN
 loebnitz-am-see.de,City,Non-Federal Agency,Löbnitz,SN
 loechgau.de,City,Non-Federal Agency,Löchgau,BW
 loecknitz.com,City,Non-Federal Agency,Löcknitz,MV
-loecknitz-online.de,City,Non-Federal Agency,Nadrensee,MV
+loecknitz-online.de,City,Non-Federal Agency,Krackow,MV
 loeffingen.de,City,Non-Federal Agency,Löffingen,BW
 loef-kattenes.de,City,Non-Federal Agency,Löf,RP
 loehne.de,City,Non-Federal Agency,Löhne,NW
@@ -4447,7 +4516,7 @@ lohrheim.de,City,Non-Federal Agency,Lohrheim,RP
 lohsa.de,City,Non-Federal Agency,Lohsa,SN
 loiching.de,City,Non-Federal Agency,Loiching,BY
 loitsche.de,City,Non-Federal Agency,Loitsche-Heinrichsberg,ST
-loitz.de,City,Non-Federal Agency,Görmin,MV
+loitz.de,City,Non-Federal Agency,Loitz,MV
 loitzendorf.de,City,Non-Federal Agency,Loitzendorf,BY
 lollar.de,City,Non-Federal Agency,Lollar,HE
 lommatzsch.de,City,Non-Federal Agency,Lommatzsch,SN
@@ -4481,6 +4550,7 @@ ludwigswinkel.de,City,Non-Federal Agency,Ludwigswinkel,RP
 luebbecke.de,City,Non-Federal Agency,Lübbecke,NW
 luebbenau-spreewald.de,City,Non-Federal Agency,Lübbenau/Spreewald,BB
 luebben.de,City,Non-Federal Agency,Lübben (Spreewald),BB
+luebberstedt.de,City,Non-Federal Agency,Lübberstedt,NI
 luebeck.de,City,Non-Federal Agency,Lübeck,SH
 luebtheen.de,City,Non-Federal Agency,Lübtheen,MV
 luebz.de,City,Non-Federal Agency,Lübz,MV
@@ -4490,20 +4560,21 @@ lueckenburg.de,City,Non-Federal Agency,Lückenburg,RP
 luedenscheid.de,City,Non-Federal Agency,Lüdenscheid,NW
 luedinghausen.de,City,Non-Federal Agency,Lüdinghausen,NW
 luegde.de,City,Non-Federal Agency,Lügde,NW
-luehe-online.de,City,Non-Federal Agency,Mittelnkirchen,NI
+luehe-online.de,City,Non-Federal Agency,Hollern-Twielenfleth,NI
 luelsfeld.de,City,Non-Federal Agency,Lülsfeld,BY
 luenebach.info,City,Non-Federal Agency,Lünebach,RP
 luenen.de,City,Non-Federal Agency,Lünen,NW
 luenne.de,City,Non-Federal Agency,Lünne,NI
 luerschau.de,City,Non-Federal Agency,Lürschau,SH
 luetau.de,City,Non-Federal Agency,Lütau,SH
+luetetsburg.de,City,Non-Federal Agency,Lütetsburg,NI
 luetjenholm.de,City,Non-Federal Agency,Lütjenholm,SH
 luetjensee.de,City,Non-Federal Agency,Lütjensee,SH
 luetjenwestedt.de,City,Non-Federal Agency,Lütjenwestedt,SH
 luetzelbach.de,City,Non-Federal Agency,Lützelbach,HE
 luetz-hunsrueck.de,City,Non-Federal Agency,Lütz,RP
 luetzkampen.de,City,Non-Federal Agency,Lützkampen,RP
-luetzow-luebstorf.de,City,Non-Federal Agency,Gottesgabe,MV
+luetzow-luebstorf.de,City,Non-Federal Agency,Perlin,MV
 luftkurortflechtingen.de,City,Non-Federal Agency,Flechtingen,ST
 lugau-erzgebirge.de,City,Non-Federal Agency,Lugau/Erzgeb.,SN
 lug-pfalz.de,City,Non-Federal Agency,Lug,RP
@@ -4531,7 +4602,7 @@ magstadt.de,City,Non-Federal Agency,Magstadt,BW
 mahlberg.de,City,Non-Federal Agency,Mahlberg,BW
 mahlstetten.de,City,Non-Federal Agency,Mahlstetten,BW
 maierhoefen.de,City,Non-Federal Agency,Maierhöfen,BY
-maifeld.de,City,Non-Federal Agency,Einig,RP
+maifeld.de,City,Non-Federal Agency,Gappenach,RP
 maihingen.de,City,Non-Federal Agency,Maihingen,BY
 maikammer.de,City,Non-Federal Agency,Maikammer,RP
 mainaschaff.de,City,Non-Federal Agency,Mainaschaff,BY
@@ -4540,6 +4611,7 @@ mainburg.de,City,Non-Federal Agency,Mainburg,BY
 mainhardt.de,City,Non-Federal Agency,Mainhardt,BW
 mainhausen.de,City,Non-Federal Agency,Mainhausen,HE
 mainleus.de,City,Non-Federal Agency,Mainleus,BY
+mainstockheim.de,City,Non-Federal Agency,Mainstockheim,BY
 maintal.de,City,Non-Federal Agency,Maintal,HE
 mainz.de,City,Non-Federal Agency,Mainz,RP
 maisach.de,City,Non-Federal Agency,Maisach,BY
@@ -4575,6 +4647,7 @@ margetshoechheim.de,City,Non-Federal Agency,Margetshöchheim,BY
 mariaposching.de,City,Non-Federal Agency,Mariaposching,BY
 marienberg.de,City,Non-Federal Agency,Marienberg,SN
 marienfels.de,City,Non-Federal Agency,Marienfels,RP
+marienhafe.de,City,Non-Federal Agency,Marienhafe,NI
 marienhausen.de,City,Non-Federal Agency,Marienhausen,RP
 marienheide.de,City,Non-Federal Agency,Marienheide,NW
 marienmuenster.de,City,Non-Federal Agency,Marienmünster,NW
@@ -4738,7 +4811,7 @@ meinheim.de,City,Non-Federal Agency,Meinheim,BY
 meiningen.de,City,Non-Federal Agency,Meiningen,TH
 mein-schweinschied.de,City,Non-Federal Agency,Schweinschied,RP
 meisburg.de,City,Non-Federal Agency,Meisburg,RP
-meisenheim.de,City,Non-Federal Agency,Meisenheim,RP
+meisenheim.de,City,Non-Federal Agency,Lettweiler,RP
 meissenheim.de,City,Non-Federal Agency,Meißenheim,BW
 melchow.de,City,Non-Federal Agency,Melchow,BB
 meldorf-nordsee.de,City,Non-Federal Agency,Meldorf,SH
@@ -4797,6 +4870,7 @@ metzingen.de,City,Non-Federal Agency,Metzingen,BW
 meura.de,City,Non-Federal Agency,Meura,TH
 meuselbach.de,City,Non-Federal Agency,Meuselbach-Schwarzmühle,TH
 meuselwitz.de,City,Non-Federal Agency,Meuselwitz,TH
+meyenburg.de,City,Non-Federal Agency,Meyenburg,BB
 michelau.de,City,Non-Federal Agency,Michelau im Steigerwald,BY
 michelbach-bilz.de,City,Non-Federal Agency,Michelbach an der Bilz,BW
 michelbach-westerwald.de,City,Non-Federal Agency,Michelbach,RP
@@ -4840,7 +4914,7 @@ mitterfels.de,City,Non-Federal Agency,Mitterfels,BY
 mitterskirchen.de,City,Non-Federal Agency,Mitterskirchen,BY
 mitterteich.de,City,Non-Federal Agency,Mitterteich,BY
 mittleres-nessetal.de,City,Non-Federal Agency,Wangenheim,TH
-mittleres-schwarzatal.de,City,Non-Federal Agency,Schwarzburg,TH
+mittleres-schwarzatal.de,City,Non-Federal Agency,Dröbischau,TH
 mittweida.de,City,Non-Federal Agency,Mittweida,SN
 mitwitz.de,City,Non-Federal Agency,Mitwitz,BY
 mockrehna.de,City,Non-Federal Agency,Mockrehna,SN
@@ -4917,6 +4991,7 @@ much.de,City,Non-Federal Agency,Much,NW
 mudau.de,City,Non-Federal Agency,Mudau,BW
 mudersbach.net,City,Non-Federal Agency,Mudersbach,RP
 muecheln.de,City,Non-Federal Agency,Mücheln,ST
+muecka.de,City,Non-Federal Agency,Mücka,SN
 mueckeln.de,City,Non-Federal Agency,Mückeln,RP
 mueden-aller.de,City,Non-Federal Agency,Müden (Aller),NI
 mueden-mosel.de,City,Non-Federal Agency,Müden (Mosel),RP
@@ -4962,6 +5037,7 @@ muensing.de,City,Non-Federal Agency,Münsing,BY
 muensingen.de,City,Non-Federal Agency,Münsingen,BW
 muenster.de,City,Non-Federal Agency,Münster,NW
 muensterdorf.de,City,Non-Federal Agency,Münsterdorf,SH
+muensterhausen.de,City,Non-Federal Agency,Münsterhausen,BY
 muenster-hessen.de,City,Non-Federal Agency,Münster,HE
 muenstermaifeld.de,City,Non-Federal Agency,Münstermaifeld,RP
 muenster-sarmsheim.de,City,Non-Federal Agency,Münster-Sarmsheim,RP
@@ -5058,7 +5134,7 @@ neubiberg.de,City,Non-Federal Agency,Neubiberg,BY
 neubrandenburg.de,City,Non-Federal Agency,Neubrandenburg,MV
 neubrunn.de,City,Non-Federal Agency,Neubrunn,BY
 neubukow.de,City,Non-Federal Agency,Neubukow,MV
-neubukow-salzhaff.de,City,Non-Federal Agency,Kirch Mulsow,MV
+neubukow-salzhaff.de,City,Non-Federal Agency,Bastorf,MV
 neubulach.de,City,Non-Federal Agency,Neubulach,BW
 neuburg-am-inn.de,City,Non-Federal Agency,Neuburg am Inn,BY
 neuburg-donau.de,City,Non-Federal Agency,Neuburg an der Donau,BY
@@ -5075,7 +5151,7 @@ neuendorf-elbmarsch.de,City,Non-Federal Agency,Neuendorf b. Elmshorn,SH
 neuendorf-main.de,City,Non-Federal Agency,Neuendorf,BY
 neuengoers.de,City,Non-Federal Agency,Neuengörs,SH
 neuenhagen-bei-berlin.de,City,Non-Federal Agency,Neuenhagen bei Berlin,BB
-neuenhaus.de,City,Non-Federal Agency,Neuenhaus,NI
+neuenhaus.de,City,Non-Federal Agency,Georgsdorf,NI
 neuenkirchen.de,City,Non-Federal Agency,Neuenkirchen,NW
 neuenkirchen-os.de,City,Non-Federal Agency,Neuenkirchen,NI
 neuenkirchen-voerden.de,City,Non-Federal Agency,Neuenkirchen-Vörden,NI
@@ -5122,7 +5198,8 @@ neukirchen-vluyn.de,City,Non-Federal Agency,Neukirchen-Vluyn,NW
 neukirchen-vorm-wald.de,City,Non-Federal Agency,Neukirchen vorm Wald,BY
 neukirch-gemeinde.de,City,Non-Federal Agency,Neukirch,BW
 neukirch-lausitz.de,City,Non-Federal Agency,Neukirch/Lausitz,SN
-neukloster.de,City,Non-Federal Agency,Jesendorf,MV
+neukloster.de,City,Non-Federal Agency,Züsow,MV
+neulehe.de,City,Non-Federal Agency,Neulehe,NI
 neuleiningen.de,City,Non-Federal Agency,Neuleiningen,RP
 neuler.de,City,Non-Federal Agency,Neuler,BW
 neulingen.de,City,Non-Federal Agency,Neulingen,BW
@@ -5215,6 +5292,7 @@ niederhambach.com,City,Non-Federal Agency,Niederhambach,RP
 niederhausennahe.de,City,Non-Federal Agency,Niederhausen,RP
 niederheimbach.de,City,Non-Federal Agency,Niederheimbach,RP
 nieder-hilbersheim.de,City,Non-Federal Agency,Nieder-Hilbersheim,RP
+niederhofen.de,City,Non-Federal Agency,Niederhofen,RP
 niederhorbach.de,City,Non-Federal Agency,Niederhorbach,RP
 niederhosenbach.de,City,Non-Federal Agency,Niederhosenbach,RP
 niederkassel.de,City,Non-Federal Agency,Niederkassel,NW
@@ -5258,8 +5336,10 @@ niemetal.de,City,Non-Federal Agency,Niemetal,NI
 nienborstel.net,City,Non-Federal Agency,Nienborstel,SH
 nienburg.de,City,Non-Federal Agency,Nienburg/Weser,NI
 niendorf-adst.de,City,Non-Federal Agency,Niendorf a. d. St.,SH
+nienstaedt.de,City,Non-Federal Agency,Nienstädt,NI
 niersbach-greverath.de,City,Non-Federal Agency,Niersbach,RP
 nierstein.de,City,Non-Federal Agency,Nierstein,RP
+nierstein-oppenheim.de,City,Non-Federal Agency,Mommenheim,RP
 niesgrau.de,City,Non-Federal Agency,Niesgrau,SH
 niesky.de,City,Non-Federal Agency,Niesky,SN
 nieste.de,City,Non-Federal Agency,Nieste,HE
@@ -5294,7 +5374,7 @@ nordheim-main.de,City,Non-Federal Agency,Nordheim am Main,BY
 nordheimvdrhoen.rhoen-saale.net,City,Non-Federal Agency,Nordheim vor der Rhön,BY
 nordhofen.de,City,Non-Federal Agency,Nordhofen,RP
 nordhorn.de,City,Non-Federal Agency,Nordhorn,NI
-nordkehdingen.de,City,Non-Federal Agency,Freiburg/Elbe,NI
+nordkehdingen.de,City,Non-Federal Agency,Balje,NI
 nordkirchen.de,City,Non-Federal Agency,Nordkirchen,NW
 nordleda.de,City,Non-Federal Agency,Nordleda,NI
 nordrach.de,City,Non-Federal Agency,Nordrach,BW
@@ -5304,6 +5384,7 @@ nordwalde.de,City,Non-Federal Agency,Nordwalde,NW
 norheim.de,City,Non-Federal Agency,Norheim,RP
 norstedt.de,City,Non-Federal Agency,Norstedt,SH
 northeim.de,City,Non-Federal Agency,Northeim,NI
+nortmoor.de,City,Non-Federal Agency,Nortmoor,NI
 nortorf.de,City,Non-Federal Agency,Nortorf,SH
 nortrup.de,City,Non-Federal Agency,Nortrup,NI
 nossen.de,City,Non-Federal Agency,Nossen,SN
@@ -5348,10 +5429,11 @@ oberdolling.de,City,Non-Federal Agency,Oberdolling,BY
 oberdreis.de,City,Non-Federal Agency,Oberdreis,RP
 oberduerenbach.de,City,Non-Federal Agency,Oberdürenbach,RP
 obere-aller.de,City,Non-Federal Agency,Völpke,ST
-oberekyll.de,City,Non-Federal Agency,Reuth,RP
+oberekyll.de,City,Non-Federal Agency,Kerschenbach,RP
 oberelsbach-rhoen.de,City,Non-Federal Agency,Oberelsbach,BY
 obererbach.de,City,Non-Federal Agency,Obererbach,RP
 oberes-geratal.de,City,Non-Federal Agency,Liebenstein,TH
+oberes-schlichemtal.de,City,Non-Federal Agency,Dautmergen,BW
 oberfell.de,City,Non-Federal Agency,Oberfell,RP
 ober-floersheim.de,City,Non-Federal Agency,Ober-Flörsheim,RP
 obergriesbach.de,City,Non-Federal Agency,Obergriesbach,BY
@@ -5526,7 +5608,7 @@ olbersdorf.de,City,Non-Federal Agency,Olbersdorf,SN
 olching.de,City,Non-Federal Agency,Olching,BY
 oldenburg.de,City,Non-Federal Agency,Oldenburg,NI
 oldenburg-holstein.de,City,Non-Federal Agency,Oldenburg in Holstein,SH
-oldendorf-himmelpforten.de,City,Non-Federal Agency,Engelschoff,NI
+oldendorf-himmelpforten.de,City,Non-Federal Agency,Heinbockel,NI
 oldersbek.de,City,Non-Federal Agency,Oldersbek,SH
 oldsum-auf-foehr.de,City,Non-Federal Agency,Oldsum,SH
 olfen.de,City,Non-Federal Agency,Olfen,NW
@@ -5570,6 +5652,7 @@ oscherslebenbode.de,City,Non-Federal Agency,Oschersleben,ST
 osnabrueck.de,City,Non-Federal Agency,Osnabrück,NI
 ossling.net,City,Non-Federal Agency,Oßling,SN
 ostbevern.de,City,Non-Federal Agency,Ostbevern,NW
+osteel.de,City,Non-Federal Agency,Osteel,NI
 ostelsheim.de,City,Non-Federal Agency,Ostelsheim,BW
 ostenfeld-nf.de,City,Non-Federal Agency,Ostenfeld,SH
 osterberg-weiler.de,City,Non-Federal Agency,Osterberg,BY
@@ -5588,7 +5671,7 @@ osterspai.de,City,Non-Federal Agency,Osterspai,RP
 osterstedt.de,City,Non-Federal Agency,Osterstedt,SH
 osterzell.de,City,Non-Federal Agency,Osterzell,BY
 ostfildern.de,City,Non-Federal Agency,Ostfildern,BW
-ostheide.de,City,Non-Federal Agency,Neetze,NI
+ostheide.de,City,Non-Federal Agency,Thomasburg,NI
 ostheim.rhoen-saale.net,City,Non-Federal Agency,Ostheim vor der Rhön,BY
 osthofen.de,City,Non-Federal Agency,Osthofen,RP
 ostrach.de,City,Non-Federal Agency,Ostrach,BW
@@ -5638,6 +5721,7 @@ padenstedt.de,City,Non-Federal Agency,Padenstedt,SH
 paderborn.de,City,Non-Federal Agency,Paderborn,NW
 paewesin.de,City,Non-Federal Agency,Päwesin,BB
 painten.de,City,Non-Federal Agency,Painten,BY
+paitzdorf.de,City,Non-Federal Agency,Paitzdorf,TH
 palling.de,City,Non-Federal Agency,Palling,BY
 palzem.de,City,Non-Federal Agency,Palzem,RP
 panker.de,City,Non-Federal Agency,Panker,SH
@@ -5729,7 +5813,7 @@ pinneberg.de,City,Non-Federal Agency,Pinneberg,SH
 pinnow-mv.de,City,Non-Federal Agency,Pinnow,MV
 pintesfeld.de,City,Non-Federal Agency,Pintesfeld,RP
 pirmasens.de,City,Non-Federal Agency,Pirmasens,RP
-pirmasens-land.de,City,Non-Federal Agency,Eppenbrunn,RP
+pirmasens-land.de,City,Non-Federal Agency,Kröppen,RP
 pirna.de,City,Non-Federal Agency,Pirna,SN
 pittenhart.de,City,Non-Federal Agency,Pittenhart,BY
 plaidt.de,City,Non-Federal Agency,Plaidt,RP
@@ -5815,19 +5899,20 @@ probsteierhagen.de,City,Non-Federal Agency,Probsteierhagen,SH
 prohn.de,City,Non-Federal Agency,Prohn,MV
 pronsfeld-eifel.de,City,Non-Federal Agency,Pronsfeld,RP
 pronstorf.de,City,Non-Federal Agency,Pronstorf,SH
+propstei-zella.de,City,Non-Federal Agency,Zella/Rhön,TH
 prosselsheim.de,City,Non-Federal Agency,Prosselsheim,BY
-pruem.de,City,Non-Federal Agency,Masthorn,RP
+pruem.de,City,Non-Federal Agency,Prüm,RP
 pruemzurlay.de,City,Non-Federal Agency,Prümzurlay,RP
 prutting.de,City,Non-Federal Agency,Prutting,BY
 puchheim.de,City,Non-Federal Agency,Puchheim,BY
-puderbach.de,City,Non-Federal Agency,Döttesfeld,RP
+puderbach.de,City,Non-Federal Agency,Niederwambach,RP
 puenderich.de,City,Non-Federal Agency,Pünderich,RP
 puergen.de,City,Non-Federal Agency,Pürgen,BY
 puettlingen.de,City,Non-Federal Agency,Püttlingen,SL
 pulheim.de,City,Non-Federal Agency,Pulheim,NW
 pullach.de,City,Non-Federal Agency,Pullach im Isartal,BY
 pullenreuth.de,City,Non-Federal Agency,Pullenreuth,BY
-pulsnitz.de,City,Non-Federal Agency,Pulsnitz,SN
+pulsnitz.de,City,Non-Federal Agency,Lichtenberg,SN
 puschendorf.de,City,Non-Federal Agency,Puschendorf,BY
 putbus.de,City,Non-Federal Agency,Putbus,MV
 putzbrunn.de,City,Non-Federal Agency,Putzbrunn,BY
@@ -5854,6 +5939,7 @@ radibor.de,City,Non-Federal Agency,Radibor,SN
 radolfzell.de,City,Non-Federal Agency,Radolfzell am Bodensee,BW
 raebke.de,City,Non-Federal Agency,Räbke,NI
 raeckelwitz.de,City,Non-Federal Agency,Räckelwitz,SN
+raetzlingen.de,City,Non-Federal Agency,Rätzlingen,NI
 raguhn-jessnitz.de,City,Non-Federal Agency,Raguhn-Jeßnitz,ST
 rahden.de,City,Non-Federal Agency,Rahden,NW
 rainau.de,City,Non-Federal Agency,Rainau,BW
@@ -5892,12 +5978,12 @@ rastorf.de,City,Non-Federal Agency,Rastorf,SH
 ratekau.de,City,Non-Federal Agency,Ratekau,SH
 rathaus-auma.de,City,Non-Federal Agency,Auma-Weidatal,TH
 rathaus-kreuth.de,City,Non-Federal Agency,Kreuth,BY
-rathaus-muenchenbernsdorf.de,City,Non-Federal Agency,Lederhose,TH
+rathaus-muenchenbernsdorf.de,City,Non-Federal Agency,Saara,TH
 rathaus.pfronten.de,City,Non-Federal Agency,Pfronten,BY
 rathaus.reitimwinkl.de,City,Non-Federal Agency,Reit im Winkl,BY
 rathaus-rottach-egern.de,City,Non-Federal Agency,Rottach-Egern,BY
 rathaus-tegernsee.de,City,Non-Federal Agency,Tegernsee,BY
-rathaus.walkenried.de,City,Non-Federal Agency,Zorge,NI
+rathaus.walkenried.de,City,Non-Federal Agency,Wieda,NI
 rathaus-willingen.de,City,Non-Federal Agency,Willingen,HE
 rathenow.de,City,Non-Federal Agency,Rathenow,BB
 rathjensdorf.de,City,Non-Federal Agency,Rathjensdorf,SH
@@ -5923,11 +6009,12 @@ rechberghausen.de,City,Non-Federal Agency,Rechberghausen,BW
 rechtenbach-spessart.de,City,Non-Federal Agency,Rechtenbach,BY
 rechtenstein.de,City,Non-Federal Agency,Rechtenstein,BW
 rechtmehring.de,City,Non-Federal Agency,Rechtmehring,BY
+rechtsupweg.de,City,Non-Federal Agency,Rechtsupweg,NI
 rech-weindorf.de,City,Non-Federal Agency,Rech,RP
 recke.de,City,Non-Federal Agency,Recke,NW
 reckershausen.de,City,Non-Federal Agency,Reckershausen,RP
 recklinghausen.de,City,Non-Federal Agency,Recklinghausen,NW
-recknitz-trebeltal.de,City,Non-Federal Agency,Drechow,MV
+recknitz-trebeltal.de,City,Non-Federal Agency,Lindholz,MV
 reddelich.de,City,Non-Federal Agency,Reddelich,MV
 rednitzhembach.de,City,Non-Federal Agency,Rednitzhembach,BY
 redwitz.de,City,Non-Federal Agency,Redwitz an der Rodach,BY
@@ -5937,10 +6024,10 @@ regenstauf.de,City,Non-Federal Agency,Regenstauf,BY
 regis-breitingen.de,City,Non-Federal Agency,Regis-Breitingen,SN
 regnitzlosau.de,City,Non-Federal Agency,Regnitzlosau,BY
 rehburg-loccum.de,City,Non-Federal Agency,Rehburg-Loccum,NI
-rehden.de,City,Non-Federal Agency,Rehden,NI
+rehden.de,City,Non-Federal Agency,Wetschen,NI
 rehe-westerwald.de,City,Non-Federal Agency,Rehe,RP
 rehlingen-siersburg.de,City,Non-Federal Agency,Rehlingen-Siersburg,SL
-rehna.de,City,Non-Federal Agency,Wedendorfersee,MV
+rehna.de,City,Non-Federal Agency,Königsfeld,MV
 rehweiler.de,City,Non-Federal Agency,Rehweiler,RP
 reichartshausen.de,City,Non-Federal Agency,Reichartshausen,BW
 reichelsheim.de,City,Non-Federal Agency,Reichelsheim (Odenwald),HE
@@ -5965,6 +6052,7 @@ reifferscheid-hocheifel.de,City,Non-Federal Agency,Reifferscheid,RP
 reiff-net.de,City,Non-Federal Agency,Reiff,RP
 reilingen.de,City,Non-Federal Agency,Reilingen,BW
 reil-mosel.de,City,Non-Federal Agency,Reil,RP
+reimlingen.de,City,Non-Federal Agency,Reimlingen,BY
 reinbek.de,City,Non-Federal Agency,Reinbek,SH
 reinfeld.de,City,Non-Federal Agency,Reinfeld,SH
 reinhardshagen.de,City,Non-Federal Agency,Reinhardshagen,HE
@@ -5991,7 +6079,7 @@ remshalden.de,City,Non-Federal Agency,Remshalden,BW
 rendsburg.de,City,Non-Federal Agency,Rendsburg,SH
 rengsdorf.de,City,Non-Federal Agency,Rüscheid,RP
 renkenberge.de,City,Non-Federal Agency,Renkenberge,NI
-rennerod.de,City,Non-Federal Agency,Bretthausen,RP
+rennerod.de,City,Non-Federal Agency,Waldmühlen,RP
 rennertshofen.de,City,Non-Federal Agency,Rennertshofen,BY
 renningen.de,City,Non-Federal Agency,Renningen,BW
 renquishausen.de,City,Non-Federal Agency,Renquishausen,BW
@@ -5999,6 +6087,7 @@ rentweinsdorf.de,City,Non-Federal Agency,Rentweinsdorf,BY
 reppenstedt.de,City,Non-Federal Agency,Reppenstedt,NI
 rerik.de,City,Non-Federal Agency,Rerik,MV
 rethem.de,City,Non-Federal Agency,Rethem (Aller),NI
+rethem.net,City,Non-Federal Agency,Frankenfeld,NI
 retschow.de,City,Non-Federal Agency,Retschow,MV
 rettenbach-am-auerberg.de,City,Non-Federal Agency,Rettenbach am Auerberg,BY
 rettenbach.de,City,Non-Federal Agency,Rettenbach,BY
@@ -6037,7 +6126,7 @@ rhinow.de,City,Non-Federal Agency,Kleßen-Görne,BB
 rhodt.de,City,Non-Federal Agency,Rhodt unter Rietburg,RP
 rhoen-saale.net,City,Non-Federal Agency,Stockheim,BY
 ribbesbuettel.de,City,Non-Federal Agency,Ribbesbüttel,NI
-ribnitz-damgarten.de,City,Non-Federal Agency,Ribnitz-Damgarten,MV
+ribnitz-damgarten.de,City,Non-Federal Agency,Semlow,MV
 rickenbach.de,City,Non-Federal Agency,Rickenbach,BW
 riedbach.de,City,Non-Federal Agency,Riedbach,BY
 riedenberg.rhoen-saale.net,City,Non-Federal Agency,Riedenberg,BY
@@ -6088,12 +6177,12 @@ rivenich.de,City,Non-Federal Agency,Rivenich,RP
 riveris.de,City,Non-Federal Agency,Riveris,RP
 rochlitz.de,City,Non-Federal Agency,Rochlitz,SN
 rockenberg.de,City,Non-Federal Agency,Rockenberg,HE
-rockenhausen.de,City,Non-Federal Agency,Dörrmoschel,RP
+rockenhausen.de,City,Non-Federal Agency,Bisterschied,RP
 rockeskyll.de,City,Non-Federal Agency,Rockeskyll,RP
 rockstedt.de,City,Non-Federal Agency,Rockstedt,TH
 rodeberg.de,City,Non-Federal Agency,Rodeberg,TH
 rodenbach.de,City,Non-Federal Agency,Rodenbach,HE
-rodenberg.de,City,Non-Federal Agency,Hülsede,NI
+rodenberg.de,City,Non-Federal Agency,Lauenau,NI
 roden.de,City,Non-Federal Agency,Roden,BY
 rodewisch.de,City,Non-Federal Agency,Rodewisch,SN
 rodgau.de,City,Non-Federal Agency,Rodgau,HE
@@ -6106,6 +6195,7 @@ roederaue.de,City,Non-Federal Agency,Röderaue,SN
 roedermark.de,City,Non-Federal Agency,Rödermark,HE
 roedersheim-gronau.de,City,Non-Federal Agency,Rödersheim-Gronau,RP
 roedinghausen.de,City,Non-Federal Agency,Rödinghausen,NW
+roefingen-rosshaupten.de,City,Non-Federal Agency,Röfingen,BY
 roegling.de,City,Non-Federal Agency,Rögling,BY
 roehrmoos.de,City,Non-Federal Agency,Röhrmoos,BY
 roehrnbach.de,City,Non-Federal Agency,Röhrnbach,BY
@@ -6116,6 +6206,7 @@ roes-eifel.de,City,Non-Federal Agency,Roes,RP
 roeslau.de,City,Non-Federal Agency,Röslau,BY
 roesrath.de,City,Non-Federal Agency,Rösrath,NW
 roetgen.de,City,Non-Federal Agency,Roetgen,NW
+roetgesbuettel-info.de,City,Non-Federal Agency,Rötgesbüttel,NI
 roetha.de,City,Non-Federal Agency,Rötha,SN
 roethenbach.de,City,Non-Federal Agency,Röthenbach an der Pegnitz,BY
 roethlein.de,City,Non-Federal Agency,Röthlein,BY
@@ -6135,6 +6226,7 @@ rohrdorf.de,City,Non-Federal Agency,Rohrdorf,BY
 rohrenfels.de,City,Non-Federal Agency,Rohrenfels,BY
 rohr-mfr.de,City,Non-Federal Agency,Rohr,BY
 roigheim.de,City,Non-Federal Agency,Roigheim,BW
+roklum.de,City,Non-Federal Agency,Roklum,NI
 rommerskirchen.de,City,Non-Federal Agency,Rommerskirchen,NW
 romrod.de,City,Non-Federal Agency,Romrod,HE
 ronneburg.de,City,Non-Federal Agency,Ronneburg,TH
@@ -6142,6 +6234,7 @@ ronneburg.eu,City,Non-Federal Agency,Ronneburg,HE
 ronnenberg.de,City,Non-Federal Agency,Ronnenberg,NI
 ronsberg.de,City,Non-Federal Agency,Ronsberg,BY
 ronshausen.de,City,Non-Federal Agency,Ronshausen,HE
+rorodt.de,City,Non-Federal Agency,Rorodt,RP
 rosa-georgenzell.de,City,Non-Federal Agency,Rosa,TH
 rosbach-hessen.de,City,Non-Federal Agency,Rosbach vor der Höhe,HE
 roschbach.de,City,Non-Federal Agency,Roschbach,RP
@@ -6197,6 +6290,7 @@ rueckersdorf.org,City,Non-Federal Agency,Rückersdorf,TH
 rueckholz.de,City,Non-Federal Agency,Rückholz,BY
 rueckweiler.de,City,Non-Federal Agency,Rückweiler,RP
 ruedenau.de,City,Non-Federal Agency,Rüdenau,BY
+ruedenhausen.de,City,Non-Federal Agency,Rüdenhausen,BY
 ruedersdorf.de,City,Non-Federal Agency,Rüdersdorf,BB
 ruedesheim.de,City,Non-Federal Agency,Rüdesheim am Rhein,HE
 ruedesheim-nahe.de,City,Non-Federal Agency,Rüdesheim,RP
@@ -6225,7 +6319,7 @@ ruschberg.de,City,Non-Federal Agency,Ruschberg,RP
 rust.de,City,Non-Federal Agency,Rust,BW
 rutesheim.de,City,Non-Federal Agency,Rutesheim,BW
 ruthweiler.de,City,Non-Federal Agency,Ruthweiler,RP
-ruwer.de,City,Non-Federal Agency,Osburg,RP
+ruwer.de,City,Non-Federal Agency,Sommerau,RP
 saalburg-ebersdorf.de,City,Non-Federal Agency,Saalburg-Ebersdorf,TH
 saal-donau.de,City,Non-Federal Agency,Saal an der Donau,BY
 saaldorf-surheim.de,City,Non-Federal Agency,Saaldorf-Surheim,BY
@@ -6240,7 +6334,7 @@ saarlouis.de,City,Non-Federal Agency,Saarlouis,SL
 saarwellingen.de,City,Non-Federal Agency,Saarwellingen,SL
 sachsen-b-ansbach.de,City,Non-Federal Agency,Sachsen bei Ansbach,BY
 sachsenbrunn.de,City,Non-Federal Agency,Sachsenbrunn,TH
-sachsenhagen.de,City,Non-Federal Agency,Sachsenhagen,NI
+sachsenhagen.de,City,Non-Federal Agency,Auhagen,NI
 sachsenhausen-in-thueringen.de,City,Non-Federal Agency,Sachsenhausen,TH
 sachsenheim.de,City,Non-Federal Agency,Sachsenheim,BW
 sachsenkam.de,City,Non-Federal Agency,Sachsenkam,BY
@@ -6252,22 +6346,31 @@ salching.de,City,Non-Federal Agency,Salching,BY
 saldenburg.de,City,Non-Federal Agency,Saldenburg,BY
 salem-baden.de,City,Non-Federal Agency,Salem,BW
 salem-dargow.de,City,Non-Federal Agency,Salem,SH
+salgen.de,City,Non-Federal Agency,Salgen,BY
+sallgast.de,City,Non-Federal Agency,Sallgast,BB
 salmtal.de,City,Non-Federal Agency,Salmtal,RP
 salzbergen.de,City,Non-Federal Agency,Salzbergen,NI
 salz.de,City,Non-Federal Agency,Salz,BY
 salzgitter.de,City,Non-Federal Agency,Salzgitter,NI
+salzhausen.de,City,Non-Federal Agency,Toppenstedt,NI
 salzhemmendorf.de,City,Non-Federal Agency,Salzhemmendorf,NI
 salzkotten.de,City,Non-Federal Agency,Salzkotten,NW
 salzwedel.de,City,Non-Federal Agency,Salzwedel,ST
 salzweg.de,City,Non-Federal Agency,Salzweg,BY
 samerberg.de,City,Non-Federal Agency,Samerberg,BY
-samtgemeinde-aue.de,City,Non-Federal Agency,Bad Bodenteich,NI
+samtgemeinde-asse.de,City,Non-Federal Agency,Wittmar,NI
+samtgemeinde-aue.de,City,Non-Federal Agency,Wrestedt,NI
 samtgemeinde-bardowick.de,City,Non-Federal Agency,Vögelsen,NI
-samtgemeinde-gieboldehausen.de,City,Non-Federal Agency,Wollbrandshausen,NI
-samtgemeinde-grasleben.de,City,Non-Federal Agency,Querenhorst,NI
-samtgemeindeheeseberg.de,City,Non-Federal Agency,Beierstedt,NI
+samtgemeinde-brome.de,City,Non-Federal Agency,Tülau,NI
+samtgemeinde-esens.de,City,Non-Federal Agency,Dunum,NI
+samtgemeinde-gieboldehausen.de,City,Non-Federal Agency,Rüdershausen,NI
+samtgemeinde-grasleben.de,City,Non-Federal Agency,Grasleben,NI
+samtgemeindeheeseberg.de,City,Non-Federal Agency,Twieflingen,NI
+samtgemeinde-holtriem.de,City,Non-Federal Agency,Ochtersum,NI
 samtgemeinde-ilmenau.de,City,Non-Federal Agency,Melbeck,NI
-samtgemeinde-nord-elm.de,City,Non-Federal Agency,Wolsdorf,NI
+samtgemeinde-nord-elm.de,City,Non-Federal Agency,Süpplingenburg,NI
+samtgemeinde-oderwald.de,City,Non-Federal Agency,Flöthe,NI
+samtgemeinde-rosche.de,City,Non-Federal Agency,Stoetze,NI
 samtgemeinde-sibbesse.de,City,Non-Federal Agency,Adenstedt,NI
 sand-am-main.de,City,Non-Federal Agency,Sand am Main,BY
 sandau.de,City,Non-Federal Agency,Sandau,ST
@@ -6313,7 +6416,7 @@ schacht-audorf.de,City,Non-Federal Agency,Schacht-Audorf,SH
 schackendorf.de,City,Non-Federal Agency,Schackendorf,SH
 schaeftlarn.de,City,Non-Federal Agency,Schäftlarn,BY
 schafstedt.de,City,Non-Federal Agency,Schafstedt,SH
-schalkau.de,City,Non-Federal Agency,Bachfeld,TH
+schalkau.de,City,Non-Federal Agency,Schalkau,TH
 schalkenmehren.de,City,Non-Federal Agency,Schalkenmehren,RP
 schalkholz.de,City,Non-Federal Agency,Schalkholz,SH
 schalksmuehle.de,City,Non-Federal Agency,Schalksmühle,NW
@@ -6321,6 +6424,7 @@ schallbach.de,City,Non-Federal Agency,Schallbach,BW
 schallstadt.de,City,Non-Federal Agency,Schallstadt,BW
 schallstadt.eu,City,Non-Federal Agency,Schallstadt,BW
 schankweiler-eifel.de,City,Non-Federal Agency,Schankweiler,RP
+schapen.de,City,Non-Federal Agency,Schapen,NI
 scharnebeck.de,City,Non-Federal Agency,Brietlingen,NI
 schashagen.de,City,Non-Federal Agency,Schashagen,SH
 schauenstein.de,City,Non-Federal Agency,Schauenstein,BY
@@ -6362,6 +6466,7 @@ schimberg-online.de,City,Non-Federal Agency,Schimberg,TH
 schirmitz.de,City,Non-Federal Agency,Schirmitz,BY
 schkeuditz.de,City,Non-Federal Agency,Schkeuditz,SN
 schkoelen.de,City,Non-Federal Agency,Schkölen,TH
+schlagsdorf.de,City,Non-Federal Agency,Schlagsdorf,MV
 schlaitdorf.de,City,Non-Federal Agency,Schlaitdorf,BW
 schlammersdorf.de,City,Non-Federal Agency,Schlammersdorf,BY
 schlangenbad.de,City,Non-Federal Agency,Schlangenbad,HE
@@ -6436,7 +6541,7 @@ schoenau-koenigssee.com,City,Non-Federal Agency,Schönau am Königssee,BY
 schoenau-pfalz.de,City,Non-Federal Agency,Schönau,RP
 schoenbach-eifel.de,City,Non-Federal Agency,Schönbach,RP
 schoenberg.de,City,Non-Federal Agency,Schönberg,SH
-schoenberg-land.de,City,Non-Federal Agency,Roduchelstorf,MV
+schoenberg-land.de,City,Non-Federal Agency,Grieben,MV
 schoenberg-sachsen.de,City,Non-Federal Agency,Schönberg,SN
 schoenborn-ee.de,City,Non-Federal Agency,Schönborn,BB
 schoendorf.eu,City,Non-Federal Agency,Schöndorf,RP
@@ -6451,12 +6556,12 @@ schoengeising.de,City,Non-Federal Agency,Schöngeising,BY
 schoenhorst.eu,City,Non-Federal Agency,Schönhorst,SH
 schoeningen.de,City,Non-Federal Agency,Schöningen,NI
 schoenkirchen.de,City,Non-Federal Agency,Schönkirchen,SH
-schoenseer-land.de,City,Non-Federal Agency,Weiding,BY
+schoenseer-land.de,City,Non-Federal Agency,Stadlern,BY
 schoental.de,City,Non-Federal Agency,Schöntal,BW
 schoenteichen.de,City,Non-Federal Agency,Schönteichen,SN
 schoenwald.net,City,Non-Federal Agency,Schönwald im Schwarzwald,BW
 schoenwoelkau.de,City,Non-Federal Agency,Schönwölkau,SN
-schoeppenstedt.de,City,Non-Federal Agency,Schöppenstedt,NI
+schoeppenstedt.de,City,Non-Federal Agency,Uehrde,NI
 schoeppingen.de,City,Non-Federal Agency,Schöppingen,NW
 schoepstal.net,City,Non-Federal Agency,Schöpstal,SN
 schollbrunn.de,City,Non-Federal Agency,Schollbrunn,BY
@@ -6480,8 +6585,9 @@ schretstaken.de,City,Non-Federal Agency,Schretstaken,SH
 schriesheim.de,City,Non-Federal Agency,Schriesheim,BW
 schrobenhausen.de,City,Non-Federal Agency,Schrobenhausen,BY
 schuby.de,City,Non-Federal Agency,Schuby,SH
-schuettorf.de,City,Non-Federal Agency,Schüttorf,NI
+schuettorf.de,City,Non-Federal Agency,Samern,NI
 schuld-ahr.de,City,Non-Federal Agency,Schuld,RP
+schule-vogtland.de,City,Non-Federal Agency,Limbach,SN
 schulzendorf.de,City,Non-Federal Agency,Schulzendorf,BB
 schuttertal.de,City,Non-Federal Agency,Schuttertal,BW
 schutterwald.de,City,Non-Federal Agency,Schutterwald,BW
@@ -6535,7 +6641,7 @@ schwebheim.de,City,Non-Federal Agency,Schwebheim,BY
 schwedelbach.de,City,Non-Federal Agency,Schwedelbach,RP
 schwedt.eu,City,Non-Federal Agency,Schwedt/Oder,BB
 schwegenheim.de,City,Non-Federal Agency,Schwegenheim,RP
-schweich.de,City,Non-Federal Agency,Detzem,RP
+schweich.de,City,Non-Federal Agency,Thörnich,RP
 schweigen-rechtenbach.de,City,Non-Federal Agency,Schweigen-Rechtenbach,RP
 schweighofen.de,City,Non-Federal Agency,Schweighofen,RP
 schweinfurt.de,City,Non-Federal Agency,Schweinfurt,BY
@@ -6561,6 +6667,7 @@ sebnitz.de,City,Non-Federal Agency,Sebnitz,SN
 seckach.de,City,Non-Federal Agency,Seckach,BW
 seddiner-see.de,City,Non-Federal Agency,Seddiner See,BB
 seebach.de,City,Non-Federal Agency,Seebach,BW
+seebach-wak.de,City,Non-Federal Agency,Seebach,TH
 seebad-trassenheide.de,City,Non-Federal Agency,Trassenheide,MV
 seeburgersee.de,City,Non-Federal Agency,Seeburg,NI
 seefeld.de,City,Non-Federal Agency,Seefeld,BY
@@ -6599,7 +6706,7 @@ selfkant.de,City,Non-Federal Agency,Selfkant,NW
 seligenstadt.de,City,Non-Federal Agency,Seligenstadt,HE
 selm.de,City,Non-Federal Agency,Selm,NW
 selmsdorf.de,City,Non-Federal Agency,Selmsdorf,MV
-selsingen.de,City,Non-Federal Agency,Seedorf,NI
+selsingen.de,City,Non-Federal Agency,Farven,NI
 selters-taunus.de,City,Non-Federal Agency,Selters (Taunus),HE
 selters-ww.de,City,Non-Federal Agency,Schenkelberg,RP
 selzen.de,City,Non-Federal Agency,Selzen,RP
@@ -6615,19 +6722,22 @@ sersheim.de,City,Non-Federal Agency,Sersheim,BW
 sessenbach.de,City,Non-Federal Agency,Sessenbach,RP
 sesslach.de,City,Non-Federal Agency,Seßlach,BY
 setzingen.de,City,Non-Federal Agency,Setzingen,BW
+seubersdorf.de,City,Non-Federal Agency,Seubersdorf in der Oberpfalz,BY
 seukendorf.de,City,Non-Federal Agency,Seukendorf,BY
 seulingen.de,City,Non-Federal Agency,Seulingen,NI
 sevenig-our.de,City,Non-Federal Agency,Sevenig,RP
 sexau.de,City,Non-Federal Agency,Sexau,BW
 seybothenreuth.de,City,Non-Federal Agency,Seybothenreuth,BY
 sg-hage.de,City,Non-Federal Agency,Hage,NI
+sg-hankensbuettel.de,City,Non-Federal Agency,Obernholz,NI
+sg-lindhorst.de,City,Non-Federal Agency,Lüdersfeld,NI
 sg-lutter.de,City,Non-Federal Agency,Lutter am Barenberge,NI
 sg-oderwald.de,City,Non-Federal Agency,Ohrum,NI
 sibbesse.de,City,Non-Federal Agency,Sibbesse,NI
-sickte.de,City,Non-Federal Agency,Sickte,NI
+sickte.de,City,Non-Federal Agency,Erkerode,NI
 siebeldingen.de,City,Non-Federal Agency,Siebeldingen,RP
 siedenbollentin.net,City,Non-Federal Agency,Siedenbollentin,MV
-siedenburg-online.de,City,Non-Federal Agency,Mellinghausen,NI
+siedenburg-online.de,City,Non-Federal Agency,Staffhorst,NI
 siefersheim.de,City,Non-Federal Agency,Siefersheim,RP
 siegbach.de,City,Non-Federal Agency,Siegbach,HE
 siegburg.de,City,Non-Federal Agency,Siegburg,NW
@@ -6651,7 +6761,7 @@ silz.de,City,Non-Federal Agency,Silz,RP
 simbach.de,City,Non-Federal Agency,Simbach am Inn,BY
 simmelsdorf.de,City,Non-Federal Agency,Simmelsdorf,BY
 simmerath.de,City,Non-Federal Agency,Simmerath,NW
-simmern.de,City,Non-Federal Agency,Schönborn,RP
+simmern.de,City,Non-Federal Agency,Holzbach,RP
 simmern-ww.de,City,Non-Federal Agency,Simmern,RP
 simmersfeld.de,City,Non-Federal Agency,Simmersfeld,BW
 simmershofen.de,City,Non-Federal Agency,Simmershofen,BY
@@ -6674,6 +6784,7 @@ sitzendorf-schwarzatal.de,City,Non-Federal Agency,Sitzendorf,TH
 soderstorf.de,City,Non-Federal Agency,Soderstorf,NI
 soechering.eu,City,Non-Federal Agency,Obersöchering,BY
 soechtenau.de,City,Non-Federal Agency,Söchtenau,BY
+soegel.de,City,Non-Federal Agency,Sögel,NI
 soehlde.de,City,Non-Federal Agency,Söhlde,NI
 soehrewald.de,City,Non-Federal Agency,Söhrewald,HE
 soelden.de,City,Non-Federal Agency,Sölden,BW
@@ -6708,7 +6819,7 @@ sontheim.de,City,Non-Federal Agency,Sontheim,BY
 sonthofen.de,City,Non-Federal Agency,Sonthofen,BY
 sontra.de,City,Non-Federal Agency,Sontra,HE
 sosberg.de,City,Non-Federal Agency,Sosberg,RP
-sottrum.de,City,Non-Federal Agency,Hellwege,NI
+sottrum.de,City,Non-Federal Agency,Ahausen,NI
 soyen.de,City,Non-Federal Agency,Soyen,BY
 spabruecken.de,City,Non-Federal Agency,Spabrücken,RP
 spaichingen.de,City,Non-Federal Agency,Spaichingen,BW
@@ -6717,6 +6828,7 @@ spalt.de,City,Non-Federal Agency,Spalt,BY
 spangenberg.de,City,Non-Federal Agency,Spangenberg,HE
 spardorf.de,City,Non-Federal Agency,Spardorf,BY
 sparneck.de,City,Non-Federal Agency,Sparneck,BY
+spatzenhausen.de,City,Non-Federal Agency,Spatzenhausen,BY
 spay.de,City,Non-Federal Agency,Spay,RP
 spechbach.de,City,Non-Federal Agency,Spechbach,BW
 speichersdorf.de,City,Non-Federal Agency,Speichersdorf,BY
@@ -6794,6 +6906,7 @@ stadt-diepholz.de,City,Non-Federal Agency,Diepholz,NI
 stadt-diez.de,City,Non-Federal Agency,Diez,RP
 stadt-dohna.de,City,Non-Federal Agency,Dohna,SN
 stadt-dransfeld.de,City,Non-Federal Agency,Dransfeld,NI
+stadt-ebeleben.de,City,Non-Federal Agency,Holzsußra,TH
 stadt-ehrenfriedersdorf.de,City,Non-Federal Agency,Ehrenfriedersdorf,SN
 stadt-eisenberg.de,City,Non-Federal Agency,Gösen,TH
 stadt-eisfeld.de,City,Non-Federal Agency,Eisfeld,TH
@@ -6847,7 +6960,7 @@ stadt-jever.de,City,Non-Federal Agency,Jever,NI
 stadt-kalbe-milde.de,City,Non-Federal Agency,Kalbe (Milde),ST
 stadt-kamen.de,City,Non-Federal Agency,Kamen,NW
 stadt-kassel.de,City,Non-Federal Agency,Kassel,HE
-stadt-kastellaun.de,City,Non-Federal Agency,Hollnich,RP
+stadt-kastellaun.de,City,Non-Federal Agency,Kastellaun,RP
 stadt-kaub.de,City,Non-Federal Agency,Kaub,RP
 stadt-kerpen.de,City,Non-Federal Agency,Kerpen,NW
 stadtkirchberg-hunsrueck.de,City,Non-Federal Agency,Kirchberg (Hunsrück),RP
@@ -6878,8 +6991,9 @@ stadt-lorch-rheingau.de,City,Non-Federal Agency,Lorch,HE
 stadtludwigslust.de,City,Non-Federal Agency,Ludwigslust,MV
 stadt-luetjenburg.de,City,Non-Federal Agency,Lütjenburg,SH
 stadt-luetzen.de,City,Non-Federal Agency,Lützen,ST
-stadt-magdala.de,City,Non-Federal Agency,Magdala,TH
+stadt-magdala.de,City,Non-Federal Agency,Kleinschwabhausen,TH
 stadt-malchow.de,City,Non-Federal Agency,Penkow,MV
+stadtmarketing-herborn.de,City,Non-Federal Agency,Herborn,HE
 stadt-marlow.de,City,Non-Federal Agency,Marlow,MV
 stadt-meissen.de,City,Non-Federal Agency,Meißen,SN
 stadt-melle.de,City,Non-Federal Agency,Melle,NI
@@ -6926,6 +7040,7 @@ stadt-schoenberg.de,City,Non-Federal Agency,Schönberg,MV
 stadt-schoeneck.de,City,Non-Federal Agency,Schöneck/Vogtl.,SN
 stadt-schoenwald.de,City,Non-Federal Agency,Schönwald,BY
 stadt-schrozberg.de,City,Non-Federal Agency,Schrozberg,BW
+stadt-schwanebeck.de,City,Non-Federal Agency,Schwanebeck,ST
 stadt-schweich.de,City,Non-Federal Agency,Schweich,RP
 stadt-seehausen.de,City,Non-Federal Agency,Seehausen (Altmark),ST
 stadt-seeland.de,City,Non-Federal Agency,Seeland,ST
@@ -7001,7 +7116,7 @@ steenfeld.de,City,Non-Federal Agency,Steenfeld,SH
 steffeln.de,City,Non-Federal Agency,Steffeln,RP
 steffenberg.de,City,Non-Federal Agency,Steffenberg,HE
 stegaurach.de,City,Non-Federal Agency,Stegaurach,BY
-steimbke.de,City,Non-Federal Agency,Steimbke,NI
+steimbke.de,City,Non-Federal Agency,Stöckse,NI
 steinach.de,City,Non-Federal Agency,Steinach,BW
 steinach.eu,City,Non-Federal Agency,Steinach,BY
 steinach-thueringen.de,City,Non-Federal Agency,Steinach,TH
@@ -7046,6 +7161,7 @@ stephansposching.de,City,Non-Federal Agency,Stephansposching,BY
 sternenfels.de,City,Non-Federal Agency,Sternenfels,BW
 sterup.de,City,Non-Federal Agency,Sterup,SH
 stetten-akm.de,City,Non-Federal Agency,Stetten am kalten Markt,BW
+stetten-schwaben.de,City,Non-Federal Agency,Stetten,BY
 steyerberg.de,City,Non-Federal Agency,Steyerberg,NI
 st-georgen.de,City,Non-Federal Agency,St. Georgen im Schwarzwald,BW
 st-goar.de,City,Non-Federal Agency,Sankt Goar,RP
@@ -7066,6 +7182,7 @@ stockstadt-am-main.de,City,Non-Federal Agency,Stockstadt am Main,BY
 stockstadt.de,City,Non-Federal Agency,Stockstadt am Rhein,HE
 stockum-pueschen.de,City,Non-Federal Agency,Stockum-Püschen,RP
 stoedtlen.de,City,Non-Federal Agency,Stödtlen,BW
+stoernstein.de,City,Non-Federal Agency,Störnstein,BY
 stoessen-online.de,City,Non-Federal Agency,Stößen,ST
 stoetten.de,City,Non-Federal Agency,Stötten am Auerberg,BY
 stoettwang.de,City,Non-Federal Agency,Stöttwang,BY
@@ -7112,8 +7229,8 @@ stuttgart.de,City,Non-Federal Agency,Stuttgart,BW
 st-wolfgang-ob.de,City,Non-Federal Agency,Sankt Wolfgang,BY
 suderburg.de,City,Non-Federal Agency,Suderburg,NI
 suedbrookmerland.de,City,Non-Federal Agency,Südbrookmerland,NI
-suedeifelinfo.de,City,Non-Federal Agency,Gilzem,RP
-suederbrarup.de,City,Non-Federal Agency,Boren,SH
+suedeifelinfo.de,City,Non-Federal Agency,Bauler,RP
+suederbrarup.de,City,Non-Federal Agency,Steinfeld,SH
 suederende-auf-foehr.de,City,Non-Federal Agency,Süderende,SH
 suederhastedt.de,City,Non-Federal Agency,Süderhastedt,SH
 suederheistedt.de,City,Non-Federal Agency,Süderheistedt,SH
@@ -7141,6 +7258,7 @@ sulzbach-taunus.de,City,Non-Federal Agency,Sulzbach (Taunus),HE
 sulzberg.de,City,Non-Federal Agency,Sulzberg,BY
 sulzburg.de,City,Non-Federal Agency,Sulzburg,BW
 sulz.de,City,Non-Federal Agency,Sulz am Neckar,BW
+sulzdorf-adl.de,City,Non-Federal Agency,Sulzdorf an der Lederhecke,BY
 sulzemoos.de,City,Non-Federal Agency,Sulzemoos,BY
 sulzfeld.de,City,Non-Federal Agency,Sulzfeld,BW
 sulzfeldgrabfeld.de,City,Non-Federal Agency,Sulzfeld,BY
@@ -7205,7 +7323,7 @@ tengen.de,City,Non-Federal Agency,Tengen,BW
 teningen.de,City,Non-Federal Agency,Teningen,BW
 tensbuettel-roest.de,City,Non-Federal Agency,Tensbüttel-Röst,SH
 termine-badhonnef.de,City,Non-Federal Agency,Bad Honnef,NW
-tessin.de,City,Non-Federal Agency,Cammin,MV
+tessin.de,City,Non-Federal Agency,Nustrow,MV
 tetenhusen.de,City,Non-Federal Agency,Tetenhusen,SH
 teterow.de,City,Non-Federal Agency,Teterow,MV
 tettau.de,City,Non-Federal Agency,Tettau,BY
@@ -7227,7 +7345,7 @@ thandorf.de,City,Non-Federal Agency,Thandorf,MV
 thannhausen.de,City,Non-Federal Agency,Thannhausen,BY
 thanstein.de,City,Non-Federal Agency,Thanstein,BY
 tharandt.de,City,Non-Federal Agency,Tharandt,SN
-thedinghausen.de,City,Non-Federal Agency,Thedinghausen,NI
+thedinghausen.de,City,Non-Federal Agency,Riede,NI
 theilenhofen.de,City,Non-Federal Agency,Theilenhofen,BY
 theilheim.de,City,Non-Federal Agency,Theilheim,BY
 theisseil.de,City,Non-Federal Agency,Theisseil,BY
@@ -7244,6 +7362,7 @@ tholey.de,City,Non-Federal Agency,Tholey,SL
 thomm-online.de,City,Non-Federal Agency,Thomm,RP
 thonhausen.de,City,Non-Federal Agency,Thonhausen,TH
 thuengersheim.de,City,Non-Federal Agency,Thüngersheim,BY
+thuine.de,City,Non-Federal Agency,Thuine,NI
 thundorf.de,City,Non-Federal Agency,Thundorf in Unterfranken,BY
 thurmansbang.de,City,Non-Federal Agency,Thurmansbang,BY
 thurnau.de,City,Non-Federal Agency,Thurnau,BY
@@ -7276,7 +7395,7 @@ toepen.de,City,Non-Federal Agency,Töpen,BY
 torgau.eu,City,Non-Federal Agency,Torgau,SN
 torgelow.de,City,Non-Federal Agency,Torgelow,MV
 tornesch.de,City,Non-Federal Agency,Tornesch,SH
-tostedt.de,City,Non-Federal Agency,Königsmoor,NI
+tostedt.de,City,Non-Federal Agency,Dohren,NI
 tourismus-badlaasphe.de,City,Non-Federal Agency,Bad Laasphe,NW
 tourismus.hochheim.de,City,Non-Federal Agency,Hochheim am Main,HE
 tourismus.prien.de,City,Non-Federal Agency,Prien am Chiemsee,BY
@@ -7317,7 +7436,7 @@ trimbs.de,City,Non-Federal Agency,Trimbs,RP
 trimport.de,City,Non-Federal Agency,Trimport,RP
 trinwillershagen.de,City,Non-Federal Agency,Trinwillershagen,MV
 trippstadt.de,City,Non-Federal Agency,Trippstadt,RP
-triptis.de,City,Non-Federal Agency,Miesitz,TH
+triptis.de,City,Non-Federal Agency,Geroda,TH
 trittau.de,City,Non-Federal Agency,Trittau,SH
 trittenheim.de,City,Non-Federal Agency,Trittenheim,RP
 trochtelfingen.de,City,Non-Federal Agency,Trochtelfingen,BW
@@ -7327,6 +7446,7 @@ troisdorf.de,City,Non-Federal Agency,Troisdorf,NW
 trossingen.de,City,Non-Federal Agency,Trossingen,BW
 trostberg.de,City,Non-Federal Agency,Trostberg,BY
 trulben.de,City,Non-Federal Agency,Trulben,RP
+trunkelsberg.de,City,Non-Federal Agency,Trunkelsberg,BY
 tschirn-online.de,City,Non-Federal Agency,Tschirn,BY
 tuchenbach.de,City,Non-Federal Agency,Tuchenbach,BY
 tuebingen.de,City,Non-Federal Agency,Tübingen,BW
@@ -7344,7 +7464,7 @@ twistetal.de,City,Non-Federal Agency,Twistetal,HE
 twistringen.de,City,Non-Federal Agency,Twistringen,NI
 tyrlaching.de,City,Non-Federal Agency,Tyrlaching,BY
 ubstadt-weiher.de,City,Non-Federal Agency,Ubstadt-Weiher,BW
-uchte.de,City,Non-Federal Agency,Uchte,NI
+uchte.de,City,Non-Federal Agency,Raddestorf,NI
 uckerland.de,City,Non-Federal Agency,Uckerland,BB
 udenheim.de,City,Non-Federal Agency,Udenheim,RP
 udler.de,City,Non-Federal Agency,Udler,RP
@@ -7360,7 +7480,7 @@ uedersdorf.de,City,Non-Federal Agency,Üdersdorf,RP
 uehlfeld.de,City,Non-Federal Agency,Uehlfeld,BY
 uehlingen-birkendorf.de,City,Non-Federal Agency,Ühlingen-Birkendorf,BW
 uelsby.de,City,Non-Federal Agency,Uelsby,SH
-uelsen.de,City,Non-Federal Agency,Getelo,NI
+uelsen.de,City,Non-Federal Agency,Uelsen,NI
 uelversheim.de,City,Non-Federal Agency,Uelversheim,RP
 uelvesbuell.de,City,Non-Federal Agency,Uelvesbüll,SH
 uelzen.de,City,Non-Federal Agency,Uelzen,NI
@@ -7371,13 +7491,13 @@ uettfeld.de,City,Non-Federal Agency,Üttfeld,RP
 uettingen.de,City,Non-Federal Agency,Uettingen,BY
 uetze.de,City,Non-Federal Agency,Uetze,NI
 uexheim.de,City,Non-Federal Agency,Üxheim,RP
-uffenheim.de,City,Non-Federal Agency,Uffenheim,BY
+uffenheim.de,City,Non-Federal Agency,Weigenheim,BY
 uffing.de,City,Non-Federal Agency,Uffing am Staffelsee,BY
 uhingen.de,City,Non-Federal Agency,Uhingen,BW
 uhldingen-muehlhofen.de,City,Non-Federal Agency,Uhldingen-Mühlhofen,BW
 uhlstaedt-kirchhasel.de,City,Non-Federal Agency,Uhlstädt-Kirchhasel,TH
 ulm.de,City,Non-Federal Agency,Ulm,BW
-ulmen.de,City,Non-Federal Agency,Auderath,RP
+ulmen.de,City,Non-Federal Agency,Wagenhausen,RP
 ulmet.de,City,Non-Federal Agency,Ulmet,RP
 ulrichstein.de,City,Non-Federal Agency,Ulrichstein,HE
 ulsnis.de,City,Non-Federal Agency,Ulsnis,SH
@@ -7426,12 +7546,14 @@ unterweissbach.de,City,Non-Federal Agency,Unterweißbach,TH
 unterwellenborn.de,City,Non-Federal Agency,Unterwellenborn,TH
 unterwoessen.de,City,Non-Federal Agency,Unterwössen,BY
 untrasried.de,City,Non-Federal Agency,Untrasried,BY
+upgant-schott.de,City,Non-Federal Agency,Upgant-Schott,NI
 uplengen.de,City,Non-Federal Agency,Uplengen,NI
 urbach.de,City,Non-Federal Agency,Urbach,BW
 urbach-ww.de,City,Non-Federal Agency,Urbach,RP
 urbar.de,City,Non-Federal Agency,Urbar,RP
 urbar-loreley.de,City,Non-Federal Agency,Urbar,RP
 urmitz.de,City,Non-Federal Agency,Urmitz,RP
+urnshausen.de,City,Non-Federal Agency,Urnshausen,TH
 urschmitt.de,City,Non-Federal Agency,Urschmitt,RP
 ursensollen.de,City,Non-Federal Agency,Ursensollen,BY
 urspringen.de,City,Non-Federal Agency,Urspringen,BY
@@ -7452,6 +7574,7 @@ vallendar-rhein.de,City,Non-Federal Agency,Vallendar,RP
 varel.de,City,Non-Federal Agency,Varel,NI
 varrel.de,City,Non-Federal Agency,Varrel,NI
 vaterstetten.de,City,Non-Federal Agency,Vaterstetten,BY
+vds-ranis-ziegeneurck.de,City,Non-Federal Agency,Paska,TH
 vechelde.de,City,Non-Federal Agency,Vechelde,NI
 vechta.de,City,Non-Federal Agency,Vechta,NI
 veilsdorf.de,City,Non-Federal Agency,Veilsdorf,TH
@@ -7482,126 +7605,136 @@ vetschau.de,City,Non-Federal Agency,Vetschau/Spreewald,BB
 vettelschoss.de,City,Non-Federal Agency,Vettelschoß,RP
 vettweiss.de,City,Non-Federal Agency,Vettweiß,NW
 vg-altenglan.de,City,Non-Federal Agency,Rutsweiler am Glan,RP
-vg-altenkirchen.de,City,Non-Federal Agency,Neitersen,RP
+vg-altenkirchen.de,City,Non-Federal Agency,Heupelzen,RP
 vg-altfraunhofen.de,City,Non-Federal Agency,Altfraunhofen,BY
 vg-annweiler.de,City,Non-Federal Agency,Münchweiler am Klingbach,RP
-vg-apfelstaedtaue.de,City,Non-Federal Agency,Petriroda,TH
+vg-apfelstaedtaue.de,City,Non-Federal Agency,Herrenhof,TH
 vg-arzfeld.de,City,Non-Federal Agency,Herzfeld,RP
 vg-asbach.de,City,Non-Federal Agency,Buchholz,RP
 vg-badkreuznach.de,City,Non-Federal Agency,Volxheim,RP
 vg-barmstedt-hoernerkirchen.de,City,Non-Federal Agency,Brande-Hörnerkirchen,SH
-vg-baunach.de,City,Non-Federal Agency,Baunach,BY
-vg-berlstedt.de,City,Non-Federal Agency,Ballstedt,TH
-vg-birkenfeld.de,City,Non-Federal Agency,Ellweiler,RP
+vg-baunach.de,City,Non-Federal Agency,Gerach,BY
+vg-berka-werra.de,City,Non-Federal Agency,Dippach,TH
+vg-berlstedt.de,City,Non-Federal Agency,Neumark,TH
+vg-birkenfeld.de,City,Non-Federal Agency,Achtelsbach,RP
 vg-bme.de,City,Non-Federal Agency,Altenbamberg,RP
 vg-bodenheim.de,City,Non-Federal Agency,Bodenheim,RP
 vg-boos.de,City,Non-Federal Agency,Boos,BY
 vg-brahmetal.de,City,Non-Federal Agency,Hirschfeld,TH
-vg-breitbrunn.de,City,Non-Federal Agency,Breitbrunn am Chiemsee,BY
+vg-breitbrunn.de,City,Non-Federal Agency,Chiemsee,BY
 vg-buch.de,City,Non-Federal Agency,Unterroth,BY
-vgcochem.de,City,Non-Federal Agency,Klotten,RP
-vg-dannstadt-schauernheim.de,City,Non-Federal Agency,Dannstadt-Schauernheim,RP
-vgdiez.de,City,Non-Federal Agency,Hirschberg,RP
+vg-buttelstedt.de,City,Non-Federal Agency,Heichelheim,TH
+vgcochem.de,City,Non-Federal Agency,Valwig,RP
+vg-dannstadt-schauernheim.de,City,Non-Federal Agency,Hochdorf-Assenheim,RP
+vgdiez.de,City,Non-Federal Agency,Heistenbach,RP
 vg-dirlewang.de,City,Non-Federal Agency,Apfeltrach,BY
 vg-dolmar.de,City,Non-Federal Agency,Utendorf,TH
-vg-dolmar-salzbruecke.de,City,Non-Federal Agency,Ritschenhausen,TH
+vg-dolmar-salzbruecke.de,City,Non-Federal Agency,Leutersdorf,TH
 vg-dornburg-camburg.eu,City,Non-Federal Agency,Löberschütz,TH
-vg-ebelsbach.de,City,Non-Federal Agency,Kirchlauter,BY
+vg-ebelsbach.de,City,Non-Federal Agency,Ebelsbach,BY
 vg-eich.de,City,Non-Federal Agency,Mettenheim,RP
 vgem-boos.de,City,Non-Federal Agency,Pleß,BY
 vgem-burgsinn.de,City,Non-Federal Agency,Burgsinn,BY
-vgem-dzf.de,City,Non-Federal Agency,Kretzschau,ST
+vgem-dzf.de,City,Non-Federal Agency,Wetterzeube,ST
 vgem-ergoldsbach.de,City,Non-Federal Agency,Ergoldsbach,BY
 vgem-finne.de,City,Non-Federal Agency,Bad Bibra,ST
 vgem-greussen.de,City,Non-Federal Agency,Greußen,TH
-vgem-hoherhoen.de,City,Non-Federal Agency,Unterweid,TH
+vgem-hoherhoen.de,City,Non-Federal Agency,Erbenhausen,TH
 vgem-rain.de,City,Non-Federal Agency,Aholfing,BY
 vgem-schmuecke.de,City,Non-Federal Agency,Oberheldrungen,TH
 vgem-seehausen.de,City,Non-Federal Agency,Zehrental,ST
 vgem-westlicheboerde.de,City,Non-Federal Agency,Ausleben,ST
 vgem-wethautal.de,City,Non-Federal Agency,Wethau,ST
 vg-eutin-suesel.de,City,Non-Federal Agency,Eutin,SH
-vg-fahner-hoehe.de,City,Non-Federal Agency,Gierstädt,TH
+vg-fahner-hoehe.de,City,Non-Federal Agency,Großfahner,TH
 vg-falkenberg.de,City,Non-Federal Agency,Rimbach,BY
-vg-feldstein.de,City,Non-Federal Agency,Grub,TH
-vgflammersfeld.de,City,Non-Federal Agency,Eichen,RP
+vg-feldstein.de,City,Non-Federal Agency,Dingsleben,TH
+vgflammersfeld.de,City,Non-Federal Agency,Ziegenhain,RP
 vggebhardshain.de,City,Non-Federal Agency,Kausen,RP
 vg-glm.de,City,Non-Federal Agency,Glan-Münchweiler,RP
 vg-goellheim.de,City,Non-Federal Agency,Biedesheim,RP
 vg-gosberg.de,City,Non-Federal Agency,Pinzberg,BY
-vg-gramme-aue.de,City,Non-Federal Agency,Großrudestedt,TH
-vg-grammetal.de,City,Non-Federal Agency,Mönchenholzhausen,TH
-vg-grossbreitenbach.de,City,Non-Federal Agency,Friedersdorf,TH
+vg-gramme-aue.de,City,Non-Federal Agency,Ollendorf,TH
+vg-grammetal.de,City,Non-Federal Agency,Daasdorf a. Berge,TH
+vg-grossbreitenbach.de,City,Non-Federal Agency,Wildenspring,TH
 vg-hahnstaetten.de,City,Non-Federal Agency,Mudershausen,RP
 vg-hainleite.de,City,Non-Federal Agency,Kleinfurra,TH
 vg-hanstein-rusteberg.de,City,Non-Federal Agency,Arenshausen,TH
 vg-h.de,City,Non-Federal Agency,Altleiningen,RP
 vg-hermsdorf.de,City,Non-Federal Agency,Schleifreisen,TH
-vg-herrstein.de,City,Non-Federal Agency,Gerach,RP
+vg-herrstein.de,City,Non-Federal Agency,Weiden,RP
 vghessheim.de,City,Non-Federal Agency,Heßheim,RP
 vg-hinterschmiding.de,City,Non-Federal Agency,Hinterschmiding,BY
 vghofheim.de,City,Non-Federal Agency,Bundorf,BY
+vg-hohnstein.de,City,Non-Federal Agency,Harzungen,TH
 vgjockgrim.de,City,Non-Federal Agency,Jockgrim,RP
 vg-kallmuenz.de,City,Non-Federal Agency,Holzheim am Forst,BY
 vg-kandel.de,City,Non-Federal Agency,Vollmersweiler,RP
 vg-katzenelnbogen.de,City,Non-Federal Agency,Reckenroth,RP
-vg-kindelbrueck.de,City,Non-Federal Agency,Kindelbrück,TH
+vg-kindelbrueck.de,City,Non-Federal Agency,Kannawurf,TH
 vg-kirchenthumbach.de,City,Non-Federal Agency,Kirchenthumbach,BY
 vg-koetz.de,City,Non-Federal Agency,Kötz,BY
 vg.kusel.de,City,Non-Federal Agency,Ehweiler,RP
-vglandstuhl.de,City,Non-Federal Agency,Bann,RP
+vglandstuhl.de,City,Non-Federal Agency,Hauptstuhl,RP
 vg-langerberg.de,City,Non-Federal Agency,Pennewitz,TH
 vg-leinetal.de,City,Non-Federal Agency,Bodenrode-Westhausen,TH
+vgleubatal.de,City,Non-Federal Agency,Kühdorf,TH
+vg-lichtetal.de,City,Non-Federal Agency,Lichte,TH
 vg-linz.de,City,Non-Federal Agency,Ockenfels,RP
-vgloreley.de,City,Non-Federal Agency,Reitzenhain,RP
+vgloreley.de,City,Non-Federal Agency,Lykershausen,RP
+vg-lpsr.de,City,Non-Federal Agency,Reichmannsdorf,TH
 vg-lw.de,City,Non-Federal Agency,Buborn,RP
 vg-maxdorf.de,City,Non-Federal Agency,Maxdorf,RP
-vg-mihla.de,City,Non-Federal Agency,Ebenshausen,TH
-vg-montabaur.de,City,Non-Federal Agency,Welschneudorf,RP
+vg-mihla.de,City,Non-Federal Agency,Bischofroda,TH
+vg-montabaur.de,City,Non-Federal Agency,Niedererbach,RP
+vgmzartern.de,City,Non-Federal Agency,Ringleben,TH
 vgnassau.de,City,Non-Federal Agency,Attenhausen,RP
-vgnassau.info,City,Non-Federal Agency,Obernhof,RP
-vgnastaetten.de,City,Non-Federal Agency,Kehlbach,RP
+vgnassau.info,City,Non-Federal Agency,Dienethal,RP
+vgnastaetten.de,City,Non-Federal Agency,Hunzel,RP
 vg-nesseaue.de,City,Non-Federal Agency,Pferdingsleben,TH
+vg-nieder-olm.de,City,Non-Federal Agency,Sörgenloch,RP
 vg-oberneuching.de,City,Non-Federal Agency,Neuching,BY
 vg-oberpoering.de,City,Non-Federal Agency,Wallerfing,BY
 vg-oberviechtach.de,City,Non-Federal Agency,Winklarn,BY
 vg-oppurg.de,City,Non-Federal Agency,Gertewitz,TH
-vg-otterbach.de,City,Non-Federal Agency,Katzweiler,RP
-vg-ranis-ziegenrueck.de,City,Non-Federal Agency,Schmorda,TH
+vg-otterbach.de,City,Non-Federal Agency,Hirschhorn/Pfalz,RP
+vg-ranis-ziegenrueck.de,City,Non-Federal Agency,Peuschen,TH
 vgrd.de,City,Non-Federal Agency,Harthausen,RP
 vg-reichling.de,City,Non-Federal Agency,Reichling,BY
-vg-rhaunen.de,City,Non-Federal Agency,Gösenroth,RP
+vg-rhaunen.de,City,Non-Federal Agency,Asbach,RP
 vg-rhein-selz.de,City,Non-Federal Agency,Dolgesheim,RP
 vg-riechheimer-berg.de,City,Non-Federal Agency,Witzleben,TH
 vgrn.de,City,Non-Federal Agency,Breitscheid,RP
 vg-rositz.de,City,Non-Federal Agency,Kriebitzsch,TH
-vg-ruedesheim.de,City,Non-Federal Agency,Sommerloch,RP
+vg-ruedesheim.de,City,Non-Federal Agency,Sankt Katharinen,RP
 vg-saarburg.de,City,Non-Federal Agency,Kastel-Staadt,RP
 vg-salzbruecke.de,City,Non-Federal Agency,Vachdorf,TH
 vg-salzwedel-land.de,City,Non-Federal Agency,Kuhfelde,ST
-vg-schlotheim.de,City,Non-Federal Agency,Schlotheim,TH
-vg-seenplatte.de,City,Non-Federal Agency,Pörmitz,TH
+vg-schlotheim.de,City,Non-Federal Agency,Neunheilingen,TH
+vg-seenplatte.de,City,Non-Federal Agency,Bucha,TH
 vg-selters.de,City,Non-Federal Agency,Weidenhahn,RP
 vg-speicher.de,City,Non-Federal Agency,Hosten,RP
-vg-straussfurt.de,City,Non-Federal Agency,Henschleben,TH
+vg-straussfurt.de,City,Non-Federal Agency,Haßleben,TH
 vg-suedliches-saaletal.de,City,Non-Federal Agency,Altenberga,TH
 vgthal.de,City,Non-Federal Agency,Höheischweiler,RP
 vg-thaleischweiler-froeschen.de,City,Non-Federal Agency,Petersberg,RP
+vg-thalfang.de,City,Non-Federal Agency,Immert,RP
 vgtt.de,City,Non-Federal Agency,Kinderbeuern,RP
 vgtw.de,City,Non-Federal Agency,Rieschweiler-Mühlbach,RP
 vg-uder.de,City,Non-Federal Agency,Eichstruth,TH
 vg-unstrut-hainich.de,City,Non-Federal Agency,Schönstedt,TH
 vgv-baumholder.de,City,Non-Federal Agency,Heimbach,RP
-vgv-daun.de,City,Non-Federal Agency,Bleckhausen,RP
+vgv-daun.de,City,Non-Federal Agency,Weidenbach,RP
 vgv-kelberg.de,City,Non-Federal Agency,Borler,RP
 vgvkh.de,City,Non-Federal Agency,Pfaffen-Schwabenheim,RP
 vgwaldfischbach-burgalben.de,City,Non-Federal Agency,Horbach,RP
-vg-wasungen.de,City,Non-Federal Agency,Oepfershausen,TH
+vg-wasungen.de,City,Non-Federal Agency,Unterkatz,TH
 vg-westerburg.de,City,Non-Federal Agency,Hergenroth,RP
-vg-wittlich-land.de,City,Non-Federal Agency,Heckenmünster,RP
+vg-wittlich-land.de,City,Non-Federal Agency,Binsfeld,RP
 vg-wonnegau.de,City,Non-Federal Agency,Frettenheim,RP
 vgwthurm.de,City,Non-Federal Agency,Sankt Sebastian,RP
-vgzwland.de,City,Non-Federal Agency,Dietrichingen,RP
+vgziemetshausen.de,City,Non-Federal Agency,Aichen,BY
+vgzwland.de,City,Non-Federal Agency,Bechhofen,RP
 viechtach.de,City,Non-Federal Agency,Viechtach,BY
 vielbach.de,City,Non-Federal Agency,Vielbach,RP
 vierden.de,City,Non-Federal Agency,Vierden,NI
@@ -7609,9 +7742,11 @@ viereth-trunstadt.de,City,Non-Federal Agency,Viereth-Trunstadt,BY
 vierherrenborn.de,City,Non-Federal Agency,Vierherrenborn,RP
 vierkirchen.com,City,Non-Federal Agency,Vierkirchen,SN
 vierkirchen.de,City,Non-Federal Agency,Vierkirchen,BY
-viernau.de,City,Non-Federal Agency,Viernau,TH
+vierlinden.org,City,Non-Federal Agency,Vierlinden,BB
+viernau.de,City,Non-Federal Agency,Unterschönau,TH
 viernheim.de,City,Non-Federal Agency,Viernheim,HE
 viersen.de,City,Non-Federal Agency,Viersen,NW
+vilgertshofen.de,City,Non-Federal Agency,Vilgertshofen,BY
 villenbach.de,City,Non-Federal Agency,Villenbach,BY
 villingendorf.de,City,Non-Federal Agency,Villingendorf,BW
 villingen-schwenningen.de,City,Non-Federal Agency,Villingen-Schwenningen,BW
@@ -7645,11 +7780,12 @@ volkenschwand.de,City,Non-Federal Agency,Volkenschwand,BY
 volkertshausen.de,City,Non-Federal Agency,Volkertshausen,BW
 volkesfeld.de,City,Non-Federal Agency,Volkesfeld,RP
 volkmarsen.de,City,Non-Federal Agency,Volkmarsen,HE
+vollersode.de,City,Non-Federal Agency,Vollersode,NI
 vollersroda.de,City,Non-Federal Agency,Vollersroda,TH
 vollmersbach.de,City,Non-Federal Agency,Vollmersbach,RP
 vollmershain.de,City,Non-Federal Agency,Vollmershain,TH
 voltlage.de,City,Non-Federal Agency,Voltlage,NI
-vordereifel.de,City,Non-Federal Agency,Anschau,RP
+vordereifel.de,City,Non-Federal Agency,Reudelsterz,RP
 vorderweidenthal.de,City,Non-Federal Agency,Vorderweidenthal,RP
 vordorf.de,City,Non-Federal Agency,Vordorf,NI
 vorharz.net,City,Non-Federal Agency,Wegeleben,ST
@@ -7756,7 +7892,7 @@ wallertheim.de,City,Non-Federal Agency,Wallertheim,RP
 wallgau.de,City,Non-Federal Agency,Wallgau,BY
 wallhalben.de,City,Non-Federal Agency,Hettenhausen,RP
 wallhausen.de,City,Non-Federal Agency,Wallhausen,RP
-wallmerod.de,City,Non-Federal Agency,Oberahr,RP
+wallmerod.de,City,Non-Federal Agency,Bilkheim,RP
 wallsbuell.de,City,Non-Federal Agency,Wallsbüll,SH
 walluf.de,City,Non-Federal Agency,Walluf,HE
 walpernhain.de,City,Non-Federal Agency,Walpernhain,TH
@@ -7788,6 +7924,7 @@ warmsen.de,City,Non-Federal Agency,Warmsen,NI
 warnau.de,City,Non-Federal Agency,Warnau,SH
 warngau.de,City,Non-Federal Agency,Warngau,BY
 warstein.de,City,Non-Federal Agency,Warstein,NW
+wartburgkreisonline.de,City,Non-Federal Agency,Empfertshausen,TH
 wartenberg.de,City,Non-Federal Agency,Wartenberg,BY
 warthausen.de,City,Non-Federal Agency,Warthausen,BW
 wartmannsroth.de,City,Non-Federal Agency,Wartmannsroth,BY
@@ -7847,12 +7984,13 @@ weihenzell.de,City,Non-Federal Agency,Weihenzell,BY
 weiherhammer.de,City,Non-Federal Agency,Weiherhammer,BY
 weikersheim.de,City,Non-Federal Agency,Weikersheim,BW
 weil-am-rhein.de,City,Non-Federal Agency,Weil am Rhein,BW
+weilar.de,City,Non-Federal Agency,Weilar,TH
 weilbach.de,City,Non-Federal Agency,Weilbach,BY
 weilburg.de,City,Non-Federal Agency,Weilburg,HE
 weil.de,City,Non-Federal Agency,Weil,BY
 weil-der-stadt.de,City,Non-Federal Agency,Weil der Stadt,BW
 weilen-udr.de,City,Non-Federal Agency,Weilen unter den Rinnen,BW
-weilerbach.de,City,Non-Federal Agency,Rodenbach,RP
+weilerbach.de,City,Non-Federal Agency,Kollweiler,RP
 weilerbach-pfalz.de,City,Non-Federal Agency,Weilerbach,RP
 weilerbeibingen.de,City,Non-Federal Agency,Weiler bei Bingen,RP
 weiler-eifel.de,City,Non-Federal Agency,Weiler,RP
@@ -7965,7 +8103,7 @@ wertingen.de,City,Non-Federal Agency,Wertingen,BY
 weselberg.de,City,Non-Federal Agency,Weselberg,RP
 wesel.de,City,Non-Federal Agency,Wesel,NW
 wesenberg-mecklenburg.de,City,Non-Federal Agency,Wesenberg,MV
-wesendorf.de,City,Non-Federal Agency,Wesendorf,NI
+wesendorf.de,City,Non-Federal Agency,Wahrenholz,NI
 wesselburenerkoog-ort.de,City,Non-Federal Agency,Wesselburenerkoog,SH
 wesselburen-online.de,City,Non-Federal Agency,Wesselburen,SH
 wesseling.de,City,Non-Federal Agency,Wesseling,NW
@@ -8008,7 +8146,7 @@ wiehl.de,City,Non-Federal Agency,Wiehl,NW
 wiek-ruegen.de,City,Non-Federal Agency,Wiek,MV
 wielenbach.de,City,Non-Federal Agency,Wielenbach,BY
 wiemersdorf.de,City,Non-Federal Agency,Wiemersdorf,SH
-wieratal.de,City,Non-Federal Agency,Jückelberg,TH
+wieratal.de,City,Non-Federal Agency,Ziegelheim,TH
 wiernsheim.de,City,Non-Federal Agency,Wiernsheim,BW
 wiershop.de,City,Non-Federal Agency,Wiershop,SH
 wiesau.de,City,Non-Federal Agency,Wiesau,BY
@@ -8026,6 +8164,7 @@ wiesenthal.info,City,Non-Federal Agency,Wiesenthal,TH
 wiesenthau.de,City,Non-Federal Agency,Wiesenthau,BY
 wiesentheid.de,City,Non-Federal Agency,Wiesentheid,BY
 wiesenttal.de,City,Non-Federal Agency,Wiesenttal,BY
+wieseth.de,City,Non-Federal Agency,Wieseth,BY
 wiesloch.de,City,Non-Federal Agency,Wiesloch,BW
 wiesmoor.de,City,Non-Federal Agency,Wiesmoor,NI
 wiesthal.de,City,Non-Federal Agency,Wiesthal,BY
@@ -8039,6 +8178,7 @@ wildau.de,City,Non-Federal Agency,Wildau,BB
 wildberg.de,City,Non-Federal Agency,Wildberg,BW
 wildeck.de,City,Non-Federal Agency,Wildeck,HE
 wildenberg.de,City,Non-Federal Agency,Wildenberg,BY
+wildenboerten.de,City,Non-Federal Agency,Wildenbörten,TH
 wildenfels.de,City,Non-Federal Agency,Wildenfels,SN
 wildeshausen.de,City,Non-Federal Agency,Wildeshausen,NI
 wildflecken.de,City,Non-Federal Agency,Wildflecken,BY
@@ -8084,12 +8224,14 @@ windsbach.de,City,Non-Federal Agency,Windsbach,BY
 wingst.de,City,Non-Federal Agency,Wingst,NI
 winhoering.de,City,Non-Federal Agency,Winhöring,BY
 winkelhaid.de,City,Non-Federal Agency,Winkelhaid,BY
+winkelsett.de,City,Non-Federal Agency,Winkelsett,NI
 winnenden.de,City,Non-Federal Agency,Winnenden,BW
 winnenww.de,City,Non-Federal Agency,Winnen,RP
 winnerath.de,City,Non-Federal Agency,Winnerath,RP
+winnigstedt.de,City,Non-Federal Agency,Winnigstedt,NI
 winningen.de,City,Non-Federal Agency,Winningen,RP
 winnweiler.de,City,Non-Federal Agency,Winnweiler,RP
-winnweiler-vg.de,City,Non-Federal Agency,Imsbach,RP
+winnweiler-vg.de,City,Non-Federal Agency,Sippersfeld,RP
 winsen-aller.de,City,Non-Federal Agency,Winsen,NI
 winsen.de,City,Non-Federal Agency,Winsen (Luhe),NI
 winsen-holstein.de,City,Non-Federal Agency,Winsen,SH
@@ -8114,13 +8256,13 @@ wirsberg.de,City,Non-Federal Agency,Wirsberg,BY
 wirschweiler.de,City,Non-Federal Agency,Wirschweiler,RP
 wisch-heidkate.de,City,Non-Federal Agency,Wisch,SH
 wismar.de,City,Non-Federal Agency,Wismar,MV
-wissen.eu,City,Non-Federal Agency,Katzwinkel,RP
+wissen.eu,City,Non-Federal Agency,Birken-Honigsessen,RP
 witsum-auf-foehr.de,City,Non-Federal Agency,Witsum,SH
 wittelshofen.de,City,Non-Federal Agency,Wittelshofen,BY
 wittenbeck.com,City,Non-Federal Agency,Wittenbeck,MV
 wittenberg.de,City,Non-Federal Agency,Lutherstadt Wittenberg,ST
 wittenberge.de,City,Non-Federal Agency,Wittenberge,BB
-wittenburg.de,City,Non-Federal Agency,Wittenburg,MV
+wittenburg.de,City,Non-Federal Agency,Wittendörp,MV
 witten.de,City,Non-Federal Agency,Witten,NW
 wittenfoerden.de,City,Non-Federal Agency,Wittenförden,MV
 witterda.de,City,Non-Federal Agency,Witterda,TH
@@ -8202,6 +8344,7 @@ wuenschendorf.de,City,Non-Federal Agency,Wünschendorf/Elster,TH
 wuerrich-hunsrueck.de,City,Non-Federal Agency,Würrich,RP
 wuerselen.de,City,Non-Federal Agency,Würselen,NW
 wuerzburg.de,City,Non-Federal Agency,Würzburg,BY
+wulfsen.de,City,Non-Federal Agency,Wulfsen,NI
 wulkenzin.de,City,Non-Federal Agency,Wulkenzin,MV
 wunsiedel.de,City,Non-Federal Agency,Wunsiedel,BY
 wunstorf.de,City,Non-Federal Agency,Wunstorf,NI

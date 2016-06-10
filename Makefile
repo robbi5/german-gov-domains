@@ -22,7 +22,7 @@ data/source/bundde.csv:
 data/source/wikidata.csv:
 	ruby wikidata-cities.rb | sort -d -f -t',' -k1,1 -u > $@
 
-data/domains.csv: data/domains.federal.csv data/domains.city.csv
+data/domains.csv: data/domains.federal.csv data/domains.cities.csv
 	echo ${HEADER} > $@
 	tail -q -n +2 $+ | sed '/^$$/d' >> $@
 
@@ -32,7 +32,7 @@ data/domains.federal.csv: ${FEDERAL_SOURCES}
 	grep -h -v '^#' $+ | LC_ALL=C sort -d -f -t',' -k1,1 --unique data/source/overrides.csv.tmp - | python punycode.py | sed 's/,/,Federal Agency,/; s/$$/,,/' >> $@
 	rm data/source/overrides.csv.tmp
 
-data/domains.city.csv: data/source/wikidata.csv
+data/domains.cities.csv: data/source/wikidata.csv
 	echo ${HEADER} > $@
 	grep -h -v '^#' $+ | python punycode.py | sed 's/,/,City,Non-Federal Agency,/' >> $@
 
