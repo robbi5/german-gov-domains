@@ -16,29 +16,16 @@ PREFIX p: <http://www.wikidata.org/prop/>
 PREFIX ps: <http://www.wikidata.org/prop/statement/>
 PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
 
-SELECT ?website ?name ?state
+SELECT DISTINCT ?website ?name ?state
 WHERE
 {
   ?q p:P31 ?statement .
   ?statement ps:P31/wdt:P279* wd:Q262166 .
-  FILTER NOT EXISTS { ?statement pq:P582 ?x } .  # Without already gone entries (end date)
-  FILTER NOT EXISTS { ?statement pq:P576 ?x } .  # Without already gone entries (dissolved)
+  MINUS { ?statement pq:P582|pq:P576 ?x } .  # Without already gone entries (end date or dissolved)
   ?q wdt:P856 ?website .
   ?q rdfs:label ?name filter (lang(?name) = "de") .
-
-  {
-    ?q wdt:P131 ?qstate .
-    ?qstate wdt:P31 wd:Q1221156 .
-  } UNION {
-    ?q wdt:P131/wdt:P131 ?qstate .
-    ?qstate wdt:P31 wd:Q1221156 .
-  } UNION {
-    ?q wdt:P131/wdt:P131/wdt:P131 ?qstate .
-    ?qstate wdt:P31 wd:Q1221156 .
-  } UNION {
-    ?q wdt:P131/wdt:P131/wdt:P131/wdt:P131 ?qstate .
-    ?qstate wdt:P31 wd:Q1221156 .
-  }
+  ?q wdt:P131* ?qstate .
+  ?qstate wdt:P31 wd:Q1221156 .
   ?qstate wdt:P300 ?state .
 }
 EOQ
