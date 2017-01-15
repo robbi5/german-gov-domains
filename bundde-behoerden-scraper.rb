@@ -16,7 +16,7 @@ URL = "https://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641496&c
 @mech = Mechanize.new
 
 def clean_domain(domain)
-  domain.downcase.gsub(/^www./, '')
+  domain.downcase.gsub(/^https?:\/\//, '').gsub(/^www./, '')
 end
 
 def scrape_page(page)
