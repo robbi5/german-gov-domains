@@ -1,20 +1,17 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
 import sys
-reload(sys)  
-sys.setdefaultencoding('utf8')
 
 for line in sys.stdin:
-	domaininfos=line.strip().split(",")
+	domaininfos = line.strip().split(",")
 
 	try:
-		erg=domaininfos[0].decode('utf-8') # check if ascii or utf8.. it will fail if it is ascii
-		domain=unicode(domaininfos[0])
-		encodeddomain=domain.encode("idna")
-		domaininfos[0]=encodeddomain
-		print ",".join(domaininfos)
+		domain = domaininfos[0]
+		encodeddomain = domain.encode("idna")
+		domaininfos[0] = encodeddomain.decode("UTF-8")
+		print(",".join(domaininfos))
 	except UnicodeError:
-		# after fail just print it 
-		print line
+		# after fail just print it
+		print(line)
 
