@@ -8,7 +8,9 @@ CATEGORIES = [
   'mittlerebundesbehoerde',
   'verfassungsorgan',
   'bundesgericht',
-  'oberebundesbehoerde'
+  'oberebundesbehoerde',
+  'rechtsfaehige_anstaltdesoeffentlichenrechts',
+  'nichtrechtsfaehigeanstaltdesoeffentlichenrechts',
 ]
 
 URL = "https://www.bund.de/Content/DE/Behoerden/Suche/Formular.html?nn=4641496&cl2Categories_Einordnung=#{CATEGORIES.join('+')}&resultsPerPage=100"
