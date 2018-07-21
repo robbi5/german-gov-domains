@@ -29,12 +29,12 @@ data/domains.csv: data/domains.federal.csv data/domains.cities.csv
 data/domains.federal.csv: ${FEDERAL_SOURCES}
 	echo ${HEADER} > $@
 	LC_ALL=C sed '1d' data/source/overrides.csv > data/source/overrides.csv.tmp
-	grep -h -v '^#' $+ | LC_ALL=C sort -d -f -t',' -k1,1 --unique data/source/overrides.csv.tmp - | python punycode.py | sed 's/,/,Federal Agency,/; s/$$/,,/' >> $@
+	grep -h -v '^#' $+ | LC_ALL=C sort -d -f -t',' -k1,1 --unique data/source/overrides.csv.tmp - | python3 punycode.py | sed 's/,/,Federal Agency,/; s/$$/,,/' >> $@
 	rm data/source/overrides.csv.tmp
 
 data/domains.cities.csv: data/source/wikidata.csv
 	echo ${HEADER} > $@
-	grep -h -v '^#' $+ | python punycode.py | sed 's/,/,City,Non-Federal Agency,/' >> $@
+	grep -h -v '^#' $+ | python3 punycode.py | sed 's/,/,City,Non-Federal Agency,/' >> $@
 
 clean-sources:
 	rm -f data/source/bundde.csv
