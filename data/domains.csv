@@ -221,6 +221,11 @@ bundesversicherungsamt.de,Federal Agency,Bundesversicherungsamt,,
 bundesverwaltungsamt.de,Federal Agency,Bundesverwaltungsamt,,
 bundesverwaltungsgericht.de,Federal Agency,Bundesverwaltungsgericht,,
 bundeswahlleiter.de,Federal Agency,Der Bundeswahlleiter,,
+bundeswehrkrankenhaus-berlin.de,Federal Agency,Bundeswehrkrankenhaus Berlin,,
+bundeswehrkrankenhaus-hamburg.de,Federal Agency,Bundeswehrkrankenhaus-Hamburg,,
+bundeswehrkrankenhaus-koblenz.de,Federal Agency,Bundeswehrzentralkrankenhaus Koblenz,,
+bundeswehrkrankenhaus-ulm.de,Federal Agency,Bundeswehrkrankenhaus Ulm,,
+bundeswehrkrankenhaus-westerstede.de,Federal Agency,Bundeswehrkrankenhaus Westerstede,,
 bund.online,Federal Agency,Bundesverwaltungsamt,,
 bund.services,Federal Agency,Bundesverwaltungsamt,,
 bva.bund.de,Federal Agency,Bundesverwaltungsamt,,
@@ -546,6 +551,7 @@ rentenpaket.de,Federal Agency,Bundesministerium für Arbeit und Soziales,,
 rentenreformpaket.de,Federal Agency,Bundesministerium für Arbeit und Soziales,,
 rki.de,Federal Agency,Robert Koch-Institut,,
 rth-offenbach.eu,Federal Agency,Deutscher Wetterdienst,,
+sanitaetsdienst-bundeswehr.de,Federal Agency,Kommando Regionale sanitätsdienstliche Unterstützung,,
 seewis.de,Federal Agency,Deutscher Wetterdienst,,
 seewis.eu,Federal Agency,Deutscher Wetterdienst,,
 segelflugwetter.de,Federal Agency,Deutscher Wetterdienst,,
@@ -1185,7 +1191,7 @@ bad-liebenstein.de,City,Non-Federal Agency,Bad Liebenstein,TH
 badliebenwerda.de,City,Non-Federal Agency,Bad Liebenwerda,BB
 bad-liebenzell.de,City,Non-Federal Agency,Bad Liebenzell,BW
 bad-lippspringe.de,City,Non-Federal Agency,Bad Lippspringe,NW
-badmarienberg.de,City,Non-Federal Agency,Bad Marienberg,RP
+bad-marienberg.de,City,Non-Federal Agency,Unnau,RP
 bad-mergentheim.de,City,Non-Federal Agency,Bad Mergentheim,BW
 bad-muender.de,City,Non-Federal Agency,Bad Münder am Deister,NI
 bad-muenstereifel.de,City,Non-Federal Agency,Bad Münstereifel,NW
@@ -4162,8 +4168,8 @@ hohenau.de,City,Non-Federal Agency,Hohenau,BY
 hohenbrunn.de,City,Non-Federal Agency,Hohenbrunn,BY
 hohenburg.de,City,Non-Federal Agency,Hohenburg,BY
 hohendubrau.org,City,Non-Federal Agency,Hohendubrau,SN
+hohenfelde.de,City,Non-Federal Agency,Hohenfelde,SH
 hohenfelden.de,City,Non-Federal Agency,Hohenfelden,TH
-hohenfelde-ostsee.de,City,Non-Federal Agency,Hohenfelde,SH
 hohenfels.de,City,Non-Federal Agency,Hohenfels,BW
 hohenfels-essingen.de,City,Non-Federal Agency,Hohenfels-Essingen,RP
 hohenfurch.de,City,Non-Federal Agency,Hohenfurch,BY
