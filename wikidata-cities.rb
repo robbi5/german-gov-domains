@@ -40,20 +40,20 @@ def strip_iso3166_2_country(str)
   str.split('-', 2).last
 end
 
-uri = URI('https://query.wikidata.org/bigdata/namespace/wdq/sparql')
+uri = URI('https://query.wikidata.org/sparql')
 uri.query = URI.encode_www_form(
   query: QUERY,
   format: 'json'
 )
 
-response = uri.read
-
-if response.status.first.to_i != 200
-  puts "# Got error: #{response.status}"
+begin
+  response = open(uri, 'User-Agent' => "ruby/#{RUBY_VERSION} german-gov-domains/1")
+rescue OpenURI::HTTPError => e
+  STDERR.puts "# Got error: #{e.message}"
   exit 1
 end
 
-data = JSON.parse(response)
+data = JSON.parse(response.read)
 
 data['results']['bindings'].each do |row|
   website = row['website']['value']
