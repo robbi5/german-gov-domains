@@ -14,6 +14,7 @@ FEDERAL_SOURCES = \
 	data/source/ifg-bmas.csv \
 	data/source/ifg-bt.csv \
 	data/source/ifg-bva.csv \
+	data/source/kmk.csv \
 	data/source/bmf.csv
 
 data/source/bundde.csv:
